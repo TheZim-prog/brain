@@ -1,5 +1,6 @@
 // Hidato : placer les nombres de 1 à N pour que chaque nombre touche le suivant.
 // Trois plateaux : hexagonal (6 voisines), carré par les côtés (Numbrix), carré avec diagonales (8 voisines).
+import { shuffle } from '../../lib/random'
 
 export type Shape = 'hexagone' | 'carre' | 'diagonales'
 export type Difficulty = 'facile' | 'moyen' | 'difficile'
@@ -221,7 +222,7 @@ export function generate(shape: Shape, size: SizeId, difficulty: Difficulty, rng
   const given = [...solution]
   const target = Math.round(N * DIFFICULTIES.find((d) => d.id === difficulty)!.shown)
   let shown = N
-  const order = Array.from({ length: N }, (_, i) => i).sort(() => rng() - 0.5)
+  const order = shuffle([...Array(N).keys()], rng)
   for (const cell of order) {
     if (shown <= target) break
     const v = given[cell]

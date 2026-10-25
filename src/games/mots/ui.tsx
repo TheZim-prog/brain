@@ -1,10 +1,10 @@
 // Morceaux d'interface communs aux jeux de grille à mots.
 import { useEffect, useState, type Dispatch } from 'react'
 import { formatTime } from '../../lib/format'
-import { load, save } from '../../lib/storage'
-import { runWorker } from '../../lib/worker'
-import type { GridAction } from './state'
-import { LEVELS, type Level, type WordClue } from './types'
+import { load, remove, save } from '../../lib/storage'
+import { runWorker, useCancellable } from '../../lib/worker'
+import { newGame, type GridAction, type GridState } from './state'
+import { LEVELS, type Level, type WordClue, type WordPuzzle } from './types'
 import type { GenerateRequest } from './worker'
 
 const KEYBOARD = ['AZERTYUIOP', 'QSDFGHJKLM', 'WXCVBN']
@@ -29,9 +29,19 @@ export function GridPicker<S extends string>(props: {
   loading: boolean
   error: string | null
   levels?: { id: Level; label: string; detail: string }[]
+  /** Titre de la section des niveaux. */
+  levelsTitle?: string
 }) {
   const levels = props.levels ?? LEVELS
-  const [prefs, setPrefs] = useState<GridPrefs<S>>(() => load<GridPrefs<S>>(props.prefsKey) ?? { size: props.sizes[0].id, level: 'facile' })
+  const levelsTitle = props.levelsTitle ?? 'Définitions'
+  const [prefs, setPrefs] = useState<GridPrefs<S>>(() => {
+    // Des préférences enregistrées peuvent viser une taille ou un niveau qui n'existe plus.
+    const saved = load<GridPrefs<S>>(props.prefsKey)
+    return {
+      size: props.sizes.some((s) => s.id === saved?.size) ? saved!.size : props.sizes[0].id,
+      level: levels.some((l) => l.id === saved?.level) ? saved!.level : levels[0].id,
+    }
+  })
   const update = (p: Partial<GridPrefs<S>>) => {
     const next = { ...prefs, ...p }
     setPrefs(next)
@@ -58,8 +68,8 @@ export function GridPicker<S extends string>(props: {
         ))}
       </div>
 
-      <h2 className="label">Définitions</h2>
-      <div className="segmented two" role="radiogroup" aria-label="Définitions">
+      <h2 className="label">{levelsTitle}</h2>
+      <div className="segmented two" role="radiogroup" aria-label={levelsTitle}>
         {levels.map((l) => (
           <button key={l.id} role="radio" aria-checked={prefs.level === l.id} className={prefs.level === l.id ? 'on' : undefined} onClick={() => update({ level: l.id })}>
             {l.label}
@@ -74,6 +84,45 @@ export function GridPicker<S extends string>(props: {
       {props.error && <p className="error">{props.error}</p>}
     </main>
   )
+}
+
+/**
+ * Cycle de vie commun aux jeux de grille générée : reprise de la partie sauvegardée, lancement de la génération
+ * (annulée si on relance ou quitte la page), message d'erreur, abandon.
+ */
+export function useGeneratedGame<P extends WordPuzzle, S extends string>(
+  saveKey: string,
+  request: (prefs: GridPrefs<S>, signal: AbortSignal) => Promise<P>,
+) {
+  const [game, setGame] = useState(() => {
+    const saved = load<GridState<P>>(saveKey)
+    return saved && !saved.completed ? { id: 0, state: saved } : null
+  })
+  const [loading, setLoading] = useState(false)
+  const [error, setError] = useState<string | null>(null)
+  const nextSignal = useCancellable()
+
+  const start = (prefs: GridPrefs<S>) => {
+    const signal = nextSignal()
+    setLoading(true)
+    setError(null)
+    request(prefs, signal)
+      .then((puzzle) => setGame((g) => ({ id: (g?.id ?? 0) + 1, state: newGame(puzzle) })))
+      .catch(() => signal.aborted || setError('La grille n’a pas pu être préparée. Réessaie !'))
+      .finally(() => signal.aborted || setLoading(false))
+  }
+
+  const quit = () => {
+    remove(saveKey)
+    setGame(null)
+  }
+
+  return { game, loading, error, start, quit }
+}
+
+/** « Moyenne · Facile » ; reste lisible même si une partie sauvegardée vise une taille ou un niveau disparu. */
+export function gameLabel(sizes: { id: string; label: string }[], levels: { id: string; label: string }[], puzzle: { size: string; level: string }) {
+  return [sizes.find((s) => s.id === puzzle.size)?.label, levels.find((l) => l.id === puzzle.level)?.label].filter(Boolean).join(' · ')
 }
 
 /** Saisie au clavier physique : lettres (ou chiffres), effacement, flèches. */

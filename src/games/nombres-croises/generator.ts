@@ -1,4 +1,6 @@
-import type { Level } from '../mots/types'
+import { shuffle } from '../../lib/random'
+import type { CrossClue } from '../mots-croises/config'
+import type { Level, WordPuzzle } from '../mots/types'
 import { propertiesOf, type Property } from './properties'
 
 export type SizeId = 'petite' | 'moyenne' | 'grande'
@@ -25,32 +27,9 @@ const MAX_LAYOUT_ATTEMPTS = 1000
 const MAX_GRID_ATTEMPTS = 200
 const BLACK_RATIO = 0.18
 
-export interface NumberClue {
-  dir: 'h' | 'v'
-  /** Ligne (horizontal) ou colonne (vertical), à partir de 0. */
-  line: number
-  text: string
-  cells: number[]
-  answer: string
-}
-
-export interface NumberCross {
-  width: number
-  height: number
-  /** Chiffre attendu dans chaque case, null pour une case noire. */
-  solution: (string | null)[]
-  clues: NumberClue[]
+/** Même forme qu'une grille de mots croisés : le plateau CrossBoard sert aux deux jeux. */
+export interface NumberCross extends WordPuzzle<CrossClue> {
   size: SizeId
-  level: Level
-}
-
-function shuffle<T>(items: T[], rng: () => number) {
-  const a = [...items]
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(rng() * (i + 1))
-    ;[a[i], a[j]] = [a[j], a[i]]
-  }
-  return a
 }
 
 interface Slot {
@@ -106,44 +85,62 @@ function layout(W: number, H: number, rng: () => number): boolean[] {
   throw new Error('Impossible de placer les cases noires')
 }
 
-const range = (k: number) => Array.from({ length: 9 * 10 ** (k - 1) }, (_, i) => 10 ** (k - 1) + i)
+/** Tous les nombres de k chiffres (calculés une fois par longueur). */
+const ranges = new Map<number, number[]>()
+function range(k: number) {
+  let r = ranges.get(k)
+  if (!r) ranges.set(k, (r = Array.from({ length: 9 * 10 ** (k - 1) }, (_, i) => 10 ** (k - 1) + i)))
+  return r
+}
 
 /**
- * Compte les solutions (jusqu'à 2) en choisissant d'abord le nombre qui a le moins de candidats compatibles
- * avec les chiffres déjà posés. Renvoie les solutions trouvées, ou null si la recherche dépasse le budget.
+ * Compte les solutions (jusqu'à 2). On place d'abord le nombre qui a le moins de candidats, et chaque placement
+ * réduit aussitôt les candidats des nombres qui le croisent (« forward checking ») au lieu de tout rescanner.
+ * Renvoie les solutions trouvées (un nombre par emplacement), ou null si la recherche dépasse le budget.
  */
-function solve(W: number, H: number, slots: Slot[], domains: string[][], budget = 300_000): string[][] | null {
-  const digits: string[] = Array(W * H).fill('')
+function solve(slots: Slot[], domains: string[][], budget = 300_000): string[][] | null {
+  // Pour chaque emplacement : [emplacement croisé, position du chiffre commun ici, position là-bas].
+  const crossings: [number, number, number][][] = slots.map(() => [])
+  const owners = new Map<number, [number, number][]>()
+  slots.forEach((slot, s) => slot.cells.forEach((cell, k) => owners.set(cell, [...(owners.get(cell) ?? []), [s, k]])))
+  for (const list of owners.values())
+    if (list.length === 2) {
+      const [[a, ka], [b, kb]] = list
+      crossings[a].push([b, ka, kb])
+      crossings[b].push([a, kb, ka])
+    }
+
+  const candidates = [...domains]
   const assigned = new Uint8Array(slots.length)
+  const value: string[] = Array(slots.length)
   const found: string[][] = []
   let steps = 0
-
-  const compatible = (s: number) =>
-    domains[s].filter((v) => slots[s].cells.every((cell, k) => !digits[cell] || digits[cell] === v[k]))
 
   const rec = (): boolean => {
     if (++steps > budget) return true
     let best = -1
-    let bestOptions: string[] = []
-    for (let s = 0; s < slots.length; s++) {
-      if (assigned[s]) continue
-      const options = compatible(s)
-      if (!options.length) return false
-      if (best === -1 || options.length < bestOptions.length) {
-        best = s
-        bestOptions = options
-      }
-    }
+    for (let s = 0; s < slots.length; s++)
+      if (!assigned[s] && (best === -1 || candidates[s].length < candidates[best].length)) best = s
     if (best === -1) {
-      found.push(slots.map((s) => s.cells.map((c) => digits[c]).join('')))
+      found.push([...value])
       return found.length >= 2
     }
     assigned[best] = 1
-    for (const v of bestOptions) {
-      const previous = slots[best].cells.map((c) => digits[c])
-      slots[best].cells.forEach((c, k) => (digits[c] = v[k]))
-      const stop = rec()
-      slots[best].cells.forEach((c, k) => (digits[c] = previous[k]))
+    for (const v of candidates[best]) {
+      const saved: [number, string[]][] = []
+      let possible = true
+      for (const [t, here, there] of crossings[best]) {
+        if (assigned[t]) continue
+        saved.push([t, candidates[t]])
+        candidates[t] = candidates[t].filter((c) => c[there] === v[here])
+        if (!candidates[t].length) {
+          possible = false
+          break
+        }
+      }
+      value[best] = v
+      const stop = possible && rec()
+      for (const [t, previous] of saved) candidates[t] = previous
       if (stop) {
         assigned[best] = 0
         return true
@@ -201,7 +198,7 @@ export function generate(size: SizeId, level: Level, rng: () => number = Math.ra
     // Tant que plusieurs solutions existent, on précise un nombre qui diffère entre elles.
     let ok = false
     for (let round = 0; round < 40; round++) {
-      const found = solve(W, H, slots, domains.map((d) => d.map(String)))
+      const found = solve(slots, domains.map((d) => d.map(String)))
       if (found && found.length === 1) {
         ok = true
         break
@@ -221,7 +218,7 @@ export function generate(size: SizeId, level: Level, rng: () => number = Math.ra
     }
     if (!ok) continue
 
-    const clues: NumberClue[] = slots
+    const clues: CrossClue[] = slots
       .map((slot, s) => ({ ...slot, text: joinClues(chosen[s].map((p) => p.text)), answer: String(values[s]) }))
       .sort((a, b) => Number(a.dir === 'v') - Number(b.dir === 'v') || a.line - b.line || a.cells[0] - b.cells[0])
     return { width: W, height: H, solution, clues, size, level }

@@ -1,3 +1,4 @@
+import { shuffle } from '../../lib/random'
 import { normalize } from '../../lib/text'
 import { THEMES, type Theme } from './themes'
 
@@ -43,14 +44,6 @@ const ATTEMPTS = 300
 // Fréquence approximative des lettres en français, pour le remplissage de secours.
 const FILLER = 'EEEEEEEEEEEEEEESSSSSSSSAAAAAAAAIIIIIIIITTTTTTTNNNNNNNRRRRRRRUUUUUUULLLLLOOOOODDDCCCPPPMMMVVQFBGHJXYZK'
 
-function shuffle<T>(items: T[], rng: () => number): T[] {
-  const a = [...items]
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(rng() * (i + 1))
-    ;[a[i], a[j]] = [a[j], a[i]]
-  }
-  return a
-}
 
 /** Deux mots dont l'un contient l'autre (CHAT / CHATON) rendraient la recherche ambiguë. */
 const overlaps = (a: string, b: string) => a.includes(b) || b.includes(a)

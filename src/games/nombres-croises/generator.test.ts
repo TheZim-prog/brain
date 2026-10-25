@@ -1,4 +1,5 @@
 import { describe, expect, it } from 'vitest'
+import { seededRandom } from '../../lib/random'
 import { generate, LEVELS, SIZES, type NumberCross } from './generator'
 import { propertiesOf } from './properties'
 
@@ -33,9 +34,22 @@ describe('propriétés', () => {
     expect(texts).toContain('Somme des chiffres : 9')
     expect(texts).not.toContain('Nombre premier')
   })
+
   it('chaque propriété est vraie pour son nombre', () => {
     for (const n of [11, 97, 121, 1000, 2357, 13579, 98765, 44444])
       for (const p of propertiesOf(n)) expect(p.test(n)).toBe(true)
+  })
+
+  it('les tests rapides donnent les mêmes résultats que la définition naïve', () => {
+    const p = Object.fromEntries(propertiesOf(13579).map((x) => [x.text, x.test]))
+    expect(p['Chiffres croissants'](12349)).toBe(true)
+    expect(p['Chiffres croissants'](12339)).toBe(false)
+    expect(p['Tous les chiffres sont impairs'](13571)).toBe(true)
+    expect(p['Tous les chiffres sont impairs'](13570)).toBe(false)
+    expect(p['Commence par 1'](19999)).toBe(true)
+    expect(p['Commence par 1'](29999)).toBe(false)
+    expect(propertiesOf(4444).find((x) => x.text === 'Un seul chiffre répété')!.test(7777)).toBe(true)
+    expect(propertiesOf(98765).find((x) => x.text === 'Chiffres décroissants')!.test(98766)).toBe(false)
   })
 })
 
@@ -44,9 +58,14 @@ describe('générateur de nombres croisés', () => {
     expect(() => generate('petite', 'facile', Math.random, 0)).toThrow('Impossible')
   })
 
+  // Graines fixes : un échec se rejoue à l'identique.
   for (const { id: size } of SIZES)
     for (const { id: level } of LEVELS)
-      it(`${size} · ${level} : grille valide`, () => {
-        for (let n = 0; n < 3; n++) check(generate(size, level))
+      it(`${size} · ${level} : grilles valides`, () => {
+        for (const seed of [1, 2, 3]) check(generate(size, level, seededRandom(seed * 1000 + size.length * 10 + level.length)))
       })
+
+  it('la même graine donne la même grille', () => {
+    expect(generate('moyenne', 'facile', seededRandom(42))).toEqual(generate('moyenne', 'facile', seededRandom(42)))
+  })
 })

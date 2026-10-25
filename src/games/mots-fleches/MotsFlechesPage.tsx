@@ -1,11 +1,10 @@
-import { useCallback, useEffect, useReducer, useState } from 'react'
+import { useCallback, useEffect, useReducer } from 'react'
 import { formatTime } from '../../lib/format'
-import { load, remove, save } from '../../lib/storage'
+import { save } from '../../lib/storage'
 import { useTicker } from '../../lib/useTicker'
-import { useCancellable } from '../../lib/worker'
-import { activeClue, gridReducer, newGame, type GridState } from '../mots/state'
+import { activeClue, gridReducer, type GridState } from '../mots/state'
 import { LEVELS } from '../mots/types'
-import { ClueBar, GridPicker, GridTools, Keyboard, requestPuzzle, useGridKeyboard, Victory, type GridPrefs } from '../mots/ui'
+import { ClueBar, gameLabel, GridPicker, GridTools, Keyboard, requestPuzzle, useGeneratedGame, useGridKeyboard, Victory } from '../mots/ui'
 import { SIZES, type Arrow, type ArrowWords, type SizeId } from './config'
 
 const SAVE_KEY = 'brain:mots-fleches:current'
@@ -13,28 +12,9 @@ const SAVE_KEY = 'brain:mots-fleches:current'
 type State = GridState<ArrowWords>
 
 export default function MotsFlechesPage() {
-  const [game, setGame] = useState(() => {
-    const saved = load<State>(SAVE_KEY)
-    return saved && !saved.completed ? { id: 0, state: saved } : null
-  })
-  const [loading, setLoading] = useState(false)
-  const [error, setError] = useState<string | null>(null)
-  const nextSignal = useCancellable()
-
-  const start = ({ size, level }: GridPrefs<SizeId>) => {
-    const signal = nextSignal()
-    setLoading(true)
-    setError(null)
-    requestPuzzle<ArrowWords>({ game: 'fleches', size, level }, signal)
-      .then((puzzle) => setGame((g) => ({ id: (g?.id ?? 0) + 1, state: newGame(puzzle) })))
-      .catch(() => signal.aborted || setError('La grille n’a pas pu être préparée. Réessaie !'))
-      .finally(() => signal.aborted || setLoading(false))
-  }
-
-  const quit = () => {
-    remove(SAVE_KEY)
-    setGame(null)
-  }
+  const { game, loading, error, start, quit } = useGeneratedGame<ArrowWords, SizeId>(SAVE_KEY, ({ size, level }, signal) =>
+    requestPuzzle<ArrowWords>({ game: 'fleches', size, level }, signal),
+  )
 
   if (!game) return <GridPicker title="Mots fléchés" prefsKey="brain:mots-fleches:prefs" sizes={SIZES} onStart={start} loading={loading} error={error} />
   return <Board key={game.id} initial={game.state} onNewGame={quit} />
@@ -76,8 +56,6 @@ function Board({ initial, onNewGame }: { initial: State; onNewGame: () => void }
   const activeCells = new Set(active === -1 ? [] : clues[active].cells)
   const errors = new Set(s.errors)
   const revealed = new Set(s.revealed)
-  const sizeLabel = SIZES.find((x) => x.id === puzzle.size)!.label
-  const levelLabel = LEVELS.find((x) => x.id === puzzle.level)!.label
 
   useEffect(() => save(SAVE_KEY, s), [s])
   useTicker(!s.completed, useCallback(() => dispatch({ type: 'tick' }), []))
@@ -107,9 +85,7 @@ function Board({ initial, onNewGame }: { initial: State; onNewGame: () => void }
       </header>
 
       <div className="stats">
-        <span>
-          {sizeLabel} · {levelLabel}
-        </span>
+        <span>{gameLabel(SIZES, LEVELS, puzzle)}</span>
         <span className="timer">{formatTime(s.elapsed)}</span>
       </div>
 
