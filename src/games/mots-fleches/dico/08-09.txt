@@ -1,0 +1,364 @@
+# mot|définition facile|définition difficile
+pourquoi|Pour quelle raison|Question d'enfant
+vraiment|Réellement|Sincèrement
+toujours|Sans cesse|Éternellement
+personne|Individu|Nul
+beaucoup|En quantité|Énormément
+monsieur|Homme|Titre de civilité
+problème|Difficulté|Exercice de maths
+ensemble|Groupe|Tous à la fois
+question|Interrogation|Sujet
+histoire|Récit|Passé
+dernière|Ultime|Finale
+chercher|Rechercher|Fouiller
+première|Initiale|Gala d'ouverture
+nouvelle|Information|Récit court
+possible|Faisable|Réalisable
+demander|Questionner|Réclamer
+affaires|Commerce|Objets personnels
+meilleur|Supérieur|Optimal
+sécurité|Protection|Sûreté
+derrière|Après|Postérieur
+attendre|Patienter|Espérer
+regarder|Observer|Contempler
+entendre|Ouïr|Comprendre
+commence|Débute|Entame
+mauvaise|Méchante|Pas bonne
+accident|Collision|Imprévu
+ailleurs|Autre part|D'___ : du reste
+protéger|Défendre|Abriter
+utiliser|Employer|Se servir de
+contrôle|Vérification|Maîtrise
+rappelle|Remémore|Téléphone de nouveau
+habitude|Coutume|Routine
+surprise|Étonnement|Cadeau inattendu
+pourtant|Cependant|Néanmoins
+relation|Lien|Rapport
+décision|Choix|Résolution
+déjeuner|Repas de midi|Petit ___
+vaisseau|Navire|Veine
+coupable|Fautif|Responsable
+prochain|Suivant|Autrui
+amoureux|Épris|Soupirant
+répondre|Répliquer|Riposter
+horrible|Affreux|Atroce
+vérifier|Contrôler|Inspecter
+enceinte|Qui attend un bébé|Haut-parleur
+terrible|Effroyable|Formidable
+position|Place|Opinion
+empêcher|Interdire|Entraver
+deuxième|Second|Suivant le premier
+ridicule|Grotesque|Risible
+conduire|Piloter|Mener
+souvenir|Mémoire|Bibelot de voyage
+quartier|Secteur|Morceau
+occasion|Opportunité|Bonne affaire
+discuter|Débattre|Bavarder
+remettre|Replacer|Reporter
+vacances|Congés|Repos estival
+détruire|Démolir|Anéantir
+officier|Gradé|Célébrer
+solution|Réponse|Mélange liquide
+pression|Poussée|Demi de bière
+portable|Téléphone mobile|Transportable
+préparer|Apprêter|Organiser
+victimes|Martyrs|Proies
+arranger|Ordonner|Convenir
+accepter|Admettre|Agréer
+nouveaux|Récents|Neufs
+carrière|Profession|Lieu d'extraction
+veuillez|Ayez la bonté de|Formule de politesse
+attraper|Saisir|Capturer
+français|De France|Langue de Molière
+présence|Existence|Assiduité
+discours|Allocution|Laïus
+raconter|Narrer|Relater
+tribunal|Cour|Palais de justice
+campagne|Zone rurale|Opération électorale
+appareil|Machine|Avion
+imbécile|Idiot|Crétin
+gentille|Aimable|Douce
+parfaite|Impeccable|Idéale
+ministre|Membre du gouvernement|Haut fonctionnaire
+vendredi|Jour de la semaine|Compagnon de Robinson
+voitures|Automobiles|Wagons
+apporter|Amener|Fournir
+échapper|Fuir|S'évader
+partager|Diviser|Répartir
+recevoir|Accueillir|Toucher
+prévenir|Avertir|Éviter
+explique|Éclaircit|Commente
+retraite|Fin de carrière|Repli
+étranger|Inconnu|Pays lointain
+bâtiment|Édifice|Immeuble
+émission|Programme télé|Rejet
+nettoyer|Laver|Récurer
+dimanche|Jour de repos|Fin de semaine
+agréable|Plaisant|Charmant
+bataille|Combat|Jeu de cartes
+mensonge|Bobard|Tromperie
+victoire|Triomphe|Succès
+interdit|Défendu|Stupéfait
+pantalon|Jean|Culotte longue
+aéroport|Aérogare|Piste d'avions
+innocent|Non coupable|Naïf
+milliers|Grandes quantités|Mille et plus
+oreilles|Organes de l'ouïe|Pavillons
+défendre|Protéger|Interdire
+immeuble|Bâtiment|Édifice
+ancienne|Vieille|Ex-
+assassin|Meurtrier|Tueur
+commande|Ordre|Achat
+charmant|Séduisant|Prince ___
+chocolat|Cacao|Friandise brune
+survivre|Rester en vie|Subsister
+policier|Agent|Roman à énigme
+spéciale|Particulière|Bizarre
+violence|Brutalité|Force
+distance|Écart|Éloignement
+exploser|Éclater|Sauter
+montagne|Mont|Sommet
+lunettes|Verres correcteurs|Binocles
+journaux|Quotidiens|Presse
+attaquer|Agresser|Assaillir
+pistolet|Revolver|Arme de poing
+respirer|Inspirer|Souffler
+physique|Corporel|Science de la matière
+souvenez|Du verbe se souvenir|Rappelez
+puissant|Fort|Influent
+criminel|Délinquant|Coupable
+résoudre|Solutionner|Régler
+résultat|Conséquence|Score
+souffrir|Endurer|Avoir mal
+promesse|Serment|Engagement
+sorcière|Magicienne|Fée maléfique
+chouette|Rapace nocturne|Super !
+peinture|Couleur|Tableau
+poitrine|Torse|Buste
+aventure|Péripétie|Liaison
+uniforme|Tenue réglementaire|Régulier
+champion|Vainqueur|Défenseur
+matériel|Équipement|Concret
+humanité|Genre humain|Bonté
+boutique|Magasin|Échoppe
+incendie|Feu|Sinistre
+conseils|Avis|Recommandations
+messages|Missives|Communications
+morceaux|Bouts|Fragments
+réaliser|Accomplir|Comprendre
+médecine|Art de soigner|Science médicale
+véhicule|Voiture|Moyen de transport
+pratique|Commode|Exercice
+ceinture|Taille|Sangle
+étonnant|Surprenant|Stupéfiant
+sandwich|Casse-croûte|Pain garni
+incident|Accroc|Péripétie
+annoncer|Proclamer|Prédire
+alliance|Bague de mariage|Coalition
+créature|Être|Monstre
+clinique|Hôpital privé|Médical
+produits|Articles|Marchandises
+jugement|Verdict|Discernement
+courrier|Lettres|Facteur
+japonais|De Tokyo|Langue nippone
+avantage|Atout|Bénéfice
+lumières|Éclairages|Savoir
+chiffres|Nombres|Statistiques
+patience|Calme|Jeu de cartes
+poissons|Animaux aquatiques|Signe du zodiaque
+attitude|Comportement|Posture
+football|Ballon rond|Sport collectif
+empereur|Souverain|Napoléon
+fantômes|Revenants|Spectres
+critique|Censeur|Grave
+terminer|Finir|Achever
+sensible|Délicat|Émotif
+magazine|Revue|Périodique
+étudiant|Élève|Universitaire
+allemand|De Berlin|Langue de Goethe
+camarade|Copain|Compagnon
+jeunesse|Adolescence|Jeunes
+original|Inédit|Excentrique
+activité|Occupation|Mouvement
+éternité|Infini|Toujours
+poubelle|Corbeille|Ordures
+autorité|Pouvoir|Commandement
+mercredi|Jour des enfants|Milieu de semaine
+efficace|Performant|Utile
+ennuyeux|Lassant|Fastidieux
+commerce|Négoce|Boutique
+fenêtres|Croisées|Ouvertures
+religion|Croyance|Culte
+chasseur|Traqueur|Avion de combat
+escalier|Marches|Degrés
+généreux|Prodigue|Large
+officiel|Public|Formel
+cuisiner|Préparer à manger|Interroger
+portrait|Tableau de visage|Description
+désastre|Catastrophe|Fiasco
+tatouage|Dessin sur la peau|Encrage
+tendance|Mode|Inclination
+batterie|Accumulateur|Percussions
+écrivain|Auteur|Romancier
+complice|Associé|Acolyte
+héritage|Legs|Succession
+ténèbres|Obscurité|Nuit noire
+scandale|Esclandre|Affaire
+capacité|Aptitude|Contenance
+chapitre|Partie de livre|Section
+principe|Règle|Fondement
+couronne|Diadème|Monnaie nordique
+médaille|Décoration|Breloque
+guerrier|Combattant|Soldat
+magicien|Sorcier|Illusionniste
+festival|Fête|Manifestation culturelle
+fabuleux|Formidable|Légendaire
+bracelet|Bijou du poignet|Jonc
+assiette|Plat|Équilibre
+capitale|Chef-lieu|Majuscule
+novembre|Mois d'automne|Onzième mois
+punition|Sanction|Châtiment
+solitude|Isolement|Retraite
+aiguille|Tige de couture|Pic montagneux
+économie|Épargne|Science des richesses
+dentiste|Arracheur de dents|Soigne les caries
+création|Invention|Œuvre
+réussite|Succès|Victoire
+illusion|Chimère|Mirage
+désordre|Pagaille|Fouillis
+décembre|Mois de Noël|Dernier mois
+longueur|Étendue|Durée
+cachette|Planque|Refuge
+insectes|Fourmis et abeilles|Bestioles
+garantie|Caution|Assurance
+élection|Vote|Scrutin
+boissons|Breuvages|Rafraîchissements
+biscuits|Gâteaux secs|Petits-beurre
+cheville|Articulation du pied|Pièce d'assemblage
+barbecue|Grill|Repas en plein air
+chantier|Travaux|Désordre
+cocktail|Mélange|Réception
+oreiller|Coussin|Traversin
+tonnerre|Grondement d'orage|Du ___ : génial
+académie|École|Assemblée de savants
+standard|Ordinaire|Standardiste
+fracture|Os cassé|Cassure
+seulement|Uniquement|Mais
+longtemps|Durablement|Pendant des années
+attention|Vigilance|Gare !
+tellement|Si|Tant
+confiance|Foi|Assurance
+téléphone|Appareil d'appel|Portable
+important|Considérable|Majeur
+capitaine|Chef d'équipe|Commandant de navire
+personnes|Gens|Individus
+difficile|Ardu|Exigeant
+président|Chef d'État|Dirigeant
+commencer|Débuter|Entamer
+intérieur|Dedans|Domicile
+messieurs|Hommes|Mesdames et ___
+apprendre|Étudier|Enseigner
+retrouver|Récupérer|Rejoindre
+situation|Position|Emploi
+plusieurs|Quelques|Divers
+continuer|Poursuivre|Persévérer
+recherche|Quête|Enquête
+doucement|Lentement|Calmement
+connaître|Savoir|Fréquenter
+dangereux|Risqué|Périlleux
+compagnie|Société|Troupe
+différent|Distinct|Autre
+découvert|Révélé|Solde négatif
+directeur|Chef|Patron
+toilettes|WC|Lavabos
+vêtements|Habits|Fringues
+programme|Plan|Logiciel
+spectacle|Représentation|Show
+découvrir|Trouver|Dévoiler
+réfléchir|Penser|Renvoyer la lumière
+politique|Gouvernement|Stratégie
+contraire|Opposé|Inverse
+excellent|Parfait|Remarquable
+direction|Sens|Gestion
+troisième|Après le deuxième|Classe de collège
+intention|Dessein|Volonté
+procureur|Magistrat|Accusateur public
+princesse|Fille de roi|Altesse
+bouteille|Flacon|Récipient à vin
+justement|Précisément|À juste titre
+reprendre|Récupérer|Recommencer
+souvenirs|Mémoire|Bibelots de voyage
+également|Aussi|Pareillement
+extérieur|Dehors|Externe
+naissance|Venue au monde|Origine
+embrasser|Donner un baiser|Étreindre
+sentiment|Émotion|Impression
+désormais|Dorénavant|À l'avenir
+militaire|Soldat|De l'armée
+atteindre|Parvenir|Toucher
+récemment|Dernièrement|Il y a peu
+véritable|Vrai|Authentique
+mouvement|Geste|Déplacement
+puissance|Force|Pouvoir
+explosion|Détonation|Déflagration
+principal|Essentiel|Directeur d'école
+cardiaque|Du cœur|Malade du cœur
+chauffeur|Conducteur|Pilote
+délicieux|Savoureux|Exquis
+ambulance|Véhicule sanitaire|Sirène des urgences
+traverser|Franchir|Passer
+cependant|Pourtant|Néanmoins
+champagne|Vin pétillant|Bulles de fête
+lendemain|Jour suivant|Avenir
+cauchemar|Mauvais rêve|Hantise
+propriété|Domaine|Bien
+ascenseur|Monte-charge|Élévateur
+pardonner|Excuser|Absoudre
+frontière|Limite|Douane
+cérémonie|Fête|Rite
+remplacer|Substituer|Suppléer
+vengeance|Revanche|Représailles
+technique|Méthode|Savoir-faire
+existence|Vie|Réalité
+cigarette|Clope|Tige à fumer
+courageux|Brave|Vaillant
+condition|Clause|État
+poussière|Saleté|Grain fin
+printemps|Saison des fleurs|Renouveau
+éducation|Instruction|Politesse
+ordinaire|Habituel|Commun
+signature|Paraphe|Griffe
+populaire|Apprécié|Du peuple
+influence|Ascendant|Emprise
+promotion|Avancement|Solde
+autrefois|Jadis|Naguère
+formation|Apprentissage|Ensemble
+plastique|Matière synthétique|Esthétique
+cimetière|Nécropole|Champ des morts
+septembre|Mois de la rentrée|Neuvième mois
+tradition|Coutume|Usage
+stratégie|Tactique|Plan
+sacrifice|Renoncement|Offrande
+chevalier|Noble cavalier|Preux
+invisible|Imperceptible|Caché
+sensation|Impression|Effet
+essentiel|Primordial|Capital
+satellite|Lune|Engin en orbite
+transport|Acheminement|Enthousiasme
+autoroute|Voie rapide|Route à péage
+enveloppe|Pli|Budget
+ingénieur|Technicien|Inventeur
+équilibre|Stabilité|Aplomb
+curiosité|Indiscrétion|Rareté
+naturelle|Spontanée|Innée
+fermeture|Clôture|Zip
+splendide|Magnifique|Superbe
+promenade|Balade|Flânerie
+merveille|Prodige|Chef-d'œuvre
+structure|Charpente|Organisation
+baignoire|Bain|Cuve de salle de bains
+moustache|Poils de la lèvre|Bacchantes
+tristesse|Chagrin|Mélancolie
+orchestre|Ensemble musical|Fosse
+évolution|Progression|Changement
+vaisselle|Assiettes|Plonge

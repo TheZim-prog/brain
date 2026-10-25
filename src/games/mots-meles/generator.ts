@@ -1,4 +1,5 @@
-import { normalize, THEMES, type Theme } from './themes'
+import { normalize } from '../../lib/text'
+import { THEMES, type Theme } from './themes'
 
 export type Difficulty = 'facile' | 'moyen' | 'difficile'
 

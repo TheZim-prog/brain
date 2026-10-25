@@ -108,12 +108,3 @@ export const THEMES: Theme[] = [
     ],
   },
 ]
-
-/** « Pot-au-feu » → « POTAUFEU » : majuscules, sans accents ni ponctuation. */
-export function normalize(word: string) {
-  return word
-    .normalize('NFD')
-    .replace(/œ/gi, 'oe')
-    .replace(/[^a-zA-Z]/g, '')
-    .toUpperCase()
-}

@@ -15,7 +15,12 @@ export const GAMES: GameEntry[] = [
     description: 'Des grilles générées à l’infini, du niveau facile à expert.',
     component: lazy(() => import('./sudoku/SudokuPage')),
   },
-  { id: 'mots-fleches', name: 'Mots fléchés', description: 'Les définitions dans la grille, comme en kiosque.' },
+  {
+    id: 'mots-fleches',
+    name: 'Mots fléchés',
+    description: 'Les définitions dans la grille, comme en kiosque.',
+    component: lazy(() => import('./mots-fleches/MotsFlechesPage')),
+  },
   { id: 'mots-croises', name: 'Mots croisés', description: 'Horizontalement, verticalement…' },
   {
     id: 'mots-meles',

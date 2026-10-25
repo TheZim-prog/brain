@@ -1,0 +1,434 @@
+# mot|définition facile|définition difficile
+comment|De quelle manière|Pardon ?
+quelque|Un certain|Environ
+prendre|Saisir|Attraper
+bonjour|Salutation|Salut du matin
+regarde|Observe|Contemple
+trouver|Découvrir|Dénicher
+famille|Parenté|Clan
+travail|Emploi|Labeur
+voiture|Automobile|Wagon
+enfants|Gamins|Descendants
+pendant|Durant|Boucle d'oreille
+combien|Quelle quantité|À quel prix
+nouveau|Neuf|Récent
+importe|Peu ___|Compte
+demande|Requête|Sollicite
+laisser|Abandonner|Permettre
+compris|Saisi|Inclus
+affaire|Marché|Dossier judiciaire
+endroit|Lieu|Côté pile
+pouvoir|Puissance|Être capable
+premier|Initial|Leader
+minutes|Soixantaines de secondes|Comptes rendus
+arrêter|Stopper|Appréhender
+chambre|Pièce pour dormir|Assemblée
+appeler|Nommer|Téléphoner
+semaine|Sept jours|Période hebdomadaire
+journée|Jour|Durée du jour
+arriver|Parvenir|Survenir
+presque|Quasiment|À peu près
+mariage|Union|Noces
+parents|Père et mère|Proches
+dernier|Ultime|Final
+bientôt|Prochainement|Sous peu
+parfait|Impeccable|Dessert glacé
+instant|Moment|Seconde
+essayer|Tenter|Goûter
+mauvais|Méchant|Pas bon
+rentrer|Revenir|Retourner
+parfois|De temps en temps|Quelquefois
+changer|Modifier|Transformer
+plaisir|Joie|Agrément
+heureux|Content|Chanceux
+ensuite|Puis|Après
+service|Aide|Vaisselle
+bizarre|Étrange|Curieux
+cherche|Recherche|Fouille
+montrer|Indiquer|Exhiber
+musique|Art des sons|Mélodie
+courant|Fréquent|Électricité
+hôpital|Centre de soins|Clinique
+meurtre|Assassinat|Homicide
+sérieux|Grave|Appliqué
+seconde|Instant|Classe de lycée
+suppose|Imagine|Présume
+partout|En tous lieux|Ici et là
+surtout|Principalement|Avant tout
+rapport|Compte rendu|Relation
+message|Missive|Communication
+revenir|Retourner|Rentrer
+devenir|Évoluer|Avenir
+souvent|Fréquemment|Régulièrement
+honneur|Dignité|Gloire
+bonsoir|Salut du soir|Salutation nocturne
+content|Heureux|Satisfait
+acheter|Acquérir|Payer
+occuper|Remplir|Envahir
+général|Commun|Haut gradé
+cheveux|Chevelure|Tignasse
+déteste|Hait|Exècre
+disparu|Absent|Mort
+victime|Martyr|Proie
+système|Méthode|Organisation
+médecin|Docteur|Toubib
+stupide|Bête|Idiot
+imagine|Conçoit|Invente
+terminé|Fini|Achevé
+mission|Tâche|Objectif
+présent|Cadeau|Actuel
+réponse|Solution|Riposte
+lumière|Clarté|Génie
+marcher|Avancer|Fonctionner
+envoyer|Expédier|Lancer
+vouloir|Désirer|Bonne volonté
+vieille|Âgée|Ancienne
+arrière|Dos|Derrière
+arrivée|Venue|Ligne d'___
+quitter|Partir|Abandonner
+conseil|Avis|Assemblée
+attaque|Assaut|Offensive
+enquête|Investigation|Sondage
+oublier|Omettre|Négliger
+écouter|Entendre|Obéir
+travers|Défaut|De ___ : en biais
+dossier|Classeur|Haut du siège
+coucher|Aller au lit|Fin du jour
+cuisine|Art culinaire|Pièce des fourneaux
+chanson|Air|Refrain
+certain|Sûr|Assuré
+manière|Façon|Méthode
+étrange|Bizarre|Insolite
+capable|Apte|Compétent
+emmener|Conduire|Accompagner
+préfère|Aime mieux|Choisit
+cerveau|Organe de la pensée|Génie
+réunion|Assemblée|Rencontre
+intérêt|Attention|Profit
+silence|Calme|Mutisme
+garçons|Fils|Serveurs
+adresse|Domicile|Habileté
+journal|Quotidien|Carnet intime
+contact|Toucher|Relation
+preuves|Indices|Démonstrations
+exemple|Modèle|Illustration
+dommage|Préjudice|Quel ___ !
+colonel|Officier supérieur|Grade militaire
+ramener|Rapporter|Raccompagner
+justice|Équité|Tribunaux
+secours|Aide|Assistance
+environ|À peu près|Presque
+inutile|Vain|Superflu
+liberté|Indépendance|Autonomie
+anglais|De Londres|Langue de Shakespeare
+obtenir|Recevoir|Décrocher
+spécial|Particulier|Bizarre
+défense|Protection|Ivoire d'éléphant
+excuser|Pardonner|Disculper
+magasin|Boutique|Commerce
+douleur|Mal|Souffrance
+asseoir|Installer|Poser
+fenêtre|Croisée|Ouverture
+terrain|Sol|Parcelle
+sergent|Sous-officier|Gradé
+planète|Astre|Terre
+lorsque|Quand|Au moment où
+assurer|Garantir|Affirmer
+clients|Acheteurs|Habitués
+machine|Appareil|Engin
+honnête|Loyal|Intègre
+village|Hameau|Bourg
+réalité|Vérité|Fait
+respect|Considération|Égards
+choisir|Sélectionner|Élire
+monstre|Créature effrayante|Énorme
+énergie|Force|Vigueur
+chanter|Fredonner|Vocaliser
+enlever|Retirer|Kidnapper
+épouser|Se marier avec|Adopter
+suspect|Douteux|Prévenu
+patient|Malade|Calme
+urgence|Nécessité pressante|Service hospitalier
+tourner|Pivoter|Filmer
+toucher|Palper|Sens tactile
+mémoire|Souvenir|Rapport écrit
+contrat|Accord|Engagement
+couteau|Lame|Ustensile tranchant
+courage|Bravoure|Vaillance
+bonheur|Joie|Félicité
+blanche|Couleur de neige|Note de musique
+secrets|Mystères|Confidences
+marrant|Drôle|Amusant
+raisons|Motifs|Causes
+maladie|Affection|Mal
+excuses|Pardons|Prétextes
+pleurer|Sangloter|Verser des larmes
+animaux|Bêtes|Faune
+soldats|Militaires|Troupiers
+couleur|Teinte|Nuance
+frapper|Taper|Cogner
+détails|Précisions|Minuties
+papiers|Documents|Feuilles
+sourire|Rictus joyeux|Risette
+costume|Habit|Complet
+moindre|Plus petit|Inférieur
+superbe|Magnifique|Orgueil
+morceau|Bout|Fragment
+lettres|Courriers|Littérature
+compter|Calculer|Dénombrer
+majesté|Grandeur|Titre royal
+méchant|Vilain|Cruel
+décider|Trancher|Résoudre
+détruit|Démoli|Anéanti
+produit|Article|Résultat
+réparer|Arranger|Rafistoler
+chapeau|Couvre-chef|Introduction d'article
+échange|Troc|Commerce
+vitesse|Rapidité|Allure
+raconte|Narre|Relate
+accepté|Admis|Reçu
+surpris|Étonné|Pris sur le fait
+article|Objet|Texte de journal
+attendu|Prévu|Patienté
+suivant|Prochain|D'après
+univers|Cosmos|Monde
+amusant|Drôle|Divertissant
+fantôme|Revenant|Spectre
+ouverte|Pas fermée|Franche
+manquer|Rater|Faire défaut
+chevaux|Équidés|Montures
+fatigué|Las|Épuisé
+billets|Tickets|Coupures
+paradis|Éden|Ciel
+ennemis|Adversaires|Rivaux
+volonté|Désir|Détermination
+joindre|Unir|Contacter
+proches|Voisins|Parents
+nerveux|Agité|Tendu
+reposer|Se détendre|Replacer
+théorie|Hypothèse|Doctrine
+humaine|Mortelle|Compatissante
+témoins|Spectateurs|Observateurs
+retirer|Enlever|Ôter
+aveugle|Non-voyant|Inconscient
+station|Arrêt|Lieu de vacances
+célèbre|Connu|Fameux
+étoiles|Astres|Vedettes
+chemise|Vêtement à boutons|Pochette
+entière|Complète|Totale
+sommeil|Repos|Dodo
+cellule|Cachot|Unité du vivant
+évident|Clair|Manifeste
+théâtre|Scène|Comédie
+rivière|Cours d'eau|Collier de diamants
+logique|Raisonnable|Cohérent
+miracle|Prodige|Merveille
+divorce|Séparation|Rupture
+fortune|Richesse|Sort
+tableau|Peinture|Toile
+cabinet|Bureau|Ministère
+normale|Habituelle|Ordinaire
+annonce|Avis|Publicité
+pousser|Bousculer|Croître
+prudent|Précautionneux|Sage
+concert|Spectacle musical|Ensemble
+dessous|En bas|Lingerie
+souffle|Respiration|Haleine
+château|Palais|Forteresse
+avancer|Progresser|Prêter
+maisons|Habitations|Demeures
+voisins|Proches|Riverains
+liquide|Fluide|Argent comptant
+artiste|Créateur|Peintre
+paroles|Mots|Texte de chanson
+période|Époque|Phase
+fromage|Camembert|Produit laitier
+essence|Carburant|Nature profonde
+chaleur|Température élevée|Ardeur
+oiseaux|Volatiles|Moineaux
+gardien|Surveillant|Goal
+menteur|Mythomane|Trompeur
+piscine|Bassin|Lieu de baignade
+magique|Merveilleux|Surnaturel
+enfance|Jeunesse|Bas âge
+science|Savoir|Connaissance
+attente|Patience|Espérance
+étudier|Apprendre|Analyser
+opinion|Avis|Point de vue
+complet|Plein|Costume
+couloir|Corridor|Passage
+horreur|Effroi|Abomination
+manteau|Pardessus|Couche
+fiancée|Promise|Future épouse
+surface|Superficie|Aire
+curieux|Indiscret|Étrange
+répéter|Redire|S'entraîner
+parking|Stationnement|Garage
+réussir|Gagner|Accomplir
+liaison|Lien|Relation amoureuse
+origine|Source|Commencement
+tempête|Ouragan|Orage
+affreux|Horrible|Laid
+inconnu|Étranger|Mystérieux
+inventé|Créé|Imaginé
+panique|Peur|Affolement
+afrique|Continent|Sahara et savane
+nourrir|Alimenter|Entretenir
+salaire|Paie|Rémunération
+profond|Creux|Intense
+malheur|Infortune|Drame
+royaume|Monarchie|Pays d'un roi
+naturel|Spontané|Inné
+collier|Bijou de cou|Collerette
+placard|Armoire|Affiche
+associé|Partenaire|Lié
+monnaie|Argent|Pièces
+passion|Amour|Engouement
+analyse|Étude|Examen
+mystère|Énigme|Secret
+qualité|Valeur|Vertu
+dispute|Querelle|Bisbille
+remplir|Combler|Compléter
+épreuve|Examen|Test
+vampire|Suceur de sang|Dracula
+domaine|Propriété|Spécialité
+serpent|Reptile|Vipère
+sauvage|Farouche|Non domestiqué
+maximum|Plafond|Au plus
+ajouter|Additionner|Compléter
+séparer|Diviser|Isoler
+bonbons|Friandises|Sucreries
+légende|Mythe|Explication d'image
+refuser|Décliner|Rejeter
+balance|Bascule|Signe du zodiaque
+bagarre|Rixe|Échauffourée
+plateau|Haute plaine|Décor de tournage
+traître|Félon|Judas
+employé|Salarié|Utilisé
+injuste|Inéquitable|Abusif
+échelle|Escabeau|Proportion
+comédie|Pièce drôle|Simulation
+accueil|Réception|Hospitalité
+absurde|Insensé|Illogique
+langage|Langue|Parler
+hauteur|Altitude|Élévation
+culture|Savoir|Agriculture
+pierres|Cailloux|Roches
+actrice|Comédienne|Vedette
+oxygène|Gaz vital|Air pur
+matinée|Matin|Spectacle de l'après-midi
+gagnant|Vainqueur|Lauréat
+violent|Brutal|Intense
+serment|Promesse|Engagement
+adjoint|Assistant|Second
+diplôme|Titre|Parchemin
+ignorer|Méconnaître|Snober
+gratuit|Sans frais|Infondé
+lecture|Action de lire|Interprétation
+esclave|Serf|Dépendant
+guitare|Instrument à cordes|Six cordes
+grandir|Pousser|Mûrir
+boisson|Breuvage|Rafraîchissement
+appétit|Faim|Envie
+drapeau|Étendard|Bannière
+méthode|Procédé|Technique
+italien|De Rome|Langue de Dante
+rupture|Séparation|Cassure
+torture|Supplice|Tourment
+creuser|Bêcher|Approfondir
+cravate|Accessoire de col|Nœud
+effacer|Gommer|Supprimer
+brigade|Escouade|Unité de police
+collège|Établissement scolaire|Assemblée
+poumons|Organes respiratoires|Bronches
+moderne|Actuel|Récent
+pétrole|Or noir|Hydrocarbure
+sincère|Franc|Honnête
+mélange|Mixture|Cocktail
+immense|Gigantesque|Énorme
+juillet|Mois d'été|Mois de la fête nationale
+panneau|Pancarte|Écriteau
+serveur|Garçon de café|Ordinateur central
+vendeur|Commerçant|Marchand
+cendres|Restes du feu|Mercredi des ___
+aimable|Gentil|Courtois
+symbole|Emblème|Signe
+endormi|Assoupi|Engourdi
+branche|Rameau|Spécialité
+chagrin|Peine|Tristesse
+réduire|Diminuer|Abaisser
+allumer|Éclairer|Enflammer
+octobre|Mois d'automne|Dixième mois
+colline|Butte|Mont
+facture|Note|Addition
+établir|Fonder|Instaurer
+plantes|Végétaux|Semelles du pied
+suprême|Ultime|Souverain
+décrire|Dépeindre|Raconter
+vaincre|Battre|Triompher
+valises|Bagages|Malles
+bureaux|Agences|Meubles de travail
+sagesse|Raison|Prudence
+fragile|Délicat|Cassant
+atelier|Fabrique|Studio d'artiste
+massage|Friction|Pétrissage
+chariot|Caddie|Charrette
+légumes|Carottes et poireaux|Végétaux comestibles
+plafond|Haut de pièce|Limite maximale
+citoyen|Habitant|Électeur
+muscles|Biceps|Force
+horloge|Pendule|Grande montre
+colonne|Pilier|Rubrique
+peindre|Badigeonner|Représenter
+marteau|Outil à frapper|Fou
+diamant|Pierre précieuse|Pointe de tourne-disque
+antenne|Organe d'insecte|Relais radio
+formule|Expression|Recette
+recette|Mode de préparation|Gain
+flammes|Feux|Passions
+douceur|Tendresse|Bonbon
+glisser|Patiner|Déraper
+bougies|Chandelles|Pièces de moteur
+émotion|Sentiment|Trouble
+fraîche|Froide|Récente
+inverse|Contraire|Opposé
+portail|Grande porte|Site d'accueil web
+planche|Latte|Dessin
+sorcier|Magicien|Enchanteur
+terreur|Épouvante|Effroi
+janvier|Premier mois|Mois des soldes d'hiver
+galerie|Couloir|Musée
+cristal|Verre fin|Minéral transparent
+concept|Idée|Notion
+circuit|Parcours|Réseau électrique
+tournoi|Compétition|Joute
+éternel|Infini|Immortel
+extrême|Excessif|Ultime
+galaxie|Voie lactée|Amas d'étoiles
+chemins|Sentiers|Routes
+arnaque|Escroquerie|Piège
+pénible|Difficile|Ennuyeux
+amateur|Non professionnel|Passionné
+solaire|Du soleil|Énergie renouvelable
+maillot|Tenue de sport|Tenue de bain
+chiffre|Nombre|Montant
+hommage|Honneur|Respect
+fardeau|Charge|Poids
+abricot|Fruit orange|Fruit à noyau
+ananas|Fruit tropical|Fruit à couronne
+autruche|Grand oiseau|Elle cache sa tête
+baleine|Grand cétacé|Tige de parapluie
+cerises|Fruits rouges|Le temps des ___
+dauphin|Mammifère marin|Héritier du trône
+écureuil|Rongeur roux|Il amasse des noisettes
+fraises|Fruits rouges|Ramenez vos ___
+girafe|Animal au long cou|Perche à micro
+hibou|Rapace nocturne|Oiseau de nuit
+kangourou|Marsupial|Il saute en Australie
+oignon|Bulbe qui fait pleurer|Grosse montre ancienne
+papillon|Insecte aux ailes colorées|Nœud ___
+perroquet|Oiseau qui parle|Répète bêtement
+poisson|Animal aquatique|Il est d'avril
+renard|Animal rusé|Goupil
+sanglier|Porc sauvage|Gibier des bois
+tortue|Reptile à carapace|Lente

@@ -1,4 +1,4 @@
-import { normalize } from './themes'
+import { normalize } from '../../lib/text'
 import type { WordSearch } from './generator'
 
 export interface MotsMelesState {
