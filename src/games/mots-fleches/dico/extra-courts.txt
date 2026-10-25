@@ -1,0 +1,432 @@
+# Complément : mots de 2 à 5 lettres
+if|Conifère toxique|Arbre des cimetières
+us|___ et coutumes|Usages anciens
+na|Interjection boudeuse|Et ___ !
+hé|Pour appeler|___ ho !
+ado|Adolescent|Jeune en pleine crise
+eus|Possédas|Tu ___ de la chance
+web|Toile mondiale|Internet
+via|En passant par|Par
+nés|Venus au monde|Natifs
+ouf|Soupir de soulagement|Enfin !
+spa|Bain à remous|Centre de bien-être
+bio|Sans pesticides|Biologique, en bref
+onu|Nations unies|Organisation de New York
+duo|Paire d'artistes|Morceau à deux voix
+ohé|Pour héler|___ du bateau !
+fax|Télécopie|Ancêtre du courriel
+rap|Musique urbaine|Hip-hop
+rdv|Rendez-vous, en bref|Rencard en abrégé
+etc|Et ainsi de suite|Et cetera, en bref
+fus|Je ___ surpris|Passé simple d'être
+lux|Unité d'éclairement|Luxe, en latin
+tac|Bruit sec|Répondre du ___ au ___
+ire|Colère|Courroux
+lia|Attacha|Unit
+lin|Plante textile|Tissu d'été
+nia|Contesta|Démentit
+osa|Se risqua|Eut l'audace
+ota|Retira|Enleva
+sas|Passage étanche|Tamis
+suc|Jus|Sève
+erg|Désert de dunes|Mer de sable
+api|Pomme d'___|Petite pomme rouge
+bru|Belle-fille|Épouse du fils
+oïl|Langue du Nord|Oui d'autrefois
+ost|Armée féodale|Troupe du seigneur
+ure|Aurochs|Bœuf sauvage disparu
+ive|Plante des prés|Ivette
+ciao|Au revoir|Salut italien
+solo|Seul|Morceau pour un musicien
+airs|Mélodies|Allures
+œuf|Il est pondu|Coque à la coque
+fins|Termes|Délicats
+môme|Gamin|Mioche
+papy|Grand-père|Pépé
+char|Blindé|Voiture de carnaval
+tais|Garde le silence|___-toi !
+boom|Explosion|Essor
+vœu|Souhait|Promesse solennelle
+prit|Saisit|Attrapa
+coca|Plante andine|Soda brun
+fuis|Je m'échappe|___ !
+yoga|Discipline indienne|Postures et respiration
+ados|Adolescents|Jeunes
+papi|Grand-père|Pépé
+cuba|Île des Caraïbes|La Havane en est la capitale
+nues|Nuages|Dévêtues
+abus|Excès|Exploitation
+scan|Numérisation|Image médicale
+duel|Combat à deux|Face-à-face
+mile|Mesure anglaise|1 609 mètres
+béni|Consacré|Chanceux
+âgée|Vieille|D'un certain âge
+soûl|Ivre|Rassasié
+sida|Maladie virale|Syndrome d'immunodéficience
+futé|Malin|Rusé
+dîne|Mange le soir|Soupe
+noyé|Submergé|Perdu
+mini|Tout petit|Jupe courte
+ciné|Cinéma, en bref|Salle obscure
+nerf|Fibre sensible|Vigueur
+gala|Soirée de prestige|Réception
+haïr|Détester|Exécrer
+gelé|Glacé|Figé par le froid
+toux|Irritation de la gorge|Quinte
+têtu|Entêté|Obstiné
+ordi|Ordinateur, en bref|PC
+yens|Monnaie japonaise|Billets de Tokyo
+mule|Hybride de l'âne et de la jument|Pantoufle
+tait|Garde pour soi|Ne dit rien
+asie|Continent|Chine et Inde
+flou|Pas net|Imprécis
+cire|Matière d'abeille|Fait briller
+crue|Montée des eaux|Pas cuite
+blog|Journal en ligne|Carnet web
+jeep|Véhicule tout-terrain|4x4 militaire
+clin|___ d'œil|Battement de paupière
+bouc|Mâle de la chèvre|Barbiche
+buté|Obstiné|Tué, en argot
+surf|Glisse sur les vagues|Navigation web
+paru|Publié|Sorti
+pieu|Poteau pointu|Lit, en argot
+pôle|Nord ou Sud|Centre d'attraction
+iran|Pays de Téhéran|Ancienne Perse
+delà|Au-___ : plus loin|Par-___
+polo|Sport à cheval|Chemise à col
+raid|Attaque éclair|Expédition
+aveu|Confession|Déclaration
+turc|D'Istanbul|Bain de vapeur
+expo|Exposition, en bref|Salon
+cédé|Vendu|Abandonné
+cale|Fond du navire|Coin de bois
+punk|Rebelle à crête|Rock des années 70
+doré|Couleur d'or|Bronzé
+soja|Légumineuse|Sauce asiatique
+clip|Vidéo musicale|Pince
+brin|Fil|Petit morceau
+logo|Emblème de marque|Sigle
+poux|Parasites des cheveux|Bestioles de la tête
+holà|Doucement !|Mettre le ___
+tsar|Empereur russe|Souverain absolu
+topo|Exposé|Résumé
+obus|Projectile|Bombe d'artillerie
+tata|Tante|Tantine
+mémo|Note|Pense-bête
+bêta|Lettre grecque|Nigaud
+déni|Refus|Négation
+bave|Salive|Coule de la bouche
+vexé|Froissé|Offensé
+vint|Arriva|Survint
+déco|Décoration|Aménagement
+bide|Échec|Ventre, familièrement
+sofa|Canapé|Divan
+étui|Fourreau|Boîte de protection
+saga|Épopée|Longue histoire
+émoi|Trouble|Agitation
+taon|Grosse mouche|Insecte piqueur
+lice|Arène|Entrer en ___
+ruer|Lancer les sabots|Se ___ : se précipiter
+aria|Air d'opéra|Mélodie
+brio|Virtuosité|Éclat
+crin|Poil de cheval|À tout ___ : à fond
+dard|Aiguillon|Pique d'abeille
+écot|Quote-part|Payer son ___
+ibis|Échassier sacré|Oiseau d'Égypte
+ides|___ de mars|Milieu du mois romain
+imam|Guide religieux|Chef de prière
+itou|Aussi|De même
+lino|Revêtement de sol|Linoléum
+moka|Café|Gâteau à la crème
+naja|Cobra|Serpent venimeux
+ogre|Géant mangeur d'enfants|Gros mangeur
+opus|Œuvre|Morceau numéroté
+oral|Examen parlé|De la bouche
+sari|Vêtement indien|Drapé coloré
+silo|Réservoir à grain|Abri à missiles
+sumo|Lutte japonaise|Lutteur poids lourd
+tank|Char d'assaut|Blindé
+thym|Herbe de Provence|Farigoule
+tipi|Tente indienne|Abri conique
+tofu|Pâté de soja|Fromage végétal
+tutu|Jupe de danseuse|Tenue de ballerine
+urne|Boîte à bulletins|Vase funéraire
+zinc|Métal|Comptoir de bar
+arum|Plante à cornet|Fleur blanche
+inox|Acier inoxydable|Métal des casseroles
+nain|Lutin|Tout petit
+sana|Sanatorium, en bref|Lieu de cure
+chips|Pommes de terre en tranches|Croustilles
+radar|Détecteur|Contrôle de vitesse
+halte|Arrêt|Stop !
+poète|Écrivain en vers|Rêveur
+jolis|Beaux|Mignons
+sabre|Épée courbe|Coupe net
+fixer|Attacher|Regarder intensément
+levée|Ramassage du courrier|Pli aux cartes
+bisou|Baiser|Bise
+sénat|Assemblée|Palais du Luxembourg
+arabe|Langue du Coran|Chiffres ___
+voire|Et même|Ou même
+loyal|Fidèle|Franc
+sueur|Transpiration|Effort
+hache|Outil de bûcheron|Cognée
+farce|Blague|Hachis de remplissage
+tires|Remorques|Tu traînes
+appât|Leurre|Asticot
+déçue|Désappointée|Pas satisfaite
+mises|Paris|Tenues
+raser|Couper à ras|Ennuyer
+saoul|Ivre|Gris
+saine|En bonne santé|Bonne pour le corps
+proie|Victime|Gibier
+rôles|Personnages|Fonctions
+crash|Écrasement d'avion|Accident
+texto|SMS|Message court
+pacte|Accord|Alliance
+colis|Paquet|Envoi postal
+stock|Réserve|Provision
+isolé|Seul|Retiré
+aveux|Confessions|Reconnaissances
+béton|Ciment armé|Solide
+score|Résultat|Marque
+avalé|Englouti|Gobé
+tiers|Troisième partie|Autrui
+vertu|Qualité morale|Chasteté
+gangs|Bandes|Clans
+pince|Outil qui serre|Patte de crabe
+gilet|Veste sans manches|___ de sauvetage
+rhume|Nez qui coule|Coryza
+divin|De Dieu|Exquis
+karma|Destin bouddhiste|Retour des actes
+vaste|Immense|Étendu
+delta|Embouchure|Lettre grecque
+garer|Stationner|Ranger sa voiture
+sites|Lieux|Pages web
+lions|Fauves|Rois des animaux
+culot|Toupet|Audace
+bonus|Prime|Supplément
+achat|Emplette|Acquisition
+refus|Non|Rejet
+stage|Formation|Période d'essai
+maris|Époux|Conjoints
+gelée|Confiture|Givre
+chili|Pays des Andes|Piment
+guise|Manière|En ___ de
+actif|Énergique|Patrimoine
+blâme|Reproche|Sanction
+ravis|Enchantés|Contents
+cogné|Frappé|Heurté
+alias|Autrement dit|Pseudonyme
+jurés|Membres du jury|Assermentés
+hyper|Très, en préfixe|Grande surface
+sonde|Instrument de mesure|Explore
+bouts|Extrémités|Morceaux
+testé|Essayé|Éprouvé
+goûts|Saveurs|Préférences
+poses|Attitudes|Places
+ruban|Galon|Bande de tissu
+grise|Couleur cendre|Enivre
+coude|Articulation du bras|Virage
+siens|À lui|Ses proches
+égard|Considération|Attention
+bilan|Résultat|Comptes de l'année
+mater|Dompter|Regarder, en argot
+versé|Coulé|Expert
+décor|Cadre|Ornement
+noter|Écrire|Évaluer
+éclat|Fragment|Brillance
+nuque|Arrière du cou|Haut du dos
+valet|Domestique|Carte à jouer
+réels|Vrais|Concrets
+idole|Star|Statue de dieu
+doyen|Le plus âgé|Chef de faculté
+peurs|Craintes|Frayeurs
+sages|Raisonnables|Calmes
+jurer|Promettre|Pester
+viser|Ajuster son tir|Signer
+tirée|Tractée|Fatiguée
+égale|Pareille|Équitable
+porcs|Cochons|Gorets
+salir|Tacher|Souiller
+butin|Prise|Trésor volé
+dépit|Rancœur|En ___ de
+chiot|Petit chien|Jeune toutou
+ninja|Guerrier japonais|Espion masqué
+puces|Insectes sauteurs|Marché aux ___
+péril|Danger|Risque
+trêve|Pause|Cessez-le-feu
+épave|Navire échoué|Loque
+mômes|Gamins|Enfants
+reçus|Admis|Tickets de caisse
+meute|Bande de chiens|Horde
+minou|Petit chat|Chaton
+dates|Jours|Fruits du palmier
+secte|Groupe fermé|Clan religieux
+scoop|Exclusivité|Info exclusive
+gages|Garanties|Salaire
+brune|Bière foncée|Aux cheveux sombres
+culte|Religion|Vénération
+dures|Pas molles|Pénibles
+exclu|Rejeté|Mis à l'écart
+plier|Courber|Céder
+allié|Partenaire|Ami
+abusé|Trompé|Exagéré
+sérum|Liquide médical|Vaccin
+teint|Couleur du visage|Coloré
+tubes|Tuyaux|Succès musicaux
+piles|Batteries|Tas
+drone|Engin volant sans pilote|Mâle de l'abeille, en anglais
+cargo|Navire de marchandises|Avion de fret
+fondu|Liquéfié|Disparu progressivement
+arche|Voûte|Bateau de Noé
+clous|Pointes|Passage piéton
+tango|Danse argentine|Couleur orange vif
+avéré|Prouvé|Confirmé
+grèce|Pays d'Athènes|Pays de l'Acropole
+rails|Barres de voie ferrée|Voie
+vexer|Froisser|Offenser
+envoi|Expédition|Colis
+scout|Éclaireur|Toujours prêt
+appui|Soutien|Aide
+poney|Petit cheval|Monture d'enfant
+grade|Rang|Galon
+promu|Élevé en grade|Avancé
+wagon|Voiture de train|Fourgon
+gènes|Unités d'hérédité|ADN
+fondé|Créé|Justifié
+fatal|Mortel|Inévitable
+seize|Quatre fois quatre|Douze plus quatre
+short|Culotte courte|Bermuda
+récit|Histoire|Narration
+malle|Coffre|Bagage
+agité|Nerveux|Remué
+noyau|Pépin dur|Centre de l'atome
+taxes|Impôts|Redevances
+punch|Cocktail|Énergie
+sceau|Cachet|Marque officielle
+talon|Arrière du pied|Souche de chéquier
+néant|Rien|Vide
+graal|Coupe légendaire|Quête ultime
+hôtes|Invités|Ceux qui reçoivent
+réuni|Rassemblé|Joint
+clope|Cigarette|Mégot
+ancre|Elle retient le navire|Symbole marin
+vital|Essentiel|Indispensable
+suède|Pays de Stockholm|Cuir retourné
+ferry|Bac|Traversier
+quasi|Presque|Pratiquement
+égaux|Pareils|Équivalents
+tyran|Despote|Dictateur
+mâles|Masculins|Virils
+toits|Couvertures|Abris
+laide|Pas belle|Moche
+épées|Armes blanches|Lames
+nonne|Religieuse|Sœur
+flanc|Côté|Hanche
+plate|Sans relief|Plane
+naïve|Candide|Ingénue
+fléau|Calamité|Instrument à battre le blé
+percé|Troué|Découvert
+cobra|Serpent à lunettes|Naja
+unies|Rassemblées|Sans motif
+benne|Caisse basculante|Wagonnet
+venin|Poison|Méchanceté
+capot|Dessus du moteur|Couvercle
+oubli|Omission|Amnésie
+gamma|Lettre grecque|Rayon ___
+divan|Canapé|Lit de psy
+curry|Épice indienne|Plat épicé
+firme|Entreprise|Société
+banni|Exilé|Chassé
+ultra|Extrême|Au-delà
+judas|Traître|Œilleton de porte
+forge|Atelier du forgeron|Fabrique
+golfe|Grande baie|Échancrure de côte
+tarif|Prix|Barème
+choux|Légumes|Pâtisseries
+momie|Corps embaumé|Pharaon bandé
+gazon|Pelouse|Herbe
+audio|Sonore|Du son
+joker|Carte maîtresse|Atout
+viril|Mâle|Masculin
+disco|Musique de danse|Années 70
+hymne|Chant solennel|Marseillaise
+morse|Code télégraphique|Mammifère à défenses
+enjeu|Mise|Ce qui est en jeu
+rejet|Refus|Pousse
+bocal|Pot de verre|Aquarium rond
+clone|Copie|Double génétique
+motos|Deux-roues|Bécanes
+aînée|Première-née|Plus âgée
+égout|Canalisation|Cloaque
+radin|Avare|Pingre
+crête|Sommet|Huppe du coq
+geler|Glacer|Figer
+dague|Poignard|Lame courte
+ouste|Dehors !|Du balai !
+bluff|Esbroufe|Tromperie au poker
+titan|Géant|Colosse
+porto|Vin portugais|Apéritif doux
+perso|Personnel|Privé
+tronc|Corps de l'arbre|Boîte à aumônes
+opium|Drogue du pavot|Stupéfiant
+ronge|Grignote|Tourmente
+crocs|Dents pointues|Sandales en plastique
+gomme|Efface|Caoutchouc
+imite|Copie|Singe
+boxer|Chien|Faire de la boxe
+joies|Bonheurs|Plaisirs
+peser|Mesurer le poids|Réfléchir
+répit|Pause|Trêve
+sitôt|Aussitôt|Dès
+chars|Blindés|Voitures de défilé
+panda|Ours bambou|Emblème du WWF
+peaux|Épidermes|Cuirs
+molle|Pas dure|Sans énergie
+abdos|Muscles du ventre|Tablettes de chocolat
+docks|Bassins portuaires|Entrepôts
+forum|Place romaine|Lieu de débat
+lilas|Arbuste fleuri|Mauve
+cible|Objectif|But
+élan|Impulsion|Cerf du Nord
+étain|Métal gris|Gobelet ancien
+fifre|Petite flûte|Joueur de flûte
+gogo|À ___ : en abondance|Naïf
+huppe|Touffe de plumes|Crête
+igloo|Maison de glace|Abri inuit
+kayak|Canoë fermé|Embarcation inuite
+lasso|Corde à nœud coulant|Arme du cow-boy
+mirage|Illusion|Avion de chasse
+oasis|Halte verte|Refuge
+pagne|Jupe de raphia|Vêtement sommaire
+radis|Petite racine rouge|Pas un ___ : sans le sou
+satin|Tissu brillant|Soie lisse
+tapir|Mammifère à trompe|Se cacher
+usure|Détérioration|Prêt abusif
+vélin|Parchemin fin|Papier de luxe
+yogi|Adepte du yoga|Sage indien
+zébu|Bœuf à bosse|Bovin d'Inde
+atoll|Île en anneau|Récif corallien
+banjo|Instrument à cordes|Guitare ronde
+cacao|Fève du chocolat|Boisson chaude
+daube|Ragoût|Navet, en argot
+ébène|Bois noir|Noir profond
+frêne|Arbre|Bois de manche
+gland|Fruit du chêne|Benêt
+houle|Mouvement de la mer|Vague longue
+index|Doigt pointé|Table alphabétique
+jockey|Cavalier de course|Il monte au tiercé
+koala|Marsupial australien|Mangeur d'eucalyptus
+lagon|Lac d'atoll|Eau turquoise
+mangue|Fruit tropical|Fruit jaune
+nacre|Intérieur de coquillage|Irisé
+oseille|Plante acide|Argent, en argot
+paddy|Riz non décortiqué|Rizière
+quota|Part fixée|Contingent
+ravin|Gorge|Précipice
+sépia|Encre de seiche|Brun de vieille photo
+tamis|Passoire|Crible
+utopie|Idéal|Rêve impossible
+verve|Éloquence|Brio
+whist|Jeu de cartes|Ancêtre du bridge

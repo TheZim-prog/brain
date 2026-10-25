@@ -411,7 +411,7 @@ pénible|Difficile|Ennuyeux
 amateur|Non professionnel|Passionné
 solaire|Du soleil|Énergie renouvelable
 maillot|Tenue de sport|Tenue de bain
-chiffre|Nombre|Montant
+chiffre|De zéro à neuf|Montant
 hommage|Honneur|Respect
 fardeau|Charge|Poids
 abricot|Fruit orange|Fruit à noyau

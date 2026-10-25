@@ -24,7 +24,7 @@ amis|Copains|Proches
 ange|Être céleste|Personne très gentille
 anis|Plante aromatique|Parfum du pastis
 anse|Poignée|Petite baie
-août|Mois d'été|Huitième mois
+août|Mois des grandes vacances|Huitième mois
 aras|Perroquets|Oiseaux colorés
 arcs|Armes de jet|Courbes
 ardu|Difficile|Pas commode
@@ -85,7 +85,7 @@ case|Compartiment|Hutte
 cash|Comptant|Argent liquide
 cent|Centaine|Pièce de monnaie
 cerf|Grand cervidé|Il brame
-cette|Adjectif démonstratif|Celle-ci
+cette|Celle-ci, en adjectif|Démonstratif féminin
 chat|Félin domestique|Il a sept vies
 chef|Patron|Cuisinier principal
 cher|Coûteux|Aimé
@@ -95,7 +95,7 @@ chou|Légume|Mignon
 ciel|Firmament|Paradis
 cils|Poils des paupières|Ils battent
 cime|Sommet|Haut de l'arbre
-cinq|Nombre|Les doigts d'une main
+cinq|Doigts d'une main|Quatre plus un
 cité|Ville|Mentionné
 clan|Tribu|Bande
 clef|Clé|Elle ouvre
@@ -135,12 +135,12 @@ dés|Cubes de jeu|Ils roulent
 deux|Paire|Un plus un
 dieu|Divinité|Le Créateur
 dire|Parler|Affirmer
-dise|Du verbe dire|Qu'il ___
+dise|Qu'il ___|Subjonctif de dire
 dite|Prononcée|Surnommée
 dock|Bassin portuaire|Entrepôt de port
 dodo|Sommeil d'enfant|Oiseau disparu
 doge|Chef de Venise|Ancien magistrat vénitien
-doit|Du verbe devoir|Il ___ partir
+doit|Est obligé|Il ___ partir
 dons|Cadeaux|Talents
 dort|Sommeille|Du verbe dormir
 doux|Pas rugueux|Tendre
@@ -182,7 +182,7 @@ fait|Événement|Accompli
 fard|Maquillage|Piquer un ___ : rougir
 faux|Inexact|Outil du faucheur
 fées|Magiciennes|Elles ont des baguettes
-fera|Du verbe faire|Il ___ beau
+fera|Réalisera|Il ___ beau
 fers|Métaux|Chaînes
 fête|Célébration|Anniversaire
 feux|Flammes|Signaux routiers
@@ -198,11 +198,11 @@ fisc|Impôts|Administration fiscale
 flan|Dessert|C'est du ___ : du bluff
 flot|Vague|Courant
 flux|Écoulement|Marée montante
-foie|Organe|Gras dans le Sud-Ouest
+foie|Organe qui filtre le sang|Gras dans le Sud-Ouest
 foin|Herbe séchée|Faire du ___ : du bruit
 fois|Occasion|Une ___ pour toutes
 fond|Bas|Essentiel
-font|Du verbe faire|Ils ___ la fête
+font|Réalisent|Ils ___ la fête
 fort|Puissant|Citadelle
 fous|Déments|Pièces d'échecs
 four|Appareil de cuisson|Échec complet
@@ -237,7 +237,7 @@ gond|Pivot de porte|Sortir de ses ___
 gong|Instrument à percussion|Fin de round
 goût|Saveur|Élégance
 grès|Roche|Poterie
-gris|Couleur|Un peu ivre
+gris|Entre noir et blanc|Un peu ivre
 gros|Corpulent|Grand
 grue|Engin de levage|Échassier
 gués|Passages à pied|Pierres de traversée
@@ -250,7 +250,7 @@ hier|La veille|Jour passé
 hiver|Saison froide|Il vient après l'automne
 houx|Arbuste piquant|Plante de Noël
 huer|Siffler|Conspuer
-huit|Nombre|Deux fois quatre
+huit|Deux fois quatre|Pattes d'araignée
 hune|Plate-forme de mât|Poste de vigie
 idée|Pensée|Concept
 idem|De même|Pareil
@@ -291,7 +291,7 @@ lama|Ruminant des Andes|Moine tibétain
 lame|Tranchant|Vague
 lent|Pas rapide|Mou
 lest|Poids de navire|Ballast
-leur|Adjectif possessif|À eux
+leur|À eux|Possessif pluriel
 lève|Soulève|Se met debout
 levé|Debout|Dressé
 lien|Attache|Relation
@@ -317,7 +317,7 @@ luxe|Faste|Richesse
 lynx|Félin|Œil perçant
 mage|Magicien|Roi venu d'Orient
 magie|Sorcellerie|Enchantement
-maïs|Céréale|Pop-corn
+maïs|Céréale aux épis jaunes|Pop-corn
 main|Elle a cinq doigts|Partie de cartes
 mais|Conjonction|Pourtant
 mâle|Masculin|Viril
@@ -366,10 +366,10 @@ nièce|Fille du frère|Parente
 nids|Abris d'oiseaux|Repaires
 noce|Mariage|Fête
 noël|Fête de décembre|Chant de fête
-nord|Point cardinal|Septentrion
+nord|Septentrion|Point cardinal
 note|Annotation|Addition
 noté|Inscrit|Évalué
-nous|Pronom pluriel|Toi et moi
+nous|Toi et moi|Pronom pluriel
 nuit|Obscurité|Elle tombe le soir
 nuls|Sans valeur|Incompétents
 oasis|Halte dans le désert|Refuge
@@ -380,10 +380,10 @@ once|Petite quantité|Panthère des neiges
 ondé|Ondulé|Moiré
 onde|Vague|Fréquence
 ongle|Bout du doigt|Griffe
-onze|Nombre|Équipe de foot
+onze|Équipe de foot au complet|Dix plus un
 opéra|Œuvre lyrique|Théâtre chanté
 orée|Lisière|Bord du bois
-orge|Céréale|Sucre d'___
+orge|Céréale de la bière|Sucre d'___
 orme|Arbre|Attendre sous l'___
 osée|Audacieuse|Risquée
 oser|Avoir l'audace|Se risquer
@@ -408,7 +408,7 @@ pâte|Mélange de farine|Spaghetti
 pâté|Terrine|Tache d'encre
 paye|Salaire|Rémunération
 peau|Épiderme|Pelure
-pêche|Fruit|Loisir au bord de l'eau
+pêche|Fruit à noyau velouté|Loisir au bord de l'eau
 péché|Faute|Tentation
 pelé|Épluché|Chauve
 pend|Est suspendu|Tombe
@@ -463,12 +463,12 @@ rame|Aviron|Train de métro
 rang|Rangée|Grade
 rare|Peu commun|Clairsemé
 rasé|Sans barbe|Démoli
-rate|Organe|Manque
+rate|Organe près de l'estomac|Manque
 raté|Échoué|Loupé
 rats|Rongeurs|Avares
 rayé|Strié|Biffé
 réel|Vrai|Concret
-rein|Organe|Mal aux ___
+rein|Organe qui fait l'urine|Mal aux ___
 reçu|Accueilli|Ticket de caisse
 rêve|Songe|Idéal
 rêvé|Imaginé|Idéal
@@ -497,7 +497,7 @@ rusé|Malin|Futé
 sacs|Besaces|Sachets
 sage|Raisonnable|Calme
 sain|En bonne santé|Bon pour la santé
-sais|Du verbe savoir|Je ___ tout
+sais|Je connais|Je ___ tout
 saké|Alcool de riz|Boisson japonaise
 sale|Malpropre|Crasseux
 salé|Contenant du sel|Exagéré (prix)
@@ -510,7 +510,7 @@ seau|Récipient à anse|Il pleut à ___
 sein|Poitrine|Au ___ de : dans
 sels|Condiments|Ils font reprendre connaissance
 sens|Direction|Signification
-sept|Nombre|Jours de la semaine
+sept|Jours de la semaine|Nains de Blanche-Neige
 seul|Isolé|Unique
 sève|Liquide des plantes|Vigueur
 sexe|Genre|Masculin ou féminin
@@ -524,7 +524,7 @@ soie|Fil de ver|Tissu luxueux
 soif|Envie de boire|Désir
 soin|Attention|Traitement
 soir|Fin du jour|Crépuscule
-sois|Du verbe être|___ sage !
+sois|___ sage !|Que tu existes
 soit|C'est-à-dire|Admettons
 sole|Poisson plat|Dessous du sabot
 sols|Planchers|Terres
@@ -538,7 +538,7 @@ star|Vedette|Étoile
 stop|Arrêt|Panneau rouge
 suer|Transpirer|Peiner
 suie|Résidu noir|Dépôt de cheminée
-suis|Du verbe être|Je ___
+suis|J'existe|Je pense donc je ___
 suit|Accompagne|Vient après
 sure|Acide|Aigrelette
 sûre|Certaine|Fiable
@@ -547,7 +547,7 @@ tard|Pas tôt|À une heure avancée
 tare|Défaut|Poids de l'emballage
 taré|Fou|Cinglé
 tari|À sec|Épuisé
-tasse|Récipient|Boire la ___
+tasse|Récipient à anse|Boire la ___
 taux|Pourcentage|Proportion
 taxe|Impôt|Redevance
 tees|Supports de balle de golf|Petits piquets
@@ -592,7 +592,7 @@ unis|Liés|Sans motif
 user|Abîmer|Employer
 usée|Abîmée|Fatiguée
 vain|Inutile|Vaniteux
-vais|Du verbe aller|Je ___ bien
+vais|Je me rends|Je ___ bien
 vase|Récipient à fleurs|Boue
 veau|Petit de la vache|Mou
 vélo|Bicyclette|Deux-roues
@@ -600,7 +600,7 @@ vend|Cède contre argent|Commerce
 vent|Air en mouvement|Mistral
 venu|Arrivé|Survenu
 vers|Lignes de poème|En direction de
-vert|Couleur|Pas mûr
+vert|Couleur de l'herbe|Pas mûr
 veto|Refus|Opposition
 veuf|Sans épouse|Endeuillé
 vice|Défaut|Perversion
@@ -621,7 +621,7 @@ vois|Du verbe voir|Tu ___ ?
 voit|Regarde|Du verbe voir
 voix|Son de la gorge|Vote
 vols|Larcins|Trajets aériens
-vont|Du verbe aller|Ils ___ loin
+vont|Se rendent|Ils ___ loin
 vote|Scrutin|Suffrage
 voté|Adopté|Élu
 voué|Consacré|Destiné

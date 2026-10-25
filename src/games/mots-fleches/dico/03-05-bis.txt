@@ -1,9 +1,9 @@
 # Complément de mots courts courants
 ici|En ce lieu|Par ___ la sortie
 aux|À les|Article contracté pluriel
-dis|Du verbe dire|___-moi tout
-ait|Du verbe avoir|Qu'il ___
-fut|Du verbe être|Tonneau
+dis|___-moi tout|Je raconte
+ait|Qu'il ___|Subjonctif d'avoir
+fut|Exista|Tonneau
 hum|Marque le doute|Toussotement
 job|Petit boulot|Emploi, en anglais
 adn|Code génétique|Molécule de l'hérédité
@@ -26,30 +26,30 @@ gym|Gymnastique|Salle de sport
 toc|Imitation|Bruit à la porte
 kit|Ensemble à monter|Trousse
 jet|Avion à réaction|Jaillissement
-eut|Du verbe avoir|Il ___ de la chance
+eut|Posséda|Il ___ de la chance
 ris|Du verbe rire|Thymus de veau
 mec|Gars|Type
 vous|Pronom pluriel|Vouvoiement
 elle|Pronom féminin|Lui au féminin
 veux|Du verbe vouloir|Je ___ bien
-sont|Du verbe être|Ils ___ là
+sont|Existent|Ils ___ là
 peux|Du verbe pouvoir|Tu ___ venir
-avez|Du verbe avoir|Vous ___ raison
-fais|Du verbe faire|Je ___ de mon mieux
+avez|Possédez|Vous ___ raison
+fais|Je réalise|Je ___ de mon mieux
 faut|Il ___ : c'est nécessaire|Il le ___
-dois|Du verbe devoir|Je te ___ tout
+dois|Je suis obligé|Je te ___ tout
 donc|Par conséquent|Conclusion logique
 veut|Du verbe vouloir|Qui ___ peut
 déjà|Dès maintenant|Auparavant
-sera|Du verbe être|Ce ___ tout
+sera|Existera|Ce ___ tout
 quel|Interrogatif|___ dommage !
 cela|Ça|Ceci, mais plus loin
-sait|Du verbe savoir|Qui ___ ?
+sait|Connaît|Qui ___ ?
 tant|Tellement|___ pis !
 sang|Liquide rouge|Hémoglobine
-dont|Pronom relatif|Duquel
+dont|Duquel|Pronom relatif
 prie|Implore|Supplie
-ceux|Pronom démonstratif|Celui-ci au pluriel
+ceux|Ces gens-là|Pronom démonstratif
 pays|Nation|Contrée
 film|Long-métrage|Pellicule
 ceci|Cette chose-ci|Pronom démonstratif
@@ -73,7 +73,7 @@ flic|Policier, en argot|Agent
 sent|Perçoit une odeur|Ressent
 fric|Argent, en argot|Oseille
 ravi|Content|Enchanté
-irai|Du verbe aller|J'___ demain
+irai|Je me rendrai|J'___ demain
 sert|Rend service|Met dans l'assiette
 noms|Appellations|Patronymes
 vécu|Existé|Expérience
@@ -87,7 +87,7 @@ dors|Du verbe dormir|Je ___ bien
 mens|Du verbe mentir|Tu ___ !
 file|Queue|Va vite
 perd|Égare|Ne gagne pas
-dira|Du verbe dire|On ___ ce qu'on voudra
+dira|Racontera|On ___ ce qu'on voudra
 viré|Renvoyé|Licencié
 choc|Collision|Coup
 chut|Silence !|Taisez-vous !
@@ -111,7 +111,7 @@ amen|Ainsi soit-il|Fin de prière
 pigé|Compris|Saisi
 lord|Noble anglais|Pair du royaume
 cave|Sous-sol|Cellier
-iras|Du verbe aller|Tu ___ loin
+iras|Tu te rendras|Tu ___ loin
 déçu|Désappointé|Pas satisfait
 fans|Admirateurs|Groupies
 loué|Pris en location|Vanté
@@ -125,8 +125,8 @@ inde|Pays d'Asie|Bombay en est
 bail|Contrat de location|Ça fait un ___
 boue|Terre mouillée|Gadoue
 cran|Courage|Entaille
-juin|Mois d'été|Sixième mois
-irez|Du verbe aller|Vous ___ loin
+juin|Mois où l'été commence|Sixième mois
+irez|Vous vous rendrez|Vous ___ loin
 subi|Enduré|Supporté
 auto|Voiture|Bagnole
 mêle|Mélange|S'en ___ : intervient
@@ -147,36 +147,36 @@ jazz|Musique de La Nouvelle-Orléans|Swing
 boxe|Sport de combat|Noble art
 quand|À quel moment|Lorsque
 aussi|Également|De même
-allez|Du verbe aller|Courage !
+allez|Courage !|Vous vous rendez
 notre|À nous|Possessif pluriel
-avait|Du verbe avoir|Il ___ raison
+avait|Possédait|Il ___ raison
 parce|___ que : car|Car, avec que
 crois|Du verbe croire|Je te ___
 pense|Réfléchit|Songe
-viens|Du verbe venir|___ ici !
+viens|___ ici !|J'arrive
 mieux|Meilleur|Davantage bien
 voilà|Voici|Et ___ !
-avons|Du verbe avoir|Nous ___ fini
+avons|Possédons|Nous ___ fini
 toute|Entière|___ la journée
 maman|Mère|Mot d'enfant
-savez|Du verbe savoir|Vous ___ quoi ?
+savez|Vous connaissez|Vous ___ quoi ?
 seule|Isolée|Unique
 parle|Discute|Bavarde
 elles|Pronom féminin pluriel|Ces dames
-vient|Du verbe venir|Arrive
+vient|Arrive|Provient
 leurs|À eux|Possessif pluriel
 façon|Manière|Sans ___ : sans cérémonie
 voici|Voilà|Présentatif
 tiens|Du verbe tenir|___ donc !
-venez|Du verbe venir|Approchez
+venez|Approchez|Vous arrivez
 enfin|Finalement|Pour conclure
 droit|Pas courbe|Justice
 parti|Organisation politique|Absent
-celui|Pronom démonstratif|___-ci
-devez|Du verbe devoir|Vous ___ partir
+celui|___-ci|Pronom démonstratif
+devez|Vous êtes obligés|Vous ___ partir
 mains|Elles ont dix doigts|Paumes
-dites|Du verbe dire|Prétendues
-serai|Du verbe être|Je ___ là
+dites|Prétendues|Vous racontez
+serai|J'existerai|Je ___ là
 prend|Saisit|Attrape
 choix|Option|Sélection
 voyez|Du verbe voir|Vous ___ ?
@@ -196,7 +196,7 @@ prête|Préparée|Avance de l'argent
 bouge|Remue|Taudis
 idiot|Bête|Imbécile
 sympa|Sympathique|Cool
-fasse|Du verbe faire|Pourvu qu'il ___ beau
+fasse|Pourvu qu'il ___ beau|Subjonctif de faire
 jolie|Belle|Mignonne
 sorti|Parti dehors|Publié
 ouvre|Déverrouille|Inaugure
@@ -232,7 +232,7 @@ vidéo|Film|Clip
 tante|Sœur du père|Tata
 rendu|Restitué|Résultat
 venus|Arrivés|Survenus
-sache|Du verbe savoir|Que je ___
+sache|Que je ___|Subjonctif de savoir
 parie|Mise|Gage
 faite|Accomplie|Terminée
 marié|Époux|Uni
@@ -256,7 +256,7 @@ gérer|Administrer|Diriger
 meurt|Décède|S'éteint
 champ|Prairie|Domaine
 unité|Élément|Cohésion
-ouest|Point cardinal|Couchant
+ouest|Couchant|Point cardinal
 créer|Inventer|Concevoir
 piège|Traquenard|Embûche
 plans|Projets|Cartes
@@ -274,7 +274,7 @@ jette|Lance|Balance
 repos|Pause|Détente
 dieux|Divinités|Olympiens
 major|Premier de promotion|Grade militaire
-lundi|Jour de la semaine|Début de semaine
+lundi|Premier jour de la semaine|Jour de la Lune
 noirs|Sombres|Ténébreux
 fuite|Évasion|Écoulement
 crier|Hurler|Brailler
@@ -298,7 +298,7 @@ pizza|Spécialité italienne|Galette garnie
 foyer|Maison|Âtre
 amuse|Divertit|Distrait
 lapin|Rongeur aux longues oreilles|Poser un ___
-mardi|Jour de la semaine|Gras en février
+mardi|Jour après lundi|Gras en février
 filer|Partir vite|Suivre discrètement
 rompu|Cassé|Fourbu
 cents|Centimes|Centaines
@@ -306,7 +306,7 @@ navré|Désolé|Attristé
 nommé|Désigné|Appelé
 potes|Copains|Amis
 roule|Avance|Trompe
-jeudi|Jour de la semaine|Avant vendredi
+jeudi|Jour avant vendredi|Jour de Jupiter
 brûle|Flambe|Ardent
 final|Dernier|Finale
 quant|___ à moi|En ce qui concerne
@@ -425,7 +425,7 @@ plats|Mets|Sans relief
 jetée|Digue|Lancée
 satan|Diable|Démon
 guère|Peu|Ne ___ : pas beaucoup
-bidon|Récipient|Faux
+bidon|Récipient à essence|Faux
 sobre|Qui ne boit pas|Simple
 pleut|Il ___ des cordes|Tombe du ciel
 range|Ordonne|Classe

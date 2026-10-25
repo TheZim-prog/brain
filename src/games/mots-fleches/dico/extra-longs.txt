@@ -1,0 +1,525 @@
+# Complément : mots de 6 à 8 lettres
+député|Élu de l'Assemblée|Parlementaire
+zombie|Mort-vivant|Personne amorphe
+promet|Jure|S'engage
+troupe|Bande|Compagnie de théâtre
+défilé|Parade|Gorge étroite
+rançon|Prix de la libération|Contrepartie
+nounou|Nourrice|Garde d'enfants
+rocher|Roc|Bloc de pierre
+fusion|Union|Passage à l'état liquide
+escroc|Arnaqueur|Filou
+bandes|Groupes|Rubans
+pilule|Comprimé|Contraceptif
+foudre|Éclair|Coup de ___
+script|Scénario|Programme informatique
+faille|Fissure|Point faible
+allure|Vitesse|Prestance
+patrie|Pays natal|Nation
+canons|Pièces d'artillerie|Modèles de beauté
+chèvre|Ruminant à cornes|Fromage de ___
+fraude|Tricherie|Falsification
+veines|Vaisseaux sanguins|Chances
+cortex|Écorce cérébrale|Matière grise
+chauve|Sans cheveux|Dégarni
+pleurs|Larmes|Sanglots
+étages|Niveaux|Paliers
+voyous|Vauriens|Loubards
+triple|Trois fois|Saut ___
+regret|Remords|Nostalgie
+armées|Troupes|Forces militaires
+robots|Automates|Androïdes
+pognon|Argent, en argot|Fric
+tripes|Abats|Courage, familièrement
+brésil|Pays de la samba|Rio en est
+honoré|Fier|Respecté
+tissus|Étoffes|Textiles
+banane|Fruit jaune|Sac de ceinture
+aspect|Apparence|Allure
+favori|Préféré|Champion attendu
+rasoir|Outil de barbier|Ennuyeux
+mineur|Ouvrier de la mine|Moins de 18 ans
+intrus|Importun|Indésirable
+manoir|Demeure de campagne|Gentilhommière
+jambon|Charcuterie|Cuisse de porc
+cigare|Tabac roulé|Havane
+marron|Châtaigne|Brun
+maigre|Mince|Pauvre en graisse
+balcon|Loggia|Galerie de théâtre
+rappel|Retour|Vaccin de renfort
+office|Bureau|Cérémonie religieuse
+sévère|Strict|Rigoureux
+raclée|Défaite cuisante|Volée de coups
+violon|Instrument à cordes|Cellule de poste de police
+armure|Cuirasse|Protection de chevalier
+puzzle|Jeu de pièces|Casse-tête
+berger|Gardien de moutons|Chien de garde
+amants|Amoureux|Liaison secrète
+humide|Mouillé|Moite
+square|Petit jardin public|Parc de quartier
+paille|Tige de blé|Chalumeau
+humble|Modeste|Simple
+actuel|Présent|D'aujourd'hui
+chimie|Science des molécules|Alchimie moderne
+pigeon|Oiseau des villes|Dupe
+agenda|Carnet de rendez-vous|Programme
+calcul|Opération|Pierre au rein
+mousse|Écume|Jeune marin
+atroce|Horrible|Abominable
+trauma|Choc|Traumatisme, en bref
+tonton|Oncle|Parrain, familièrement
+ironie|Raillerie|Moquerie
+causes|Raisons|Procès
+gérant|Directeur|Administrateur
+cartel|Entente commerciale|Gang de narcotrafic
+perles|Bijoux nacrés|Gaffes amusantes
+crises|Accès|Récessions
+piqûre|Injection|Morsure d'insecte
+volume|Tome|Puissance du son
+crayon|Mine de plomb|Outil à dessin
+bonbon|Friandise|Sucrerie
+plumes|Pennes|Stylos anciens
+ballet|Spectacle de danse|Allées et venues
+menton|Bas du visage|Galoche
+hangar|Abri pour avions|Remise
+sûreté|Sécurité|Garantie
+buffet|Meuble de salle à manger|Repas debout
+bougie|Chandelle|Pièce de moteur
+vaccin|Immunisation|Piqûre préventive
+herbes|Plantes|Aromates
+ruines|Décombres|Vestiges
+brutal|Violent|Soudain
+ruelle|Petite rue|Passage étroit
+parade|Défilé|Riposte
+énigme|Mystère|Devinette
+poèmes|Vers|Odes
+majeur|Doigt du milieu|Adulte
+bassin|Étang|Os du pelvis
+bonnet|Chapeau de laine|Gros ___ : personnage important
+cognac|Eau-de-vie|Alcool charentais
+racine|Origine|Partie souterraine
+médium|Voyant|Moyen
+bunker|Abri bétonné|Blockhaus
+éponge|Elle absorbe|Grand buveur
+lavage|Nettoyage|Lessive
+poster|Affiche|Envoyer par la poste
+avatar|Incarnation|Mésaventure
+défunt|Mort|Disparu
+potion|Breuvage magique|Remède liquide
+greffe|Transplantation|Bureau du tribunal
+canyon|Gorge profonde|Ravin américain
+lignée|Descendance|Dynastie
+climat|Temps habituel|Ambiance
+poings|Mains fermées|Coups
+brèche|Ouverture|Trou dans un mur
+chaton|Petit chat|Fleur du saule
+bandit|Brigand|Malfaiteur
+muscle|Biceps|Force
+mentor|Guide|Conseiller
+vivres|Provisions|Nourriture
+cliché|Photo|Lieu commun
+moelle|Intérieur de l'os|Substance essentielle
+traque|Chasse|Poursuite
+comble|Sommet|C'est le ___ !
+béguin|Amourette|Coiffe
+cordon|Ficelle|Ruban d'honneur
+saumon|Poisson rose|Il remonte les rivières
+salive|Bave|Crachat
+cuivre|Métal rouge|Instrument à vent
+peigne|Démêloir|Coiffe
+graine|Semence|Pépin
+virage|Tournant|Changement d'orientation
+sermon|Prêche|Remontrance
+faucon|Rapace|Partisan de la guerre
+fibres|Filaments|Fils
+résumé|Synthèse|Abrégé
+farine|Poudre de blé|Base du pain
+absolu|Total|Sans limite
+notion|Idée|Concept
+boxeur|Pugiliste|Combattant du ring
+reflet|Image renvoyée|Miroitement
+homard|Crustacé bleu|Langouste du nord
+toubib|Médecin, en argot|Docteur
+neutre|Impartial|Ni masculin ni féminin
+cheveu|Poil du crâne|Petit souci
+romans|Récits|Livres
+détour|Crochet|Méandre
+palace|Hôtel de luxe|Grand hôtel
+schéma|Croquis|Plan
+rousse|Rouquine|Couleur de feuille d'automne
+pédale|Commande au pied|Levier de vélo
+cerise|Fruit rouge|La ___ sur le gâteau
+cafard|Blatte|Déprime
+plasma|Partie du sang|Écran plat
+obscur|Sombre|Inconnu
+émeute|Révolte|Soulèvement
+volcan|Mont qui crache le feu|Etna
+brique|Bloc de terre cuite|Dix mille francs
+bronze|Alliage|Troisième place
+évêque|Prélat|Pièce d'échecs (fou)
+klaxon|Avertisseur|Corne de voiture
+lézard|Reptile|Paresseux au soleil
+poivre|Épice|___ et sel
+ragoût|Plat mijoté|Civet
+paysan|Agriculteur|Rural
+cahier|Carnet|Classeur d'écolier
+toutou|Chien, en langage enfantin|Animal fidèle
+poteau|Pieu|Montant de but
+treize|Douzaine du boulanger|Chiffre porte-malheur
+tuteur|Protecteur légal|Piquet de soutien
+lampes|Luminaires|Ampoules
+barque|Canot|Embarcation
+étroit|Serré|Mesquin
+trappe|Ouverture au sol|Piège
+fessée|Punition|Claque sur les fesses
+filtre|Tamis|Crible
+cuisse|Haut de la jambe|Morceau de poulet
+levier|Barre|Moyen d'action
+galère|Navire antique|Situation pénible
+marbre|Pierre noble|Indifférence
+féroce|Sauvage|Cruel
+habile|Adroit|Doué
+global|Total|Mondial
+organe|Partie du corps|Voix
+nickel|Métal|Impeccable
+festin|Banquet|Bon repas
+flacon|Petite bouteille|Fiole
+coquin|Espiègle|Polisson
+boulet|Projectile|Fardeau
+plâtre|Gypse|Moulage d'un membre cassé
+autrui|Les autres|Prochain
+cachet|Comprimé|Sceau
+ciment|Liant|Lien solide
+slogan|Formule publicitaire|Mot d'ordre
+hausse|Augmentation|Montée
+nausée|Haut-le-cœur|Dégoût
+pétard|Explosif|Revolver, en argot
+comète|Astre chevelu|Étoile filante
+yaourt|Laitage|Yogourt
+fureur|Rage|Vogue
+tampon|Cachet|Butoir
+porche|Entrée couverte|Portail d'église
+milice|Troupe armée|Police privée
+agonie|Fin de vie|Supplice
+fluide|Liquide|Aisé
+taudis|Logement insalubre|Masure
+revers|Envers|Échec
+gendre|Mari de la fille|Beau-fils
+caviar|Œufs d'esturgeon|Mets de luxe
+broche|Bijou épinglé|Tige à rôtir
+subtil|Fin|Raffiné
+verrou|Loquet|Obstacle
+vernis|Laque|Apparence trompeuse
+recrue|Nouveau soldat|Nouvelle embauche
+étalon|Cheval reproducteur|Référence de mesure
+manège|Carrousel|Stratagème
+crèche|Garderie|Scène de Noël
+légion|Unité militaire|Multitude
+savant|Érudit|Scientifique
+ramper|Avancer à plat ventre|S'abaisser
+façade|Devant d'un bâtiment|Apparence
+clause|Disposition d'un contrat|Article
+sultan|Souverain ottoman|Monarque
+bikini|Maillot deux pièces|Atoll du Pacifique
+thorax|Poitrine|Cage thoracique
+asthme|Gêne respiratoire|Maladie des bronches
+famine|Disette|Pénurie de nourriture
+leurre|Appât|Illusion
+sursis|Délai|Peine suspendue
+castor|Rongeur bâtisseur|Il construit des barrages
+errant|Vagabond|Sans but
+sonore|Bruyant|Retentissant
+fiasco|Échec|Bide
+orient|Est|Levant
+pseudo|Surnom|Faux nom
+cosmos|Univers|Espace
+brebis|Femelle du mouton|Ovin
+galant|Courtois|Séducteur
+vanité|Orgueil|Futilité
+infâme|Ignoble|Abject
+meneur|Chef|Leader
+souple|Flexible|Agile
+blindé|Cuirassé|Char
+saloon|Bar du Far West|Taverne de western
+rivage|Côte|Bord de mer
+dicton|Proverbe|Adage
+martyr|Supplicié|Victime
+gibier|Animaux chassés|Proie
+donjon|Tour du château|Prison médiévale
+labeur|Travail pénible|Besogne
+coyote|Chacal américain|Passeur de frontière
+astuce|Ruse|Truc
+douane|Contrôle aux frontières|Droits d'entrée
+argile|Glaise|Terre à modeler
+bâbord|Gauche du navire|Opposé de tribord
+crosse|Bâton recourbé|Bâton d'évêque
+lucide|Clairvoyant|Conscient
+bûcher|Tas de bois|Travailler dur
+odeurs|Senteurs|Parfums
+sketch|Saynète|Numéro comique
+senior|Aîné|Retraité actif
+olives|Fruits de l'olivier|Tapenade
+chœur|Chorale|Partie d'église
+idéaux|Rêves|Modèles
+parrain|Témoin du baptême|Chef mafieux
+montant|Somme|Poteau
+licence|Diplôme universitaire|Permis
+poignet|Articulation de la main|Manchette
+auberge|Hôtellerie|Relais
+février|Mois le plus court|Deuxième mois
+grenier|Combles|Réserve à grain
+matelas|Literie|Coussin de lit
+barrage|Digue|Obstacle
+colonie|Territoire|Camp de vacances
+égalité|Équité|Match nul
+graisse|Gras|Lubrifiant
+taureau|Bovin mâle|Signe du zodiaque
+missile|Projectile|Fusée armée
+commune|Municipalité|Ordinaire
+ciseaux|Outil à couper|Lames jumelles
+chômage|Sans-emploi|Inactivité
+lessive|Linge sale|Détergent
+escorte|Accompagnement|Garde
+serrure|Verrou|Gâche de porte
+billard|Jeu de queue|Table de jeu
+sauveur|Libérateur|Messie
+armoire|Penderie|Placard
+récolte|Moisson|Cueillette
+trophée|Coupe|Prix
+crochet|Hameçon|Détour
+charbon|Houille|Combustible noir
+peintre|Artiste|Badigeonneur
+rebelle|Insurgé|Révolté
+comique|Drôle|Humoriste
+ivrogne|Soûlard|Pochard
+fourgon|Camionnette|Wagon
+gestion|Administration|Management
+éditeur|Publie des livres|Logiciel de texte
+ouragan|Tempête|Cyclone
+haleine|Souffle|Respiration
+femelle|Opposé du mâle|Chienne ou jument
+sportif|Athlète|Dynamique
+arbitre|Juge de match|Médiateur
+horizon|Ligne au loin|Perspective
+falaise|Escarpement|Côte rocheuse
+paysage|Panorama|Site
+rancune|Ressentiment|Rancœur
+insigne|Badge|Remarquable
+caserne|Quartier militaire|Bâtiment de pompiers
+camping|Terrain de tentes|Vacances sous la toile
+pelouse|Gazon|Herbe tondue
+bouquet|Gerbe de fleurs|Arôme du vin
+capsule|Bouchon|Module spatial
+carbone|Élément chimique|Papier pour copie
+toxique|Nocif|Poison
+commode|Pratique|Meuble à tiroirs
+couvent|Monastère|Abbaye
+biscuit|Gâteau sec|Porcelaine non émaillée
+loterie|Tirage au sort|Jeu de hasard
+chorale|Ensemble vocal|Chœur
+insecte|Petite bête|Mouche ou fourmi
+berceau|Lit de bébé|Origine
+martini|Apéritif|Cocktail de James Bond
+danseur|Ballerin|Valseur
+écharpe|Cache-nez|Bande de maire
+centime|Centième d'euro|Sou
+fugitif|Évadé|Passager
+briquet|Allume-feu|Chien de chasse
+gymnase|Salle de sport|Lycée allemand
+mondial|Planétaire|Coupe du monde
+morsure|Coup de dent|Piqûre
+sifflet|Instrument d'arbitre|Gorge, en argot
+gorille|Grand singe|Garde du corps
+ampoule|Lampe|Cloque
+coutume|Tradition|Usage
+mélodie|Air|Chanson
+ketchup|Sauce tomate|Condiment des frites
+vermine|Parasites|Canaille
+batteur|Percussionniste|Fouet de cuisine
+athlète|Sportif|Costaud
+malaise|Évanouissement|Gêne
+vitrine|Devanture|Étalage
+ivresse|Ébriété|Exaltation
+peluche|Doudou|Jouet en tissu
+rouleau|Cylindre|Grosse vague
+abdomen|Ventre|Bas du tronc
+caleçon|Sous-vêtement|Boxer
+faculté|Aptitude|Université
+tornade|Tourbillon|Cyclone
+autobus|Car|Transport urbain
+romance|Idylle|Chanson sentimentale
+dizaine|Dix environ|Chapelet
+étagère|Rayonnage|Tablette
+smoking|Tenue de soirée|Veste habillée
+tribord|Droite du navire|Opposé de bâbord
+vanille|Arôme de gousse|Glace blanche
+banquet|Festin|Repas de fête
+vaurien|Voyou|Garnement
+vertige|Peur du vide|Étourdissement
+robinet|Valve d'eau|Bec de lavabo
+console|Pupitre|Machine de jeu vidéo
+coureur|Athlète|Séducteur
+baptême|Sacrement|Première fois
+tambour|Instrument à percussion|Cylindre de machine à laver
+tombeau|Sépulture|Mausolée
+corbeau|Oiseau noir|Auteur de lettres anonymes
+caillou|Pierre|Crâne chauve
+peloton|Groupe de coureurs|Escouade
+couture|Art de coudre|Haute ___
+cantine|Réfectoire|Malle
+jogging|Course à pied|Survêtement
+soupçon|Doute|Petite quantité
+sédatif|Calmant|Tranquillisant
+emprunt|Prêt|Copie
+coussin|Oreiller|Amortisseur
+caramel|Sucre fondu|Bonbon brun
+taverne|Auberge|Bistrot ancien
+mosquée|Lieu de culte musulman|Minaret
+scalpel|Bistouri|Lame de chirurgien
+hameçon|Crochet de pêche|Piège
+caverne|Grotte|Antre
+velours|Tissu doux|Pas de ___
+arsenal|Dépôt d'armes|Attirail
+carotte|Légume orange|Récompense
+barreau|Barre de prison|Ordre des avocats
+carreau|Vitre|Couleur aux cartes
+maestro|Chef d'orchestre|Maître
+antique|Ancien|Vieux
+mercure|Métal liquide|Planète
+foulard|Fichu|Carré de soie
+barbare|Sauvage|Cruel
+dilemme|Choix difficile|Alternative
+optique|Science de la vision|Point de vue
+jackpot|Gros lot|Cagnotte
+trousse|Étui à crayons|Nécessaire
+scooter|Deux-roues|Vespa
+frisson|Tremblement|Émotion
+amnésie|Perte de mémoire|Trou noir
+beignet|Pâtisserie frite|Gifle, en argot
+épatant|Formidable|Étonnant
+sadique|Cruel|Pervers
+punaise|Insecte|Clou à tête plate
+réflexe|Réaction|Automatisme
+notaire|Officier public|Rédacteur d'actes
+bandeau|Ruban|Titre de une
+rigueur|Sévérité|Exactitude
+prairie|Pré|Herbage
+colombe|Oiseau de paix|Pigeon blanc
+crapule|Canaille|Fripouille
+prodige|Merveille|Génie précoce
+caféine|Stimulant du café|Excitant
+fanfare|Orchestre de cuivres|Musique militaire
+huîtres|Coquillages|Fruits de mer
+licorne|Cheval à corne|Créature légendaire
+pharaon|Roi d'Égypte|Ramsès
+tonneau|Fût|Tour de voiture
+matelot|Marin|Mousse
+vétéran|Ancien combattant|Expérimenté
+gouffre|Abîme|Précipice
+nombril|Centre du ventre|Centre du monde
+éléphant|Pachyderme|Mémoire infaillible
+bouclier|Protection|Écu
+coiffure|Coupe de cheveux|Chapeau
+barrière|Clôture|Obstacle
+caravane|Roulotte|Convoi
+chanteur|Interprète|Vocaliste
+individu|Personne|Type
+comtesse|Noble|Femme du comte
+haricots|Légumes secs|Flageolets
+céréales|Blé et maïs|Petit-déjeuner
+trottoir|Bord de rue|Chaussée piétonne
+marchand|Commerçant|Vendeur
+épicerie|Petit commerce|Supérette
+syndrome|Ensemble de symptômes|Trouble
+cheminée|Foyer|Conduit de fumée
+araignée|Arachnide|Tisseuse
+faillite|Banqueroute|Ruine
+ambition|Désir de réussir|Visée
+invasion|Envahissement|Irruption
+prétexte|Excuse|Alibi
+fontaine|Source|Bassin
+attentat|Agression|Crime terroriste
+plancher|Sol|Seuil minimal
+troupeau|Groupe d'animaux|Masse
+abeilles|Insectes du miel|Butineuses
+braquage|Hold-up|Vol à main armée
+coiffeur|Figaro|Barbier
+obstacle|Barrière|Entrave
+comptoir|Zinc|Guichet
+altitude|Hauteur|Élévation
+morphine|Analgésique|Opiacé
+logiciel|Programme|Application
+saucisse|Charcuterie|Chipolata
+perruque|Faux cheveux|Postiche
+migraine|Mal de tête|Céphalée
+dynamite|Explosif|Énergie débordante
+aspirine|Médicament|Cachet contre la fièvre
+chapelle|Petite église|Clan
+mouchoir|Tissu pour le nez|Kleenex
+banlieue|Périphérie|Faubourg
+cuillère|Couvert|Petite louche
+prophète|Devin|Messager divin
+mâchoire|Os des dents|Maxillaire
+triomphe|Victoire|Succès
+bénéfice|Profit|Gain
+harmonie|Accord|Équilibre
+terrasse|Plate-forme|Café en plein air
+pauvreté|Misère|Indigence
+gangster|Bandit|Truand
+bulletin|Communiqué|Carnet de notes
+tailleur|Couturier|Ensemble féminin
+moutarde|Condiment de Dijon|Elle monte au nez
+pavillon|Drapeau|Maison
+limonade|Boisson gazeuse|Soda
+bourreau|Exécuteur|Tortionnaire
+voyageur|Passager|Touriste
+orphelin|Sans parents|Esseulé
+triangle|Figure à trois côtés|Instrument à percussion
+seringue|Aiguille d'injection|Piqûre
+biologie|Science du vivant|Étude de la vie
+omelette|Œufs battus et cuits|Plat d'œufs
+marathon|Course de 42 km|Épreuve longue
+poignard|Dague|Couteau
+escalade|Varappe|Montée
+scorpion|Arachnide à dard|Signe du zodiaque
+compteur|Indicateur|Jauge
+annuaire|Répertoire|Bottin
+aquarium|Bocal à poissons|Vivier
+aliments|Nourriture|Denrées
+aviation|Aéronautique|Armée de l'air
+querelle|Dispute|Brouille
+coquille|Carapace d'œuf|Faute de frappe
+tracteur|Engin agricole|Remorqueur
+peignoir|Robe de chambre|Sortie de bain
+carnaval|Mardi gras|Fête costumée
+noblesse|Aristocratie|Grandeur d'âme
+monument|Édifice|Chef-d'œuvre
+lingerie|Sous-vêtements|Dessous
+allergie|Réaction|Intolérance
+pingouin|Oiseau marin|Manchot du nord
+paroisse|Circonscription religieuse|Église
+obsèques|Funérailles|Enterrement
+humidité|Moiteur|Vapeur d'eau
+handicap|Infirmité|Désavantage
+natation|Nage|Sport aquatique
+vêtement|Habit|Tenue
+boussole|Compas|Orientation
+vinaigre|Condiment acide|Faire ___ : se dépêcher
+pancarte|Écriteau|Panneau
+nounours|Ours en peluche|Doudou
+sabotage|Destruction volontaire|Travail bâclé
+puanteur|Mauvaise odeur|Infection
+cannelle|Épice|Brun clair
+proverbe|Dicton|Adage
+rubrique|Chronique|Article régulier
+brochure|Dépliant|Prospectus
+comédien|Acteur|Hypocrite
+blaireau|Mammifère des bois|Pinceau à barbe
+internat|Pension|Concours de médecine
+manucure|Soin des ongles|Esthéticienne
+roulette|Petite roue|Jeu de casino
+soixante|Minutes dans une heure|Six dizaines
+symptôme|Signe de maladie|Indice
+anatomie|Science du corps|Silhouette
+croisade|Expédition|Campagne
+chaperon|Petit ___ rouge|Accompagnateur

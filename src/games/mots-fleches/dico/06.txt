@@ -12,7 +12,7 @@ arrive|Parvient|Survient
 moment|Instant|Période
 toutes|L'ensemble|Sans exception
 quelle|Interrogatif féminin|___ chance !
-sommes|Du verbe être|Totaux
+sommes|Totaux|Nous existons
 partir|S'en aller|Quitter
 arrête|Stoppe|Interpelle
 chance|Veine|Hasard
@@ -20,7 +20,7 @@ passer|Traverser|Réussir un examen
 petite|Pas grande|Fillette
 sortir|Aller dehors|Publier
 contre|Opposé à|Près de
-allons|Du verbe aller|___ enfants de la patrie
+allons|En route !|___ enfants de la patrie
 rester|Demeurer|Séjourner
 prends|Du verbe prendre|Saisis
 hommes|Humains|Messieurs
@@ -60,7 +60,7 @@ autant|De même|Tant
 minute|Soixante secondes|Instant
 prison|Cellule|Bagne
 penser|Réfléchir|Songer
-quatre|Nombre|Deux fois deux
+quatre|Deux fois deux|Saisons de l'année
 facile|Simple|Aisé
 entrer|Pénétrer|Accéder
 propre|Net|Personnel
@@ -138,9 +138,9 @@ pleine|Remplie|Complète
 cacher|Dissimuler|Masquer
 dingue|Fou|Incroyable
 servir|Aider|Être utile
-lequel|Pronom relatif|Quel est-il ?
+lequel|Quel est-il ?|Pronom relatif
 blessé|Atteint|Vexé
-savent|Du verbe savoir|Ils ___ tout
+savent|Connaissent|Ils ___ tout
 quitté|Laissé|Abandonné
 livres|Ouvrages|Bouquins
 entrée|Accès|Hors-d'œuvre
@@ -233,7 +233,7 @@ gosses|Enfants|Gamins
 assure|Garantit|Affirme
 mètres|Unités de longueur|Rubans gradués
 source|Origine|Fontaine
-samedi|Jour de la semaine|Veille du dimanche
+samedi|Veille du dimanche|Jour du sabbat
 traces|Empreintes|Vestiges
 trésor|Fortune|Mon chéri
 poulet|Volaille|Policier, en argot
@@ -273,7 +273,7 @@ privée|Personnelle|Intime
 voleur|Larron|Pickpocket
 chaise|Siège|___ électrique
 accusé|Prévenu|Inculpé
-celles|Pronom démonstratif|___-ci
+celles|___-ci|Pronom démonstratif féminin
 blancs|Couleur de neige|Vides
 second|Deuxième|Adjoint
 examen|Épreuve|Contrôle
@@ -373,7 +373,7 @@ sortes|Genres|Espèces
 épaule|Haut du bras|Soutient
 tireur|Archer|Buteur
 lignes|Traits|Rangées
-orange|Fruit|Couleur
+orange|Agrume|Couleur vive
 parfum|Senteur|Arôme
 sainte|Sacrée|Canonisée
 détail|Élément|Précision
@@ -477,7 +477,7 @@ stable|Équilibré|Solide
 prière|Oraison|Supplique
 impôts|Taxes|Contributions
 séjour|Résidence|Salon
-quinze|Nombre|Trois fois cinq
+quinze|Trois fois cinq|Équipe de rugby
 boules|Sphères|Pétanque
 canada|Pays du Québec|Pays de l'érable
 dettes|Créances|Ardoises
@@ -492,7 +492,7 @@ basket|Sport de panier|Chaussure de sport
 casque|Couvre-chef|Écouteurs
 bloqué|Coincé|Paralysé
 délire|Divagation|Folie
-trente|Nombre|Trois dizaines
+trente|Jours de juin|Trois dizaines
 tonnes|Milliers de kilos|Beaucoup
 allume|Éclaire|Met le feu
 réelle|Vraie|Concrète
@@ -539,7 +539,7 @@ fleuve|Grand cours d'eau|Rhône ou Loire
 intime|Privé|Personnel
 cordes|Ficelles|Violons et altos
 anneau|Bague|Cercle
-violet|Couleur|Mauve foncé
+violet|Couleur de l'aubergine|Mauve foncé
 surnom|Sobriquet|Pseudonyme
 royale|Du roi|Majestueuse
 échecs|Jeu de stratégie|Revers

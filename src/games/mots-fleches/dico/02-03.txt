@@ -10,28 +10,28 @@ ce|Adjectif démonstratif|Il désigne
 ci|Ici, en bref|Comme ___, comme ça
 de|Préposition|Elle indique l'origine
 dé|Cube à jouer|Protège le doigt qui coud
-do|Note de musique|Elle ouvre la gamme
+do|Première note de la gamme|Ut moderne
 du|Article partitif|Exigible
 eh|Pour interpeller|___ bien !
 en|Préposition|Pronom adverbial
-es|Du verbe être|Tu y ___
+es|Tu existes|Tu y ___
 et|Conjonction|Petit trait d'union
 eu|Possédé|Participe d'avoir
 ex|Ancien conjoint|Ancienne flamme
-fa|Note de musique|Elle suit le mi
+fa|Note après mi|Clé de ___
 go|Jeu japonais|Tout de ___
 ha|Hectare, en abrégé|Exclamation
-il|Pronom personnel|Lui en sujet
+il|Lui en sujet|Pronom masculin
 in|À la mode|Branché, en anglais
 io|Satellite de Jupiter|Lune volcanique
-je|Pronom personnel|Ego en français
+je|Moi en sujet|Ego en français
 ko|Hors de combat|Assommé
-la|Note de musique|Article féminin
+la|Article féminin|Note du diapason
 le|Article défini|Pronom masculin
 lu|Parcouru des yeux|Déchiffré
-ma|Adjectif possessif|À moi
-me|Pronom personnel|Moi en complément
-mi|Note de musique|À moitié
+ma|À moi, au féminin|___ chérie
+me|Moi en complément|Pronom réfléchi
+mi|Note après ré|À moitié
 mu|Lettre grecque|Mis en mouvement
 né|Venu au monde|Natif
 ne|Négation|Elle précède souvent pas
@@ -47,26 +47,26 @@ ou|Conjonction|C'est l'un ___ l'autre
 pi|Nombre 3,14|Lettre grecque
 pu|Participe de pouvoir|A eu la possibilité
 ra|Roulement de tambour|Dieu solaire égyptien
-ré|Note de musique|Elle suit le do
+ré|Note après do|Deuxième note
 ri|S'est amusé|Participe de rire
 ru|Petit ruisseau|Filet d'eau
-sa|Adjectif possessif|À lui ou à elle
+sa|À elle ou à lui|___ Majesté
 se|Pronom réfléchi|Lui-même
-si|Note de musique|Conjonction de condition
+si|Conjonction de condition|Note avant do
 su|Connu|Participe de savoir
-ta|Adjectif possessif|À toi
+ta|À toi, au féminin|Possessif familier
 té|Règle à dessin|Équerre en T
-tu|Pronom personnel|Gardé secret
+tu|Toi en sujet|Gardé secret
 un|Premier nombre|Article indéfini
 ut|Ancien do|Première note
-va|Du verbe aller|Ordre de départ
+va|Se rend|Ordre de départ
 vu|Aperçu|Participe de voir
 xi|Lettre grecque|Elle suit le nu
 abc|Alphabet|Les bases
 âge|Nombre d'années|Il avance chaque année
 âgé|Vieux|Qui a vécu longtemps
 aga|Officier turc|Dignitaire ottoman
-aie|Du verbe avoir|Que j'___
+aie|Que j'___|Subjonctif d'avoir
 aïe|Cri de douleur|Ça fait mal !
 ail|Condiment odorant|Il éloigne les vampires
 air|On le respire|Mélodie
@@ -92,9 +92,9 @@ bât|Selle de mulet|Là où il blesse
 bec|Bouche d'oiseau|Il picore
 bel|Beau|Unité de son
 bis|Encore !|Deuxième fois
-blé|Céréale|Argent, en argot
+blé|Céréale du pain|Argent, en argot
 boa|Serpent|Écharpe de plumes
-bol|Récipient|Chance, en argot
+bol|Récipient du petit-déjeuner|Chance, en argot
 bon|Pas mauvais|Coupon
 box|Garage|Stalle d'écurie
 bue|Avalée|Absorbée
@@ -104,8 +104,8 @@ but|Objectif|Il est marqué au foot
 car|Autocar|Parce que
 cas|Situation|Exemple
 cep|Pied de vigne|Il porte le raisin
-ces|Adjectif démonstratif|Ceux-là
-cet|Adjectif démonstratif|Ce, devant une voyelle
+ces|Ceux-là, en adjectif|Démonstratif pluriel
+cet|Ce, devant une voyelle|Démonstratif masculin
 cil|Poil des paupières|Il protège l'œil
 clé|Elle ouvre|Signe musical
 col|Passage en montagne|Encolure
@@ -119,7 +119,7 @@ dan|Grade au judo|Niveau de ceinture noire
 des|Article pluriel|Article indéfini
 dés|Cubes à jouer|Ils sont jetés
 dit|Prononcé|Conte en vers
-dix|Nombre|Le double de cinq
+dix|Deux fois cinq|Doigts des deux mains
 don|Cadeau|Talent
 dos|Arrière du corps|On le tourne
 dot|Apport de la mariée|Biens de mariage
@@ -137,13 +137,13 @@ ers|Plante fourragère|Lentille ancienne
 est|Orient|Du verbe être
 été|Saison chaude|Participe d'être
 eue|Possédée|Participe d'avoir au féminin
-eux|Pronom pluriel|Ces gens-là
+eux|Ces gens-là|Pronom pluriel
 fée|Magicienne|Elle a une baguette
 fer|Métal|Il sert à repasser
 feu|Flamme|Ancien
 fil|Brin|Il se perd au téléphone
 fin|Terme|Mince
-fit|Du verbe faire|Il ___ ce qu'il put
+fit|Réalisa|Il ___ ce qu'il put
 foi|Croyance|Confiance
 fou|Dément|Pièce d'échecs
 gag|Effet comique|Blague
@@ -158,9 +158,9 @@ gui|Plante parasite|Porte-bonheur de Noël
 hic|Problème|Voilà le ___
 hue|Cri du cocher|À ___ et à dia
 île|Terre entourée d'eau|Corse ou Crète
-ils|Pronom pluriel|Eux en sujet
+ils|Eux en sujet|Pronom pluriel
 ion|Atome chargé|Particule électrique
-ira|Du verbe aller|Il ___ loin
+ira|Se rendra|Ça ___ mieux demain
 jeu|Divertissement|Partie
 jus|Boisson de fruit|Café, en argot
 lac|Étendue d'eau|Le Léman en est un
@@ -172,20 +172,20 @@ lit|Meuble pour dormir|Il est fait le matin
 loi|Règle|Elle est votée
 lot|Part|Gain de loterie
 lue|Parcourue des yeux|Déchiffrée
-lui|Pronom personnel|Celui-là
+lui|Celui-là|Pronom masculin
 lus|Parcourus|Déchiffrés
 mai|Mois|Le joli mois
 mal|Douleur|Le contraire du bien
 mât|Poteau de navire|Il porte la voile
 mat|Échec et ___|Sans éclat
 mer|Grande étendue salée|La Méditerranée
-mes|Adjectif possessif|À moi, au pluriel
+mes|À moi, au pluriel|___ chers amis
 met|Du verbe mettre|Il ___ la table
 mie|Intérieur du pain|Amie d'autrefois
-mil|Céréale|Mille en ancien français
+mil|Céréale d'Afrique|Mille en ancien français
 mis|Posé|Habillé
-moi|Pronom personnel|Ego
-mon|Adjectif possessif|À moi
+moi|Ego|Je en complément
+mon|À moi|___ œil !
 mot|Terme|Petit message
 mue|Changement de peau|Chez l'ado, elle touche la voix
 mur|Paroi|Il a des oreilles
@@ -197,13 +197,13 @@ nez|Organe de l'odorat|Pif
 nid|Abri d'oiseau|Foyer
 nom|Appellation|Patronyme
 non|Négation|Refus
-nos|Adjectif possessif|À nous
+nos|À nous|___ ancêtres les Gaulois
 nue|Sans vêtement|Nuage
 nul|Aucun|Sans valeur
 nus|Sans vêtements|Dévêtus
 oie|Oiseau de basse-cour|Jeu de société
 olé|Cri de corrida|Bravo espagnol
-ont|Du verbe avoir|Ils ___ tout
+ont|Possèdent|Ils ___ tout
 ose|Du verbe oser|Il ___ tout
 osé|Audacieux|Risqué
 ôté|Enlevé|Retiré
@@ -220,14 +220,14 @@ pie|Oiseau bavard|Couleur de vache
 pin|Conifère|Arbre des Landes
 pis|Mamelle de vache|Tant ___ !
 pli|Repli|Enveloppe
-pot|Récipient|Verre entre amis
+pot|Récipient en terre|Verre entre amis
 pou|Parasite|Petite bête des cheveux
 pré|Prairie|Terrain d'herbe
 pro|Professionnel|Expert
 pur|Sans mélange|Innocent
 pus|Liquide infectieux|Je ___ le faire (passé simple)
-que|Pronom relatif|Conjonction
-qui|Pronom relatif|Interrogation sur une personne
+que|Conjonction|Pronom relatif
+qui|Interrogation sur une personne|Pronom relatif
 rai|Rayon|Trait de lumière
 ras|Coupé court|À ___ bord
 rat|Rongeur|Avare
@@ -244,10 +244,10 @@ rué|Précipité|Lancé avec force
 sac|Besace|Pillage
 sec|Pas mouillé|Sans eau
 sel|Condiment|Piquant
-ses|Adjectif possessif|À lui, au pluriel
+ses|À lui, au pluriel|À elle, au pluriel
 set|Manche au tennis|Napperon
 sic|Ainsi, en latin|Ainsi écrit
-six|Nombre|La moitié de douze
+six|La moitié de douze|Faces d'un dé
 ski|Sport d'hiver|Planche de neige
 soc|Lame de charrue|Il fend la terre
 soi|Pronom réfléchi|Chez ___
@@ -255,7 +255,7 @@ sol|Plancher|Note de musique
 son|Bruit|Résidu du blé
 sot|Bête|Niais
 sou|Ancienne pièce|Sans le ___
-sud|Point cardinal|Midi
+sud|Midi|Point cardinal
 sue|Transpire|Connue
 sur|Au-dessus de|Acide
 sûr|Certain|Fiable
@@ -264,12 +264,12 @@ tao|Voie chinoise|Principe taoïste
 tas|Amas|Pile
 tee|Support de balle de golf|Petit piquet de golf
 tel|Pareil|Semblable
-tes|Adjectif possessif|À toi, au pluriel
+tes|À toi, au pluriel|Possessif pluriel
 thé|Boisson chaude|Infusion asiatique
 tic|Manie|Geste nerveux
 tir|Coup de feu|Lancer au but
-toi|Pronom personnel|Tu en complément
-ton|Adjectif possessif|Hauteur d'un son
+toi|Tu en complément|___ et moi
+ton|À toi|Hauteur d'un son
 tôt|De bonne heure|Avant l'heure
 tri|Classement|Sélection
 tua|Assassina|Ôta la vie
@@ -281,7 +281,7 @@ uns|Les ___ et les autres|Certains
 use|Abîme|Emploie
 usé|Abîmé|Fatigué
 van|Fourgon à chevaux|Panier à vanner
-vas|Du verbe aller|Tu y ___
+vas|Tu te rends|Tu y ___
 ver|Lombric|Il est dans le fruit
 vie|Existence|Biographie
 vif|Rapide|Éveillé
@@ -289,7 +289,7 @@ vin|Boisson de raisin|Rouge ou blanc
 vis|Clou fileté|Du verbe vivre
 vit|Du verbe vivre|Du verbe voir
 vol|Larcin|Trajet en avion
-vos|Adjectif possessif|À vous
+vos|À vous|À ___ souhaits !
 vue|Panorama|Sens de l'œil
 yen|Monnaie japonaise|Désir, en anglais
 zen|Calme|Bouddhisme japonais

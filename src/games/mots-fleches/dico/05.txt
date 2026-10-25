@@ -128,7 +128,7 @@ casse|Brise|Cambriolage
 cause|Raison|Procès
 caves|Sous-sols|Celliers
 céder|Abandonner|Vendre
-celle|Pronom démonstratif|___-ci
+celle|___-là|Pronom démonstratif
 cendre|Résidu du feu|Mercredi des ___
 cerfs|Grands cervidés|Ils brament
 chaud|Brûlant|Ardent
@@ -154,7 +154,7 @@ clefs|Clés|Elles ouvrent
 client|Acheteur|Habitué
 cloche|Elle sonne|Benêt
 clown|Comique de cirque|Pitre
-cœur|Organe|Centre
+cœur|Il bat dans la poitrine|Centre
 coins|Angles|Endroits
 colle|Pâte adhésive|Question difficile
 collé|Fixé|Recalé
@@ -205,7 +205,7 @@ donné|Offert|Gratuit
 doses|Quantités|Mesures
 douce|Tendre|Pas rugueuse
 doute|Incertitude|Hésitation
-douze|Nombre|Une douzaine
+douze|Mois de l'année|Une douzaine
 drame|Tragédie|Catastrophe
 drôle|Amusant|Bizarre
 dunes|Collines de sable|Reliefs du désert
@@ -381,7 +381,7 @@ mètre|Unité de longueur|Ruban gradué
 mettre|Placer|Poser
 meuble|Table ou chaise|Mobile
 midi|Mi-journée|Sud
-mille|Nombre|Unité de distance marine
+mille|Dix fois cent|Unité de distance marine
 mince|Svelte|Zut !
 miroir|Glace|Reflet
 moine|Religieux|Frère
@@ -405,7 +405,7 @@ neuve|Nouvelle|Jamais servie
 noble|Aristocrate|Généreux
 noces|Mariage|Fête de mariage
 noeud|Lien serré|Vitesse marine
-noire|Note de musique|Sombre
+noire|Sombre|Vaut deux croches
 nombre|Chiffre|Quantité
 notes|Annotations|Factures
 nuage|Cumulus|Petite quantité
@@ -467,9 +467,9 @@ poche|Sac|Gousset
 poème|Poésie|Vers
 poids|Masse|Charge
 point|Signe|Instant
-poire|Fruit|Naïf
+poire|Fruit du poirier|Naïf
 poisson|Animal aquatique|Avril
-pomme|Fruit|Tête, en argot
+pomme|Fruit d'Ève|Tête, en argot
 pompe|Machine|Chaussure de sport
 ponts|Viaducs|Week-ends prolongés
 porte|Entrée|Transporte
@@ -584,7 +584,7 @@ tours|Bâtiments élevés|Circuits
 train|Locomotive|Allure
 trait|Ligne|Caractéristique
 tribu|Clan|Famille
-trois|Nombre|Trio
+trois|Un trio|Deux plus un
 trône|Siège royal|Règne
 trou|Cavité|Lacune
 truite|Poisson de rivière|Saumonée
@@ -602,13 +602,13 @@ venir|Arriver|Approcher
 vente|Commerce|Solde
 ventre|Abdomen|Bedaine
 verre|Coupe|Matière transparente
-verte|Couleur|Pas mûre
+verte|Couleur de l'herbe|Pas mûre
 veste|Vêtement|Échec
 vêtir|Habiller|Couvrir
 viande|Chair|Steak
 vider|Évacuer|Épuiser
 ville|Cité|Commune
-vingt|Nombre|Vingtaine
+vingt|Quatre fois cinq|Note parfaite
 virus|Microbe|Programme malveillant
 vitre|Carreau|Fenêtre
 vivre|Exister|Habiter

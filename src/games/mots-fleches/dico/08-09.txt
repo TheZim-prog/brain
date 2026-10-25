@@ -80,7 +80,7 @@ imbécile|Idiot|Crétin
 gentille|Aimable|Douce
 parfaite|Impeccable|Idéale
 ministre|Membre du gouvernement|Haut fonctionnaire
-vendredi|Jour de la semaine|Compagnon de Robinson
+vendredi|Veille du week-end|Compagnon de Robinson
 voitures|Automobiles|Wagons
 apporter|Amener|Fournir
 échapper|Fuir|S'évader
