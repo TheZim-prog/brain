@@ -1,12 +1,17 @@
 import { describe, expect, it } from 'vitest'
-import { isHorizontal } from './config'
-import { generate } from './generator'
-import { activeClue, motsFlechesReducer, newGame, type MotsFlechesAction, type MotsFlechesState } from './state'
+import { fillGrid } from './fill'
+import { activeClue, gridReducer, newGame, type GridAction, type GridState } from './state'
+import type { WordPuzzle } from './types'
 
-const run = (s: MotsFlechesState, ...actions: MotsFlechesAction[]) => actions.reduce(motsFlechesReducer, s)
+const run = (s: GridState, ...actions: GridAction[]) => actions.reduce(gridReducer, s)
 
-describe('partie de mots fléchés', () => {
-  const game = newGame(generate('petite', 'facile'))
+function puzzle(): WordPuzzle {
+  const { solution, runs, clueFor } = fillGrid(7, 7, { style: 'croises', maxBlocks: 10 })
+  return { width: 7, height: 7, solution, level: 'facile', clues: runs.map((r) => ({ ...r, text: clueFor(r.answer, 'facile') })) }
+}
+
+describe('partie sur une grille de mots', () => {
+  const game = newGame(puzzle())
   const { clues, solution } = game.puzzle
   const longest = clues.reduce((a, b) => (b.cells.length > a.cells.length ? b : a))
   const index = clues.indexOf(longest)
@@ -14,7 +19,7 @@ describe('partie de mots fléchés', () => {
   it('sélectionner une définition place le curseur au début du mot, dans le bon sens', () => {
     const s = run(game, { type: 'selectClue', clue: index })
     expect(s.selected).toBe(longest.cells[0])
-    expect(s.direction).toBe(isHorizontal(longest.arrow) ? 'h' : 'v')
+    expect(s.direction).toBe(longest.dir)
     expect(activeClue(s)).toBe(index)
   })
 
@@ -37,7 +42,7 @@ describe('partie de mots fléchés', () => {
   })
 
   it('dévoiler tous les mots termine la partie', () => {
-    let s: MotsFlechesState = game
+    let s: GridState = game
     clues.forEach((_, i) => (s = run(s, { type: 'selectClue', clue: i }, { type: 'revealWord' })))
     expect(s.completed).toBe(true)
     expect(s.hints).toBeGreaterThan(0)

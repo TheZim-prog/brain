@@ -2,36 +2,30 @@ import { useCallback, useEffect, useReducer, useState } from 'react'
 import { formatTime } from '../../lib/format'
 import { load, remove, save } from '../../lib/storage'
 import { useTicker } from '../../lib/useTicker'
-import { isHorizontal, LEVELS, SIZES, type Arrow, type ArrowWords, type Level, type SizeId } from './config'
-import { activeClue, motsFlechesReducer, newGame, type MotsFlechesState } from './state'
+import { activeClue, gridReducer, newGame, type GridState } from '../mots/state'
+import { LEVELS } from '../mots/types'
+import { ClueBar, GridPicker, GridTools, Keyboard, requestPuzzle, useGridKeyboard, Victory, type GridPrefs } from '../mots/ui'
+import { SIZES, type Arrow, type ArrowWords, type SizeId } from './config'
 
 const SAVE_KEY = 'brain:mots-fleches:current'
-const PREFS_KEY = 'brain:mots-fleches:prefs'
-const KEYBOARD = ['AZERTYUIOP', 'QSDFGHJKLM', 'WXCVBN']
 
-type Prefs = { size: SizeId; level: Level }
+type State = GridState<ArrowWords>
 
 export default function MotsFlechesPage() {
   const [game, setGame] = useState(() => {
-    const saved = load<MotsFlechesState>(SAVE_KEY)
+    const saved = load<State>(SAVE_KEY)
     return saved && !saved.completed ? { id: 0, state: saved } : null
   })
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
 
-  const start = ({ size, level }: Prefs) => {
+  const start = ({ size, level }: GridPrefs<SizeId>) => {
     setLoading(true)
     setError(null)
-    const worker = new Worker(new URL('./worker.ts', import.meta.url), { type: 'module' })
-    worker.onmessage = (e: MessageEvent<{ puzzle?: ArrowWords; error?: string }>) => {
-      worker.terminate()
-      setLoading(false)
-      if (e.data.puzzle) {
-        const puzzle = e.data.puzzle
-        setGame((g) => ({ id: (g?.id ?? 0) + 1, state: newGame(puzzle) }))
-      } else setError('La grille n’a pas pu être préparée. Réessaie !')
-    }
-    worker.postMessage({ size, level })
+    requestPuzzle<ArrowWords>({ game: 'fleches', size, level })
+      .then((puzzle) => setGame((g) => ({ id: (g?.id ?? 0) + 1, state: newGame(puzzle) })))
+      .catch(() => setError('La grille n’a pas pu être préparée. Réessaie !'))
+      .finally(() => setLoading(false))
   }
 
   const quit = () => {
@@ -39,54 +33,8 @@ export default function MotsFlechesPage() {
     setGame(null)
   }
 
-  if (!game) return <Picker onStart={start} loading={loading} error={error} />
+  if (!game) return <GridPicker title="Mots fléchés" prefsKey="brain:mots-fleches:prefs" sizes={SIZES} onStart={start} loading={loading} error={error} />
   return <Board key={game.id} initial={game.state} onNewGame={quit} />
-}
-
-function Picker({ onStart, loading, error }: { onStart: (p: Prefs) => void; loading: boolean; error: string | null }) {
-  const [prefs, setPrefs] = useState<Prefs>(() => load<Prefs>(PREFS_KEY) ?? { size: 'petite', level: 'facile' })
-  const update = (p: Partial<Prefs>) => {
-    const next = { ...prefs, ...p }
-    setPrefs(next)
-    save(PREFS_KEY, next)
-  }
-
-  return (
-    <main className="page">
-      <header className="topbar">
-        <a href="#/" className="back">← Jeux</a>
-      </header>
-      <h1 className="title">Mots fléchés</h1>
-      <p className="subtitle">Une nouvelle grille à chaque partie</p>
-
-      <h2 className="label">Taille</h2>
-      <div className="segmented" role="radiogroup" aria-label="Taille">
-        {SIZES.map((s) => (
-          <button key={s.id} role="radio" aria-checked={prefs.size === s.id} className={prefs.size === s.id ? 'on' : undefined} onClick={() => update({ size: s.id })}>
-            {s.label}
-            <small>
-              {s.width}×{s.height}
-            </small>
-          </button>
-        ))}
-      </div>
-
-      <h2 className="label">Définitions</h2>
-      <div className="segmented two" role="radiogroup" aria-label="Définitions">
-        {LEVELS.map((l) => (
-          <button key={l.id} role="radio" aria-checked={prefs.level === l.id} className={prefs.level === l.id ? 'on' : undefined} onClick={() => update({ level: l.id })}>
-            {l.label}
-            <small>{l.detail}</small>
-          </button>
-        ))}
-      </div>
-
-      <button className="primary wide" onClick={() => onStart(prefs)} disabled={loading}>
-        {loading ? 'Préparation de la grille…' : 'Nouvelle grille'}
-      </button>
-      {error && <p className="error">{error}</p>}
-    </main>
-  )
 }
 
 /** Petite flèche dessinée au bord de la case définition, vers le début du mot. */
@@ -117,8 +65,8 @@ function ArrowMark({ def, arrow, slot, width }: { def: number; arrow: Arrow; slo
   }
 }
 
-function Board({ initial, onNewGame }: { initial: MotsFlechesState; onNewGame: () => void }) {
-  const [s, dispatch] = useReducer(motsFlechesReducer, initial)
+function Board({ initial, onNewGame }: { initial: State; onNewGame: () => void }) {
+  const [s, dispatch] = useReducer(gridReducer<State>, initial)
   const { puzzle } = s
   const { width: W, height: H, solution, clues } = puzzle
   const active = activeClue(s)
@@ -130,22 +78,7 @@ function Board({ initial, onNewGame }: { initial: MotsFlechesState; onNewGame: (
 
   useEffect(() => save(SAVE_KEY, s), [s])
   useTicker(!s.completed, useCallback(() => dispatch({ type: 'tick' }), []))
-
-  useEffect(() => {
-    const onKey = (e: KeyboardEvent) => {
-      if (e.ctrlKey || e.metaKey || e.altKey) return
-      if (/^[a-zA-Z]$/.test(e.key)) dispatch({ type: 'input', letter: e.key })
-      else if (e.key === 'Backspace' || e.key === 'Delete') dispatch({ type: 'erase' })
-      else if (e.key === 'ArrowUp') dispatch({ type: 'move', dRow: -1, dCol: 0 })
-      else if (e.key === 'ArrowDown') dispatch({ type: 'move', dRow: 1, dCol: 0 })
-      else if (e.key === 'ArrowLeft') dispatch({ type: 'move', dRow: 0, dCol: -1 })
-      else if (e.key === 'ArrowRight') dispatch({ type: 'move', dRow: 0, dCol: 1 })
-      else return
-      e.preventDefault()
-    }
-    window.addEventListener('keydown', onKey)
-    return () => window.removeEventListener('keydown', onKey)
-  }, [])
+  useGridKeyboard(dispatch)
 
   // Définitions regroupées par case : celle qui part vers la droite en haut, celle qui descend en bas.
   const byDef = new Map<number, number[]>()
@@ -177,19 +110,7 @@ function Board({ initial, onNewGame }: { initial: MotsFlechesState; onNewGame: (
         <span className="timer">{formatTime(s.elapsed)}</span>
       </div>
 
-      <div className="clue-bar" aria-live="polite">
-        {active !== -1 ? (
-          <>
-            <span className="clue-dir" aria-hidden>
-              {isHorizontal(clues[active].arrow) ? '→' : '↓'}
-            </span>
-            <span>{clues[active].text}</span>
-            <span className="clue-len">{clues[active].cells.length} lettres</span>
-          </>
-        ) : (
-          <span className="muted">Touche une case pour commencer</span>
-        )}
-      </div>
+      <ClueBar clue={clues[active]} />
 
       <div className="arrow-grid" style={{ gridTemplateColumns: `repeat(${W}, 1fr)`, ['--cols' as string]: W }}>
         {solution.map((letter, i) => {
@@ -223,47 +144,10 @@ function Board({ initial, onNewGame }: { initial: MotsFlechesState; onNewGame: (
         </svg>
       </div>
 
-      <div className="tools">
-        <button onClick={() => dispatch({ type: 'check' })}>
-          <span aria-hidden>✓</span>Vérifier
-        </button>
-        <button onClick={() => dispatch({ type: 'revealLetter' })}>
-          <span aria-hidden>?</span>Une lettre
-        </button>
-        <button onClick={() => dispatch({ type: 'revealWord' })}>
-          <span aria-hidden>¶</span>Le mot
-        </button>
-        <button onClick={() => dispatch({ type: 'erase' })}>
-          <span aria-hidden>⌫</span>Effacer
-        </button>
-      </div>
+      <GridTools dispatch={dispatch} />
+      <Keyboard dispatch={dispatch} />
 
-      <div className="keyboard">
-        {KEYBOARD.map((row) => (
-          <div key={row} className="key-row">
-            {[...row].map((k) => (
-              <button key={k} onClick={() => dispatch({ type: 'input', letter: k })}>
-                {k}
-              </button>
-            ))}
-          </div>
-        ))}
-      </div>
-
-      {s.completed && (
-        <div className="overlay">
-          <div className="card">
-            <h2>Bravo !</h2>
-            <p>
-              Grille terminée en <strong>{formatTime(s.elapsed)}</strong>
-            </p>
-            <p className="muted">
-              {s.hints} indice{s.hints > 1 ? 's' : ''}
-            </p>
-            <button className="primary" onClick={onNewGame}>Nouvelle grille</button>
-          </div>
-        </div>
-      )}
+      {s.completed && <Victory elapsed={s.elapsed} hints={s.hints} onNewGame={onNewGame} />}
     </main>
   )
 }

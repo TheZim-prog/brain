@@ -1,15 +1,14 @@
 import { describe, expect, it } from 'vitest'
-import { normalize } from '../../lib/text'
+import { families } from '../mots/fill'
 import { SIZES, type ArrowWords } from './config'
-import { DICTIONARY } from './dictionary'
-import { families, generate } from './generator'
+import { generate } from './generator'
 
 function check(g: ArrowWords) {
   const { width: W, height: H, solution, clues } = g
   const letter = (r: number, c: number) => r >= 0 && r < H && c >= 0 && c < W && solution[r * W + c] !== null
 
   // Chaque suite de 2 lettres ou plus, dans les deux sens, est un mot avec sa définition.
-  const runs: string[] = []
+  let runs = 0
   for (let r = 0; r < H; r++)
     for (let c = 0; c < W; c++) {
       if (!letter(r, c)) continue
@@ -17,13 +16,14 @@ function check(g: ArrowWords) {
         if (letter(r - dr, c - dc)) continue
         let len = 0
         while (letter(r + dr * len, c + dc * len)) len++
-        if (len >= 2) runs.push(`${r},${c},${dr}`)
+        if (len >= 2) runs++
       }
       // Pas de lettre isolée.
       expect(letter(r, c - 1) || letter(r, c + 1) || letter(r - 1, c) || letter(r + 1, c)).toBe(true)
     }
-  expect(clues).toHaveLength(runs.length)
+  expect(clues).toHaveLength(runs)
 
+  // Pas deux fois le même mot, ni son pluriel.
   const answers = clues.map((c) => c.answer)
   expect(new Set(families(answers)).size).toBe(answers.length)
 
@@ -40,15 +40,6 @@ function check(g: ArrowWords) {
     if (v === null) expect(perDef.has(i)).toBe(true)
   })
 }
-
-describe('dictionnaire', () => {
-  it('aucune définition ne contient sa réponse', () => {
-    const bad = DICTIONARY.flatMap((e) =>
-      [...e.easy, ...e.hard].filter((c) => normalize(c.replace(/[^\p{L}]+/gu, ' ')) && c.split(/[^\p{L}]+/u).some((w) => normalize(w) === e.word)).map((c) => `${e.word} : ${c}`),
-    )
-    expect(bad).toEqual([])
-  })
-})
 
 describe('générateur de mots fléchés', () => {
   for (const { id } of SIZES) {

@@ -17,6 +17,7 @@
   --hl-6: #b8d46a;
   --def: #e4dccb;
   --grid: #1d1a16;
+  --black: #1d1a16;
   --serif: Georgia, 'Times New Roman', serif;
   --sans: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   color-scheme: light dark;
@@ -42,6 +43,7 @@
     --hl-6: #57692a;
     --def: #34302a;
     --grid: #6b6355;
+    --black: #050403;
   }
 }
 
@@ -727,6 +729,83 @@ a.game:hover {
 
 .key-row button:active {
   background: var(--selected);
+}
+
+/* Mots croisés */
+
+.cross-wrap {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 6px;
+  row-gap: 2px;
+}
+
+.col-labels,
+.row-labels {
+  display: grid;
+  font-size: 0.72rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.col-labels {
+  padding: 0 2px;
+}
+
+.col-labels span,
+.row-labels span {
+  display: grid;
+  place-items: center;
+}
+
+.row-labels {
+  padding: 2px 0;
+  font-family: var(--serif);
+}
+
+.arrow-grid.cross > .black {
+  aspect-ratio: 1;
+  background: var(--black);
+}
+
+.clue-lists {
+  display: grid;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.clue-lists h2 {
+  font-family: var(--serif);
+  font-size: 1.15rem;
+  margin: 0 0 6px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--line);
+}
+
+.clue-lists ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 4px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.clue-lists b {
+  font-family: var(--serif);
+}
+
+.clue-lists button {
+  background: none;
+  border: 0;
+  padding: 0 2px;
+  border-radius: 4px;
+  text-align: left;
+}
+
+.clue-lists button.on {
+  background: var(--same);
 }
 
 /* Fin de partie */

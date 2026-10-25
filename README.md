@@ -16,12 +16,14 @@ npm run build    # build de production + service worker
 - `src/games/registry.ts` — la liste des jeux affichés à l'accueil. Ajouter un jeu = ajouter une entrée avec son `component`.
 - `src/games/sudoku/` — solveur, générateur (solution unique, retrait symétrique), logique de partie (`state.ts`) et page.
 - `src/games/mots-meles/` — listes de mots par thème, générateur (les lettres restantes forment un mot mystère), logique de partie et page.
-- `src/games/mots-fleches/` — dictionnaire (`dico/*.txt`), générateur (remplissage case par case avec retour en arrière intelligent, lancé dans un Web Worker), logique de partie et page.
+- `src/games/mots/` — commun aux mots fléchés et aux mots croisés : dictionnaire (`dico/*.txt`), remplissage de grille (case par case avec retour en arrière intelligent, dans un Web Worker partagé), logique de saisie et morceaux d'interface.
+- `src/games/mots-fleches/` — placement des définitions dans la grille et page.
+- `src/games/mots-croises/` — grilles à cases noires numérotées (I, II… / 1, 2…) et page.
 - `src/lib/` — utilitaires partagés (sauvegarde locale, routage par hash, chrono, normalisation du texte).
 
-## Dictionnaire des mots fléchés
+## Dictionnaire
 
-Une entrée par ligne dans `src/games/mots-fleches/dico/*.txt` : `mot|définition facile|définition difficile`.
+Une entrée par ligne dans `src/games/mots/dico/*.txt` : `mot|définition facile|définition difficile`.
 Les accents sont retirés dans la grille ; un mot présent plusieurs fois cumule ses définitions.
 `npm test` vérifie qu'aucune définition ne contient sa propre réponse.
 

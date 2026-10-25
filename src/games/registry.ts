@@ -21,7 +21,12 @@ export const GAMES: GameEntry[] = [
     description: 'Les définitions dans la grille, comme en kiosque.',
     component: lazy(() => import('./mots-fleches/MotsFlechesPage')),
   },
-  { id: 'mots-croises', name: 'Mots croisés', description: 'Horizontalement, verticalement…' },
+  {
+    id: 'mots-croises',
+    name: 'Mots croisés',
+    description: 'Horizontalement, verticalement…',
+    component: lazy(() => import('./mots-croises/MotsCroisesPage')),
+  },
   {
     id: 'mots-meles',
     name: 'Mots mêlés',
