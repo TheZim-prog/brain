@@ -11,8 +11,8 @@ const KEYBOARD = ['AZERTYUIOP', 'QSDFGHJKLM', 'WXCVBN']
 const DIGITS = ['12345', '67890']
 
 /** Lance la génération d'une grille dans le worker partagé des jeux de mots. */
-export function requestPuzzle<P>(request: GenerateRequest): Promise<P> {
-  return runWorker<P>(new Worker(new URL('./worker.ts', import.meta.url), { type: 'module' }), request)
+export function requestPuzzle<P>(request: GenerateRequest, signal?: AbortSignal): Promise<P> {
+  return runWorker<P>(new Worker(new URL('./worker.ts', import.meta.url), { type: 'module' }), request, { signal })
 }
 
 export interface GridPrefs<S extends string> {

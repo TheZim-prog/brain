@@ -2,6 +2,7 @@ import { useCallback, useEffect, useReducer, useState } from 'react'
 import { formatTime } from '../../lib/format'
 import { load, remove, save } from '../../lib/storage'
 import { useTicker } from '../../lib/useTicker'
+import { useCancellable } from '../../lib/worker'
 import { activeClue, gridReducer, newGame, type GridState } from '../mots/state'
 import { LEVELS } from '../mots/types'
 import { ClueBar, GridPicker, GridTools, Keyboard, requestPuzzle, useGridKeyboard, Victory, type GridPrefs } from '../mots/ui'
@@ -18,14 +19,16 @@ export default function MotsFlechesPage() {
   })
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const nextSignal = useCancellable()
 
   const start = ({ size, level }: GridPrefs<SizeId>) => {
+    const signal = nextSignal()
     setLoading(true)
     setError(null)
-    requestPuzzle<ArrowWords>({ game: 'fleches', size, level })
+    requestPuzzle<ArrowWords>({ game: 'fleches', size, level }, signal)
       .then((puzzle) => setGame((g) => ({ id: (g?.id ?? 0) + 1, state: newGame(puzzle) })))
-      .catch(() => setError('La grille n’a pas pu être préparée. Réessaie !'))
-      .finally(() => setLoading(false))
+      .catch(() => signal.aborted || setError('La grille n’a pas pu être préparée. Réessaie !'))
+      .finally(() => signal.aborted || setLoading(false))
   }
 
   const quit = () => {

@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { load, remove } from '../../lib/storage'
-import { runWorker } from '../../lib/worker'
+import { runWorker, useCancellable } from '../../lib/worker'
 import { CrossBoard } from '../mots-croises/CrossBoard'
 import { newGame, type GridState } from '../mots/state'
 import { GridPicker, type GridPrefs } from '../mots/ui'
@@ -17,14 +17,16 @@ export default function NombresCroisesPage() {
   })
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const nextSignal = useCancellable()
 
   const start = ({ size, level }: GridPrefs<SizeId>) => {
+    const signal = nextSignal()
     setLoading(true)
     setError(null)
-    runWorker<NumberCross>(new Worker(new URL('./worker.ts', import.meta.url), { type: 'module' }), { size, level })
+    runWorker<NumberCross>(new Worker(new URL('./worker.ts', import.meta.url), { type: 'module' }), { size, level }, { signal })
       .then((puzzle) => setGame((g) => ({ id: (g?.id ?? 0) + 1, state: newGame(puzzle) })))
-      .catch(() => setError('La grille n’a pas pu être préparée. Réessaie !'))
-      .finally(() => setLoading(false))
+      .catch(() => signal.aborted || setError('La grille n’a pas pu être préparée. Réessaie !'))
+      .finally(() => signal.aborted || setLoading(false))
   }
 
   const quit = () => {

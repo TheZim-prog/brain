@@ -19,6 +19,10 @@ const MAX_DOMAIN: Record<Level, number> = { facile: 12, difficile: 400 }
 const MAX_LENGTH = 5
 /** Au-delà, la définition devient une énumération indigeste. */
 const MAX_CLUES = 3
+// En pratique une grille aboutit en quelques essais ; ces plafonds évitent de tourner sans fin si un réglage
+// rendait la génération impossible : le worker renvoie alors une erreur à l'écran.
+const MAX_LAYOUT_ATTEMPTS = 1000
+const MAX_GRID_ATTEMPTS = 200
 const BLACK_RATIO = 0.18
 
 export interface NumberClue {
@@ -72,7 +76,7 @@ function slotsOf(W: number, H: number, black: boolean[]): Slot[] {
 
 /** Cases noires au hasard : jamais collées, nombres de 2 à 5 chiffres, chaque case blanche dans au moins un nombre. */
 function layout(W: number, H: number, rng: () => number): boolean[] {
-  for (;;) {
+  for (let attempt = 0; attempt < MAX_LAYOUT_ATTEMPTS; attempt++) {
     const black = Array<boolean>(W * H).fill(false)
     const canBlacken = (i: number) => {
       const r = Math.floor(i / W), c = i % W
@@ -99,6 +103,7 @@ function layout(W: number, H: number, rng: () => number): boolean[] {
     const covered = new Set(slots.flatMap((s) => s.cells))
     if (black.every((b, i) => b || covered.has(i))) return black
   }
+  throw new Error('Impossible de placer les cases noires')
 }
 
 const range = (k: number) => Array.from({ length: 9 * 10 ** (k - 1) }, (_, i) => 10 ** (k - 1) + i)
@@ -157,9 +162,9 @@ export function joinClues(parts: string[]) {
   return parts.map((t, i) => (i === 0 ? t : t[0].toLowerCase() + t.slice(1))).join(', ')
 }
 
-export function generate(size: SizeId, level: Level, rng: () => number = Math.random): NumberCross {
+export function generate(size: SizeId, level: Level, rng: () => number = Math.random, maxAttempts = MAX_GRID_ATTEMPTS): NumberCross {
   const { width: W, height: H } = SIZES.find((s) => s.id === size)!
-  for (;;) {
+  for (let attempt = 0; attempt < maxAttempts; attempt++) {
     const black = layout(W, H, rng)
     const slots = slotsOf(W, H, black)
     // Chiffres au hasard ; un nombre ne commence jamais par 0.
@@ -221,4 +226,5 @@ export function generate(size: SizeId, level: Level, rng: () => number = Math.ra
       .sort((a, b) => Number(a.dir === 'v') - Number(b.dir === 'v') || a.line - b.line || a.cells[0] - b.cells[0])
     return { width: W, height: H, solution, clues, size, level }
   }
+  throw new Error('Impossible de générer une grille à solution unique')
 }

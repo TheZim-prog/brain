@@ -40,6 +40,10 @@ describe('propriétés', () => {
 })
 
 describe('générateur de nombres croisés', () => {
+  it('renvoie une erreur au lieu de tourner sans fin', () => {
+    expect(() => generate('petite', 'facile', Math.random, 0)).toThrow('Impossible')
+  })
+
   for (const { id: size } of SIZES)
     for (const { id: level } of LEVELS)
       it(`${size} · ${level} : grille valide`, () => {
