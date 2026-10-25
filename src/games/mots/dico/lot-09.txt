@@ -1,0 +1,323 @@
+# Lot 9 : animaux, plantes, nature
+abeille|Insecte du miel|Butineuse
+agneau|Petit de la brebis|Doux comme un ___
+aigrette|Petit héron blanc|Plumet
+albatros|Grand oiseau marin|Oiseau de Baudelaire
+alevin|Jeune poisson|Poisson d'élevage
+alouette|Oiseau des champs|Gentille ___
+anchois|Petit poisson salé|Garniture de pizza
+anguille|Poisson serpentiforme|Il y a ___ sous roche
+antilope|Ruminant rapide|Gazelle
+araignée|Arachnide|Tisseuse de toile
+ânesse|Femelle de l'âne|Bourrique
+autour|Rapace|Tout ___
+baudet|Âne|Bourricot
+belette|Petit carnivore|Mustélidé
+bélier|Mâle de la brebis|Signe du zodiaque
+bergeronnette|Petit oiseau des bords de l'eau|Hochequeue
+biche|Femelle du cerf|Ma ___
+bigorneau|Coquillage|Escargot de mer
+blaireau|Mustélidé|Pinceau à barbe
+bouquetin|Chèvre des Alpes|Ongulé des cimes
+bourdon|Gros insecte velu|Grosse cloche
+brebis|Femelle du mouton|Ovin
+brochet|Poisson carnassier|Requin d'eau douce
+buffle|Bovin d'Asie|Bœuf sauvage
+busard|Rapace|Oiseau de proie
+caille|Petit gibier à plumes|Ma ___ : mon chou
+calmar|Céphalopode|Encornet
+canari|Oiseau jaune|Serin
+caniche|Chien frisé|Toutou à pompons
+caribou|Renne du Canada|Cervidé du Nord
+carpe|Poisson d'étang|Muet comme une ___
+castor|Rongeur bâtisseur|Barrage vivant
+chacal|Canidé charognard|Hyène du désert
+chameau|Ruminant à deux bosses|Mauvais caractère
+chamois|Antilope des Alpes|Peau douce
+chardonneret|Oiseau chanteur coloré|Passereau
+chenille|Larve de papillon|Bande de roulement
+cheval|Équidé|Monture
+chevreuil|Petit cervidé|Gibier des bois
+chimpanzé|Grand singe|Primate africain
+chinchilla|Petit rongeur|Fourrure douce
+cigale|Insecte chanteur|Elle chante tout l'été
+cigogne|Échassier|Elle apporte les bébés
+civette|Petit carnivore|Ciboulette
+cobaye|Cochon d'Inde|Sujet d'expérience
+colibri|Oiseau-mouche|Tout petit oiseau
+colombe|Oiseau de paix|Pigeon blanc
+condor|Grand vautour des Andes|Rapace géant
+coquille|Carapace de mollusque|Faute de frappe
+corbeau|Oiseau noir|Auteur de lettres anonymes
+corneille|Oiseau noir|Dramaturge du Cid
+coucou|Oiseau|Pendule suisse
+couleuvre|Serpent inoffensif|Avaler des ___
+crapaud|Batracien|Fauteuil bas
+crevette|Petit crustacé|Bouquet
+criquet|Insecte sauteur|Sauterelle
+crocodile|Grand reptile|Larmes de ___
+cygne|Oiseau blanc|Chant du ___
+daim|Cervidé|Cuir velouté
+dauphin|Cétacé|Héritier du trône
+dindon|Volaille|Pigeon, dupe
+dromadaire|Chameau à une bosse|Vaisseau du désert
+écrevisse|Crustacé d'eau douce|Rouge comme une ___
+écureuil|Rongeur roux|Il amasse des noisettes
+élan|Grand cervidé|Impulsion
+épagneul|Chien de chasse|Chien à longues oreilles
+épervier|Rapace|Filet de pêche
+escargot|Gastéropode|Lambin
+esturgeon|Poisson à caviar|Gros poisson
+étourneau|Oiseau|Écervelé
+faisan|Gibier à plumes|Escroc
+fauvette|Petit oiseau chanteur|Passereau
+flamant|Échassier rose|Oiseau des Camargue
+fouine|Petit carnivore|Personne curieuse
+fourmi|Insecte social|Picotement
+frelon|Grosse guêpe|Insecte piqueur
+furet|Petit carnivore|Il court, il court
+gardon|Poisson d'eau douce|Frais comme un ___
+gazelle|Antilope gracieuse|Silhouette fine
+gecko|Petit lézard|Lézard collant
+gerbille|Petit rongeur|Rat du désert
+girafe|Animal au long cou|Perche à micro
+goéland|Oiseau de mer|Grosse mouette
+gorille|Grand singe|Garde du corps
+goujon|Petit poisson|Cheville de bois
+grenouille|Batracien|Bigote
+grillon|Insecte chanteur|Cri-cri
+grive|Oiseau|Faute de ___, on mange des merles
+guépard|Félin rapide|Fauve des savanes
+guêpe|Insecte piqueur|Taille de ___
+hamster|Petit rongeur|Animal de cage
+hareng|Poisson|Sec comme un ___
+hérisson|Mammifère à piquants|Boule épineuse
+héron|Échassier|Oiseau des marais
+hirondelle|Oiseau migrateur|Elle annonce le printemps
+homard|Crustacé|Rouge comme un ___
+huître|Mollusque|Perle cachée
+hyène|Charognard|Rire de ___
+jaguar|Félin d'Amérique|Fauve tacheté
+jument|Femelle du cheval|Cavale
+lapereau|Jeune lapin|Petit lapin
+léopard|Félin tacheté|Panthère
+lézard|Reptile|Faire le ___
+libellule|Insecte aux ailes fines|Demoiselle
+lièvre|Rongeur rapide|Courir deux ___
+limace|Gastéropode sans coquille|Lambin
+linotte|Petit oiseau|Tête de ___
+lionne|Femelle du lion|Fauve
+loir|Rongeur dormeur|Dormir comme un ___
+loutre|Mammifère aquatique|Nageuse joueuse
+louve|Femelle du loup|Mère de Romulus
+luciole|Insecte lumineux|Ver luisant
+maquereau|Poisson|Proxénète
+marmotte|Rongeur des montagnes|Gros dormeur
+martinet|Oiseau|Fouet
+méduse|Animal marin gélatineux|Gorgone
+merlan|Poisson|Coiffeur, en argot
+mésange|Petit oiseau|Passereau
+moineau|Petit oiseau|Piaf
+morse|Mammifère à défenses|Code télégraphique
+mouette|Oiseau de mer|Rieuse
+moustique|Insecte piqueur|Petit enfant
+mulet|Hybride|Poisson de mer
+musaraigne|Petit insectivore|Souris à museau pointu
+oison|Petit de l'oie|Naïf
+orque|Épaulard|Baleine tueuse
+otarie|Lion de mer|Mammifère marin
+ourson|Petit ours|Nounours
+outarde|Grand oiseau|Gibier des steppes
+palourde|Coquillage|Clam
+panthère|Félin|Fauve noir
+papillon|Insecte aux ailes colorées|Nœud ___
+passereau|Petit oiseau|Moineau
+pélican|Oiseau à poche|Gros bec
+perdrix|Gibier à plumes|Perdreau
+perroquet|Oiseau parleur|Répète bêtement
+phoque|Mammifère marin|Veau marin
+pie|Oiseau bavard|Elle chaparde ce qui brille
+pieuvre|Poulpe|Organisation tentaculaire
+pigeon|Oiseau des villes|Dupe
+pingouin|Oiseau marin|Manchot du Nord
+pinson|Petit oiseau|Gai comme un ___
+pivert|Oiseau qui frappe les arbres|Pic vert
+poney|Petit cheval|Monture d'enfant
+poulain|Petit du cheval|Protégé
+poulpe|Pieuvre|Céphalopode
+poussin|Petit de la poule|Débutant
+puceron|Petit insecte|Parasite des rosiers
+putois|Petit carnivore|Crier comme un ___
+python|Grand serpent|Langage informatique
+rainette|Petite grenouille|Pomme
+raton|Petit rat|___ laveur
+renard|Animal rusé|Goupil
+renne|Cervidé du Nord|Traîneau du père Noël
+requin|Squale|Homme d'affaires sans pitié
+rhinocéros|Pachyderme à corne|Animal cuirassé
+rossignol|Oiseau chanteur|Fausse clé
+rouget|Poisson rouge|Poisson de roche
+sanglier|Porc sauvage|Gibier des bois
+sardine|Petit poisson|Galon de sergent
+saumon|Poisson rose|Il remonte les rivières
+sauterelle|Insecte sauteur|Femme maigre
+scarabée|Insecte|Coléoptère
+scorpion|Arachnide|Signe du zodiaque
+serin|Petit oiseau jaune|Benêt
+singe|Primate|Imitateur
+souris|Petit rongeur|Accessoire d'ordinateur
+tanche|Poisson d'étang|Poisson verdâtre
+taureau|Bovin mâle|Signe du zodiaque
+termite|Insecte|Fourmi blanche
+tigre|Fauve rayé|Fauve du Bengale
+tortue|Reptile à carapace|Lente
+tourterelle|Oiseau|Colombe
+truite|Poisson de rivière|Saumonée
+vautour|Rapace charognard|Rapace humain
+vipère|Serpent venimeux|Langue de ___
+zèbre|Équidé rayé|Drôle de type
+acacia|Arbre épineux|Mimosa
+ajonc|Arbuste épineux|Lande bretonne
+amarante|Plante|Rouge pourpre
+anémone|Fleur|___ de mer
+aubépine|Arbuste fleuri|Épine blanche
+azalée|Arbuste fleuri|Rhododendron
+bambou|Graminée géante|Nourriture du panda
+bégonia|Fleur|Plante d'appartement
+bleuet|Fleur bleue|Fleur des champs
+bouleau|Arbre à écorce blanche|Bois clair
+bruyère|Plante des landes|Pipe de ___
+buisson|Arbuste|Fourré
+camélia|Arbuste fleuri|La Dame aux ___
+capucine|Fleur orange|Fleur comestible
+cèdre|Grand conifère|Arbre du Liban
+cerisier|Arbre fruitier|Arbre en fleurs au Japon
+chardon|Plante épineuse|Emblème écossais
+châtaignier|Arbre|Arbre à marrons
+chèvrefeuille|Plante grimpante|Liane parfumée
+ciguë|Plante toxique|Poison de Socrate
+citronnier|Arbre fruitier|Agrume
+clématite|Plante grimpante|Liane fleurie
+coquelicot|Fleur rouge|Pavot des champs
+cyprès|Conifère élancé|Arbre des cimetières
+dahlia|Fleur|Fleur d'automne
+églantine|Fleur de l'églantier|Rose sauvage
+épicéa|Conifère|Sapin de Noël
+érable|Arbre|Sirop d'___
+eucalyptus|Arbre aromatique|Nourriture du koala
+fougère|Plante des sous-bois|Plante sans fleur
+fuchsia|Fleur|Rose violacé
+genêt|Arbuste jaune|Plante des landes
+géranium|Fleur de balcon|Pélargonium
+glycine|Plante grimpante|Liane mauve
+hêtre|Arbre|Bois clair
+hortensia|Fleur en boule|Arbuste fleuri
+iris|Fleur|Partie de l'œil
+jacinthe|Fleur à bulbe|Fleur parfumée
+jasmin|Fleur parfumée|Thé au ___
+jonquille|Fleur jaune|Narcisse
+laurier|Arbuste|Feuille de sauce
+lavande|Plante parfumée|Bleu de Provence
+lierre|Plante grimpante|Il s'attache
+lilas|Arbuste fleuri|Mauve
+magnolia|Arbre fleuri|Fleur blanche
+marronnier|Arbre|Arbre à marrons d'Inde
+mélèze|Conifère|Bois de montagne
+menthe|Plante aromatique|Sirop vert
+mimosa|Arbre à fleurs jaunes|Fleur du Midi
+muguet|Fleur du 1er mai|Clochettes blanches
+myosotis|Petite fleur bleue|Ne-m'oubliez-pas
+narcisse|Fleur|Personne vaniteuse
+noisetier|Arbuste|Coudrier
+oeillet|Fleur|Petit trou
+olivier|Arbre|Symbole de paix
+orchidée|Fleur exotique|Vanille
+ortie|Plante qui pique|Jeter son froc aux ___
+pâquerette|Petite fleur blanche|Au ras des ___
+pavot|Plante à opium|Fleur rouge
+peuplier|Arbre élancé|Bois tendre
+pissenlit|Plante jaune|Manger les ___ par la racine
+platane|Arbre des places|Arbre du Midi
+pommier|Arbre fruitier|Arbre à pommes
+primevère|Fleur de printemps|Coucou
+réglisse|Plante sucrée|Bâton noir
+roseau|Plante des marais|Il plie mais ne rompt pas
+sapin|Conifère|Arbre de Noël
+saule|Arbre des rives|Pleureur
+sauge|Plante aromatique|Herbe sacrée
+séquoia|Arbre géant|Arbre de Californie
+sureau|Arbuste|Baies noires
+tilleul|Arbre|Infusion
+tournesol|Fleur jaune|Graines d'huile
+trèfle|Plante à trois feuilles|Couleur aux cartes
+tulipe|Fleur à bulbe|Fleur de Hollande
+verveine|Plante|Infusion
+vigne|Plante du raisin|Vignoble
+violette|Petite fleur|Couleur
+avalanche|Coulée de neige|Déluge
+averse|Pluie|Ondée
+blizzard|Tempête de neige|Vent glacé
+bourrasque|Coup de vent|Rafale
+brouillard|Brume|Purée de pois
+bruine|Petite pluie|Crachin
+canicule|Forte chaleur|Été torride
+crachin|Petite pluie|Bruine
+cyclone|Tempête tournante|Ouragan
+déluge|Pluie torrentielle|Inondation
+éclaircie|Ciel dégagé|Embellie
+embruns|Gouttes de mer|Écume
+foudre|Éclair|Coup de ___
+frimas|Brouillard givrant|Hiver
+gel|Glace|Froid
+givre|Glace fine|Gelée blanche
+grêle|Pluie de glace|Maigre
+grésil|Petite grêle|Pluie gelée
+mousson|Pluie d'Asie|Saison des pluies
+neigeux|Couvert de neige|Enneigé
+nuageux|Couvert|Gris
+orageux|Électrique|Tendu
+ouragan|Tempête|Cyclone
+rafale|Coup de vent|Salve
+rosée|Gouttes du matin|Perles d'aube
+sécheresse|Manque d'eau|Aridité
+tempête|Ouragan|Orage violent
+tonnerre|Grondement|Du ___ : génial
+typhon|Cyclone|Tempête d'Asie
+verglas|Glace sur la route|Patinoire naturelle
+archipel|Groupe d'îles|Îles
+baie|Golfe|Petit fruit
+banquise|Mer gelée|Glace polaire
+bassin|Étang|Région
+cap|Promontoire|Direction
+cascade|Chute d'eau|Succession
+caverne|Grotte|Antre
+cirque|Chapiteau|Vallée en arc
+col|Passage|Encolure
+colline|Butte|Coteau
+côte|Littoral|Montée
+cratère|Bouche de volcan|Trou
+crique|Petite baie|Anse
+delta|Embouchure|Lettre grecque
+dune|Colline de sable|Relief du désert
+estuaire|Embouchure|Bouche de fleuve
+falaise|Escarpement|Côte rocheuse
+fjord|Golfe norvégien|Bras de mer
+geyser|Source jaillissante|Jet d'eau chaude
+glacier|Mer de glace|Marchand de glaces
+gouffre|Abîme|Précipice
+grotte|Caverne|Antre
+isthme|Langue de terre|Bande étroite
+lagune|Étendue d'eau salée|Lido
+marais|Marécage|Zone humide
+massif|Groupe de montagnes|Lourd
+oasis|Halte verte|Refuge
+péninsule|Presqu'île|Avancée de terre
+plaine|Terrain plat|Pays plat
+plateau|Haute plaine|Décor de tournage
+prairie|Pré|Herbage
+rivage|Bord de mer|Côte
+savane|Prairie tropicale|Steppe africaine
+steppe|Plaine aride|Plaine d'Asie
+toundra|Steppe arctique|Plaine glacée
+vallée|Val|Creux entre deux monts
+volcan|Mont qui crache|Etna

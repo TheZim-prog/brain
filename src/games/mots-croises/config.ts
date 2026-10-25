@@ -13,10 +13,10 @@ export interface Crossword extends WordPuzzle<CrossClue> {
 }
 
 export const SIZES: { id: SizeId; label: string; width: number; height: number; blocks: number }[] = [
-  { id: 'petite', label: 'Petite', width: 7, height: 7, blocks: 0.18 },
-  { id: 'moyenne', label: 'Moyenne', width: 9, height: 9, blocks: 0.18 },
+  { id: 'petite', label: 'Petite', width: 7, height: 7, blocks: 0.16 },
+  { id: 'moyenne', label: 'Moyenne', width: 9, height: 9, blocks: 0.16 },
   // En 11×11, il faut un peu plus de cases noires pour que le remplissage aboutisse vite.
-  { id: 'grande', label: 'Grande', width: 11, height: 11, blocks: 0.22 },
+  { id: 'grande', label: 'Grande', width: 11, height: 11, blocks: 0.18 },
 ]
 
 /** 1 → I, 4 → IV, 9 → IX… : les lignes des mots croisés sont numérotées en chiffres romains. */

@@ -1,0 +1,621 @@
+# Lot 6 : pluriels de mots du dictionnaire
+âges|Nombres d'années|Époques
+ales|Bières anglaises|Blondes d'outre-Manche
+aves|Prières à Marie|Salutations angéliques
+boas|Serpents|Écharpes de plumes
+bues|Avalées|Absorbées
+clés|Elles ouvrent|Signes musicaux
+cous|Ils portent les têtes|Encolures
+crus|Pas cuits|Vins de terroir
+cuirs|Peaux tannées|Blousons de motard
+dits|Prononcés|Surnommés
+dots|Apports des mariées|Biens de mariage
+dues|Méritées|Exigibles
+egos|Moi|Amours-propres
+émus|Touchés|Bouleversés
+gais|Joyeux|Enjoués
+gins|Alcools de genièvre|Eaux-de-vie anglaises
+gnus|Antilopes d'Afrique|Animaux à barbe
+lues|Parcourues des yeux|Déchiffrées
+mues|Changements de peau|Voix qui changent
+nées|Venues au monde|Natives
+nefs|Parties d'églises|Navires d'autrefois
+nets|Propres|Sans les taxes
+pals|Pieux|Supplices anciens
+paris|Mises|Capitale de la France
+purs|Sans mélange|Innocents
+rais|Rayons|Traits de lumière
+rias|Vallées envahies par la mer|Abers
+rocs|Rochers|Personnes solides
+secs|Pas mouillés|Sans eau
+sets|Manches au tennis|Napperons
+socs|Lames de charrue|Fers de charrue
+taos|Voies chinoises|Principes taoïstes
+thés|Boissons chaudes|Infusions asiatiques
+vans|Fourgons à chevaux|Paniers à vanner
+zoos|Parcs animaliers|Ménageries
+jobs|Petits boulots|Emplois
+facs|Universités|Campus
+docs|Docteurs, familièrement|Documents
+tops|Les meilleurs|Signaux de départ
+psys|Thérapeutes|Ils écoutent sur le divan
+bips|Signaux sonores|Petits sons
+kits|Ensembles à monter|Trousses
+infos|Nouvelles|Informations
+demis|Moitiés|Verres de bière
+shows|Spectacles|Numéros
+lords|Nobles anglais|Pairs du royaume
+comas|Pertes de conscience|Sommeils profonds
+baux|Contrats de location|Locations
+crans|Encoches|Courages
+booms|Explosions|Essors
+cocos|Noix tropicales|Mes chéris
+nulles|Aucunes|Sans valeur
+lycées|Établissements scolaires|Après le collège
+tantes|Sœurs du père|Tatas
+styles|Manières|Allures
+majors|Premiers de promotion|Grades militaires
+lundis|Premiers jours de la semaine|Débuts de semaine
+fières|Orgueilleuses|Altières
+coachs|Entraîneurs|Mentors
+chairs|Viandes|Peaux
+crânes|Boîtes osseuses|Têtes
+gaffes|Bévues|Maladresses
+mardis|Jours après lundi|Jours de Mars
+finals|Derniers|Ultimes
+pianos|Instruments à clavier|Claviers
+mamies|Grands-mères|Mémés
+neveux|Fils du frère|Parents
+taules|Prisons, en argot|Cellules
+frigos|Réfrigérateurs|Glacières
+phases|Étapes|Périodes
+métros|Trains souterrains|Transports urbains
+cruels|Méchants|Impitoyables
+flashs|Éclairs de photo|Informations urgentes
+veuves|Femmes dont le mari est mort|Endeuillées
+motels|Hôtels de bord de route|Haltes routières
+mordus|Passionnés|Croqués
+restos|Restaurants, familièrement|Cantines
+badges|Insignes|Cartes d'accès
+asiles|Refuges|Abris
+aimées|Chéries|Adorées
+dalles|Plaques de pierre|Carreaux
+dindes|Volailles de Noël|Sottes
+tendus|Crispés|Étirés
+délits|Infractions|Méfaits
+revues|Magazines|Défilés
+usages|Utilisations|Coutumes
+barons|Nobles|Titres de noblesse
+mafias|Organisations criminelles|Pègres
+quêtes|Recherches|Collectes
+pendus|Suspendus|Jeux de lettres
+ligues|Associations|Championnats
+accros|Dépendants|Passionnés
+acides|Aigres|Caustiques
+jetées|Digues|Lancées
+bidons|Récipients à essence|Faux
+sobres|Qui ne boivent pas|Simples
+peints|Colorés|Badigeonnés
+tabacs|Plantes à fumer|Bureaux de tabac
+règnes|Royautés|Gouvernements
+bazars|Désordres|Magasins
+demies|Moitiés|Trente minutes
+taupes|Petits mammifères|Espions infiltrés
+noyers|Arbres à noix|Bois de meubles
+tordus|Courbés|Vicieux
+villas|Maisons de vacances|Résidences
+promos|Rabais|Promotions
+lasers|Rayons lumineux|Faisceaux
+élites|Les meilleurs|Crèmes
+engins|Machines|Appareils
+pestes|Épidémies|Enfants insupportables
+guéris|Rétablis|Soignés
+sèches|Pas mouillées|Cigarettes, en argot
+aérés|Ventilés|Pas étouffants
+altos|Voix graves|Instruments à cordes
+amers|Pas sucrés|Repères côtiers
+anses|Poignées|Petites baies
+ardus|Difficiles|Pas commodes
+âtres|Foyers de cheminée|Coins du feu
+aubes|Levers du jour|Vêtements de prêtres
+auges|Abreuvoirs|Mangeoires
+avals|Garanties|Cautions
+bâtis|Construits|Charpentes
+bises|Baisers|Vents du nord
+bleds|Villages perdus|Trous paumés
+bobos|Petits maux|Bourgeois bohèmes
+bœufs|Bovins|Énormes
+bonds|Sauts|Élans
+bruts|Sans élaboration|Avant les taxes
+canes|Femelles du canard|Elles barbotent
+capes|Manteaux sans manches|Accessoires de torero
+carrés|Quadrilatères|Francs
+cimes|Sommets|Hauts des arbres
+cônes|Formes pointues|Fruits du pin
+crics|Outils pour lever une voiture|Bruits secs
+cures|Traitements|Presbytères
+cuves|Grands réservoirs|Fosses à vin
+dépôts|Entrepôts|Sédiments
+dieux|Divinités|Olympiens
+dupes|Trompés|Pigeons
+échos|Sons renvoyés|Rumeurs
+élans|Impulsions|Cerfs du Nord
+élues|Choisies|Députées
+émeus|Grands oiseaux d'Australie|Coureurs australiens
+émirs|Princes arabes|Chefs musulmans
+encres|Liquides pour écrire|Sépias
+étals|Comptoirs de marché|Tables de boucher
+étaux|Outils qui serrent|Presses d'établi
+faces|Visages|Côtés d'une pièce
+fades|Sans goût|Insipides
+fards|Maquillages|Rougeurs
+fiefs|Domaines|Territoires réservés
+flans|Desserts|Bluffs
+foies|Organes filtrants|Gras du Sud-Ouest
+foins|Herbes séchées|Tapages
+fours|Appareils de cuisson|Échecs complets
+frits|Cuits dans l'huile|Fichus
+frocs|Pantalons|Habits de moines
+gales|Maladies de peau|Mauvaises personnes
+gazes|Tissus légers|Pansements
+gaies|Joyeuses|Enjouées
+gîtes|Abris|Logements de vacances
+gnous|Antilopes|Grands herbivores
+golfs|Sports de green|Baies
+gonds|Pivots de porte|Sortir de ses ___
+gongs|Instruments à percussion|Fins de rounds
+grues|Engins de levage|Échassiers
+guets|Surveillances|Faire le ___
+hères|Pauvres hommes|Malheureux
+hivers|Saisons froides|Frimas
+hunes|Plates-formes de mâts|Postes de vigie
+îlots|Petites îles|Pâtés de maisons
+innés|Naturels|Pas acquis
+issus|Nés de|Provenant
+isbas|Maisons russes|Chalets de Sibérie
+jades|Pierres vertes|Gemmes chinoises
+javas|Danses populaires|Fêtes
+judos|Sports de combat|Arts martiaux
+jurys|Commissions|Jurés
+kakis|Fruits orange|Couleurs militaires
+kiwis|Fruits verts|Oiseaux néo-zélandais
+lards|Graisses de porc|Gras
+laids|Moches|Pas beaux
+laits|Boissons blanches|Laitages
+lamas|Ruminants des Andes|Moines tibétains
+lests|Poids de navire|Ballasts
+lieux|Endroits|Toilettes
+limes|Outils à ongles|Petits citrons
+lobes|Bouts d'oreilles|Parties du cerveau
+lotos|Jeux de hasard|Tirages
+luths|Instruments à cordes|Ancêtres des guitares
+mages|Magiciens|Rois venus d'Orient
+magies|Sorcelleries|Enchantements
+mares|Petits étangs|Flaques
+midis|Douze heures|Suds
+miels|Produits de l'abeille|Douceurs
+modes|Tendances|Manières
+moues|Grimaces|Lèvres boudeuses
+muscs|Parfums animaux|Odeurs musquées
+nages|Styles de natation|Brasses
+nases|Fichus|Nuls
+nièces|Filles du frère|Parentes
+noëls|Fêtes de décembre|Chants de fête
+ocres|Jaunes-bruns|Terres colorées
+onces|Petites quantités|Panthères des neiges
+opéras|Œuvres lyriques|Théâtres chantés
+orées|Lisières|Bords des bois
+orges|Céréales de la bière|Sucres d'orge
+ormes|Arbres|Bois d'orme
+osées|Audacieuses|Risquées
+ovnis|Objets volants non identifiés|Soucoupes
+pairs|Divisibles par deux|Lords anglais
+pales|Ailes d'hélice|Rames
+panés|Enrobés de chapelure|Sans le sou
+paons|Oiseaux qui font la roue|Vaniteux
+papes|Chefs de l'Église|Souverains pontifes
+parts|Portions|Lots
+pelés|Épluchés|Chauves
+plots|Blocs|Pièces de contact
+pulls|Tricots|Chandails
+pures|Sans mélange|Chastes
+purées|Écrasés de légumes|Misères
+rades|Bassins naturels|Ports
+rages|Colères|Maladies du chien
+raies|Poissons plats|Lignes dans les cheveux
+rames|Avirons|Trains de métro
+rasés|Sans barbe|Démolis
+rayés|Striés|Biffés
+rhums|Alcools de canne|Spécialités antillaises
+riens|Bagatelles|Broutilles
+rings|Estrades de boxe|Arènes
+rôtis|Viandes cuites au four|Grillés
+rudes|Rugueux|Pénibles
+ruses|Astuces|Stratagèmes
+sakés|Alcools de riz|Boissons japonaises
+sapins|Arbres de Noël|Conifères
+scies|Outils à dents|Refrains répétés
+seins|Poitrine|Mamelles
+sèves|Liquides des plantes|Vigueurs
+sires|Seigneurs|Majestés
+snobs|Prétentieux|Hautains
+soies|Fils de ver|Tissus luxueux
+soifs|Envies de boire|Désirs
+soles|Poissons plats|Dessous de sabots
+souks|Marchés arabes|Désordres
+stars|Vedettes|Étoiles
+stops|Arrêts|Panneaux rouges
+suies|Résidus noirs|Dépôts de cheminée
+taies|Housses d'oreiller|Taches sur l'œil
+taris|À sec|Épuisés
+ternes|Sans éclat|Fades
+thons|Poissons|Conserves
+tiges|Queues de fleurs|Tringles
+tôles|Feuilles de métal|Prisons, en argot
+tomes|Volumes|Fromages de Savoie
+tracs|Peurs avant de jouer|Angoisses de scène
+trams|Tramways|Transports sur rails
+trios|Groupes de trois|Ensembles musicaux
+tubas|Instruments à vent|Tubes de plongeur
+tuiles|Couvertures de toit|Malchances
+usées|Abîmées|Fatiguées
+vains|Inutiles|Vaniteux
+vases|Récipients à fleurs|Boues
+veaux|Petits de la vache|Mous
+vetos|Refus|Oppositions
+vices|Défauts|Perversions
+visas|Autorisations d'entrée|Tampons de passeport
+voûtes|Plafonds courbes|Arcs
+yacks|Bœufs du Tibet|Ruminants d'altitude
+zèles|Ardeurs|Empressements
+abîmes|Gouffres|Précipices
+abords|Accès|Alentours
+aciers|Métaux durs|Fers alliés
+adieux|Au revoir|Séparations
+agiles|Souples|Lestes
+aigles|Rapaces|Génies
+aigres|Acides|Revêches
+alibis|Excuses|Preuves d'absence
+amples|Larges|Vastes
+arènes|Amphithéâtres|Lieux de corrida
+arômes|Parfums|Odeurs agréables
+astres|Étoiles|Corps célestes
+atouts|Avantages|Cartes maîtresses
+autels|Tables de messe|Lieux de sacrifice
+avants|Devants|Attaquants
+avares|Radins|Harpagons
+avides|Gourmands|Cupides
+avoirs|Biens|Crédits
+bacons|Lards fumés|Petits-déjeuners anglais
+balais|Brosses à long manche|Années, en argot
+banals|Ordinaires|Communs
+barbes|Poils du menton|Ennuis
+berges|Rives|Années, en argot
+biches|Femelles du cerf|Mes chéries
+billes|Petites boules|Têtes, en argot
+blêmes|Pâles|Livides
+bontés|Gentillesses|Générosités
+bourgs|Villages|Petites villes
+brefs|Courts|Concis
+brumes|Brouillards|Voiles humides
+cadets|Plus jeunes|Benjamins
+canaux|Voies d'eau|Chaînes de télé
+cannes|Bâtons|Roseaux à sucre
+canots|Petits bateaux|Barques
+carpes|Poissons d'eau douce|Muets comme des ___
+chênes|Arbres|Bois nobles
+cidres|Boissons de pomme|Breuvages normands
+colles|Pâtes adhésives|Questions difficiles
+coques|Coquilles|Carcasses de bateaux
+cotons|Fibres|Ouates
+crabes|Crustacés|Ils marchent de travers
+craies|Bâtons pour tableau|Calcaires blancs
+crèmes|Laitages|Le top
+cuites|Préparées au feu|Ivresses
+cycles|Périodes|Vélos
+délais|Temps accordés|Sursis
+deuils|Pertes|Chagrins
+devins|Voyants|Prophètes
+drames|Tragédies|Catastrophes
+durées|Temps|Longueurs
+écarts|Distances|Différences
+égales|Pareilles|Semblables
+emails|Courriels|Vernis des dents
+étangs|Plans d'eau|Mares
+étuves|Fournaises|Lieux surchauffés
+éviers|Bacs de cuisine|Plonges
+exacts|Justes|Précis
+exils|Bannissements|Éloignements
+fables|Récits moraux|Mensonges
+fauves|Bêtes sauvages|Roussâtres
+filets|Mailles|Morceaux de bœuf
+flairs|Odorats|Intuitions
+foires|Fêtes foraines|Marchés
+fosses|Trous|Tombes
+foules|Multitudes|Masses
+fouets|Lanières|Ustensiles de cuisine
+froids|Glacials|Distants
+fronts|Hauts du visage|Lignes de combat
+fumées|Vapeurs du feu|Nuages gris
+galets|Cailloux polis|Pierres de plage
+globes|Sphères|Ampoules rondes
+gorges|Gosiers|Défilés
+grèves|Arrêts de travail|Plages de sable
+guides|Accompagnateurs|Manuels
+haines|Aversions|Hostilités
+heurts|Chocs|Conflits
+hontes|Humiliations|Gênes
+huiles|Corps gras|Personnes importantes
+idéals|Modèles|Parfaits
+labels|Étiquettes|Marques
+laines|Fibres de mouton|Pulls
+légers|Peu lourds|Frivoles
+loupes|Verres grossissants|Ratés
+loyers|Prix de location|Termes
+lueurs|Faibles lumières|Espoirs
+luttes|Combats|Sports
+maires|Premiers magistrats|Édiles
+manies|Habitudes|Tics
+marées|Flux de la mer|Poissons frais
+marges|Bords|Latitudes
+mauves|Violets pâles|Fleurs
+mèches|Touffes de cheveux|Cordons de bougie
+melons|Fruits d'été|Chapeaux ronds
+mercis|Remerciements|Grâces
+merles|Oiseaux noirs|Siffleurs
+messes|Offices religieux|Cérémonies
+métaux|Fer ou cuivre|Minerais
+minces|Sveltes|Fins
+moraux|Éthiques|Mentaux
+moules|Coquillages|Formes
+musées|Galeries|Collections
+naïfs|Candides|Crédules
+nappes|Linges de table|Couches
+neiges|Flocons|Poudreuses
+neuves|Nouvelles|Jamais servies
+oncles|Frères du père|Tontons
+orages|Tempêtes|Éclairs et tonnerre
+orgues|Instruments d'église|Tuyaux sonores
+pannes|Arrêts accidentels|Avaries
+paumes|Creux de la main|Jeux anciens
+pauses|Arrêts|Repos
+pelles|Outils pour creuser|Baisers, en argot
+pentes|Déclivités|Inclinaisons
+pluies|Averses|Ondées
+poires|Fruits du poirier|Naïfs
+poupes|Arrières des navires|Vents en ___
+proses|Écrits sans vers|Styles
+proues|Avants des navires|Étraves
+prunes|Fruits violets|Amendes, en argot
+quarts|Quatrièmes parties|Gardes à bord
+queues|Appendices|Files d'attente
+raides|Rigides|Escarpés
+rampes|Mains courantes|Projecteurs de scène
+reculs|Retraits|Distances
+reines|Souveraines|Pièces d'échecs
+roches|Pierres|Rochers
+rondes|Tours de garde|Notes de musique
+ruches|Maisons des abeilles|Fourmilières humaines
+sables|Grains de plage|Couleurs beiges
+sabots|Pieds de cheval|Chaussures de bois
+salons|Pièces de réception|Expositions
+saluts|Bonjours|Sauvetages
+sauces|Assaisonnements|Jus
+saules|Arbres pleureurs|Osiers
+selles|Sièges de cheval|Pièces de viande
+serres|Abris vitrés|Griffes
+seuils|Entrées|Limites
+sirops|Liquides sucrés|Médicaments
+socles|Bases|Piédestaux
+soldes|Rabais|Paies de militaires
+songes|Rêves|Penses
+soupes|Potages|Bouillons
+stades|Terrains de sport|Phases
+stylos|Instruments d'écriture|Plumes
+sucres|Douceurs|Saccharoses
+suites|Continuations|Appartements d'hôtel
+thèmes|Sujets|Versions inverses
+torses|Bustes|Poitrines
+trônes|Sièges royaux|Règnes
+valses|Danses viennoises|Changements rapides
+vestes|Vêtements|Échecs
+zèbres|Équidés rayés|Drôles de types
+hiboux|Rapaces nocturnes|Oiseaux de nuit
+spas|Bains à remous|Centres de bien-être
+duos|Paires d'artistes|Morceaux à deux voix
+raps|Musiques urbaines|Morceaux de hip-hop
+ires|Colères|Courroux
+lins|Plantes textiles|Tissus d'été
+sucs|Jus|Sèves
+ergs|Déserts de dunes|Mers de sable
+brus|Belles-filles|Épouses des fils
+solos|Seuls|Morceaux pour un musicien
+papys|Grands-pères|Pépés
+yogas|Disciplines indiennes|Postures
+duels|Combats à deux|Face-à-face
+miles|Mesures anglaises|Distances aériennes
+futés|Malins|Rusés
+noyés|Submergés|Perdus
+minis|Tout petits|Jupes courtes
+cinés|Cinémas, en bref|Salles obscures
+galas|Soirées de prestige|Réceptions
+têtus|Entêtés|Obstinés
+ordis|Ordinateurs, en bref|PC
+flous|Pas nets|Imprécis
+cires|Matières d'abeille|Encaustiques
+crues|Montées des eaux|Pas cuites
+blogs|Journaux en ligne|Carnets web
+jeeps|Véhicules tout-terrain|4x4 militaires
+clins|___ d'œil|Battements de paupière
+boucs|Mâles de la chèvre|Barbiches
+butés|Obstinés|Tués, en argot
+surfs|Glisses sur les vagues|Planches
+parus|Publiés|Sortis
+pôles|Nord et Sud|Centres d'attraction
+polos|Sports à cheval|Chemises à col
+raids|Attaques éclair|Expéditions
+expos|Expositions, en bref|Salons
+cédés|Vendus|Abandonnés
+cales|Fonds des navires|Coins de bois
+punks|Rebelles à crête|Rockeurs
+dorés|Couleur d'or|Bronzés
+clips|Vidéos musicales|Pinces
+brins|Fils|Petits morceaux
+logos|Emblèmes de marques|Sigles
+tsars|Empereurs russes|Souverains absolus
+topos|Exposés|Résumés
+tatas|Tantes|Tantines
+mémos|Notes|Pense-bêtes
+bêtas|Lettres grecques|Nigauds
+dénis|Refus|Négations
+vexés|Froissés|Offensés
+décos|Décorations|Aménagements
+bides|Échecs|Ventres
+sofas|Canapés|Divans
+étuis|Fourreaux|Boîtes de protection
+sagas|Épopées|Longues histoires
+émois|Troubles|Agitations
+taons|Grosses mouches|Insectes piqueurs
+lices|Arènes|Barrières
+arias|Airs d'opéra|Mélodies
+crins|Poils de cheval|Matelas de ___
+dards|Aiguillons|Piques d'abeille
+écots|Quotes-parts|Contributions
+imams|Guides religieux|Chefs de prière
+linos|Revêtements de sol|Linoléums
+mokas|Cafés|Gâteaux à la crème
+najas|Cobras|Serpents venimeux
+ogres|Géants mangeurs d'enfants|Gros mangeurs
+oraux|Examens parlés|Épreuves orales
+saris|Vêtements indiens|Drapés colorés
+silos|Réservoirs à grain|Abris à missiles
+sumos|Lutteurs japonais|Poids lourds
+tipis|Tentes indiennes|Abris coniques
+tutus|Jupes de danseuse|Tenues de ballerine
+urnes|Boîtes à bulletins|Vases funéraires
+arums|Plantes à cornet|Fleurs blanches
+radars|Détecteurs|Contrôles de vitesse
+haltes|Arrêts|Pauses
+poètes|Écrivains en vers|Rêveurs
+sabres|Épées courbes|Lames
+levées|Ramassages du courrier|Plis aux cartes
+sénats|Assemblées|Chambres hautes
+sueurs|Transpirations|Efforts
+haches|Outils de bûcheron|Cognées
+farces|Blagues|Hachis de remplissage
+appâts|Leurres|Asticots
+proies|Victimes|Gibiers
+pactes|Accords|Alliances
+stocks|Réserves|Provisions
+isolés|Seuls|Retirés
+bétons|Ciments armés|Matériaux solides
+scores|Résultats|Marques
+vertus|Qualités morales|Chastetés
+gilets|Vestes sans manches|Pare-balles
+rhumes|Nez qui coulent|Coryzas
+divins|De Dieu|Exquis
+deltas|Embouchures|Lettres grecques
+culots|Toupets|Audaces
+stages|Formations|Périodes d'essai
+gelées|Confitures|Givres
+blâmes|Reproches|Sanctions
+rubans|Galons|Bandes de tissu
+égards|Considérations|Attentions
+bilans|Résultats|Comptes de l'année
+nuques|Arrières du cou|Hauts du dos
+valets|Domestiques|Cartes à jouer
+idoles|Stars|Statues de dieux
+doyens|Les plus âgés|Chefs de faculté
+butins|Prises|Trésors volés
+ninjas|Guerriers japonais|Espions masqués
+périls|Dangers|Risques
+trêves|Pauses|Cessez-le-feu
+épaves|Navires échoués|Loques
+meutes|Bandes de chiens|Hordes
+minous|Petits chats|Chatons
+sectes|Groupes fermés|Clans religieux
+scoops|Exclusivités|Infos exclusives
+brunes|Bières foncées|Aux cheveux sombres
+cultes|Religions|Vénérations
+exclus|Rejetés|Mis à l'écart
+sérums|Liquides médicaux|Vaccins
+teints|Couleurs du visage|Colorés
+cargos|Navires de marchandises|Avions de fret
+fondus|Liquéfiés|Passionnés
+arches|Voûtes|Bateaux de Noé
+tangos|Danses argentines|Oranges vifs
+envois|Expéditions|Colis
+scouts|Éclaireurs|Toujours prêts
+appuis|Soutiens|Aides
+poneys|Petits chevaux|Montures d'enfants
+grades|Rangs|Galons
+promus|Élevés en grade|Avancés
+wagons|Voitures de train|Fourgons
+fondés|Créés|Justifiés
+fatals|Mortels|Inévitables
+shorts|Culottes courtes|Bermudas
+récits|Histoires|Narrations
+malles|Coffres|Bagages
+agités|Nerveux|Remués
+noyaux|Pépins durs|Centres des atomes
+punchs|Cocktails|Énergies
+sceaux|Cachets|Marques officielles
+ancres|Elles retiennent les navires|Symboles marins
+tyrans|Despotes|Dictateurs
+nonnes|Religieuses|Sœurs
+flancs|Côtés|Hanches
+fléaux|Calamités|Instruments à battre le blé
+cobras|Serpents à lunettes|Najas
+bennes|Caisses basculantes|Wagonnets
+venins|Poisons|Méchancetés
+capots|Dessus de moteurs|Couvercles
+oublis|Omissions|Amnésies
+divans|Canapés|Lits de psy
+firmes|Entreprises|Sociétés
+bannis|Exilés|Chassés
+forges|Ateliers de forgeron|Fabriques
+golfes|Grandes baies|Échancrures de côte
+tarifs|Prix|Barèmes
+momies|Corps embaumés|Pharaons bandés
+gazons|Pelouses|Herbes
+jokers|Cartes maîtresses|Atouts
+virils|Mâles|Masculins
+hymnes|Chants solennels|Odes
+enjeux|Mises|Ce qui est en jeu
+rejets|Refus|Pousses
+bocaux|Pots de verre|Aquariums ronds
+clones|Copies|Doubles génétiques
+aînées|Premières-nées|Plus âgées
+radins|Avares|Pingres
+crêtes|Sommets|Huppes du coq
+dagues|Poignards|Lames courtes
+titans|Géants|Colosses
+troncs|Corps des arbres|Boîtes à aumônes
+gommes|Effaceurs|Caoutchoucs
+boxers|Chiens|Caleçons
+répits|Pauses|Trêves
+pandas|Ours bambous|Emblèmes du WWF
+forums|Places romaines|Lieux de débat
+fifres|Petites flûtes|Joueurs de flûte
+huppes|Touffes de plumes|Crêtes
+igloos|Maisons de glace|Abris inuits
+kayaks|Canoës fermés|Embarcations inuites
+lassos|Cordes à nœud coulant|Armes du cow-boy
+pagnes|Jupes de raphia|Vêtements sommaires
+satins|Tissus brillants|Soies lisses
+tapirs|Mammifères à trompe|Ongulés d'Amérique
+usures|Détériorations|Prêts abusifs
+yogis|Adeptes du yoga|Sages indiens
+zébus|Bœufs à bosse|Bovins d'Inde
+atolls|Îles en anneau|Récifs coralliens
+banjos|Instruments à cordes|Guitares rondes
+daubes|Ragoûts|Navets, en argot
+frênes|Arbres|Bois de manche
+glands|Fruits du chêne|Benêts
+houles|Mouvements de la mer|Vagues longues
+koalas|Marsupiaux australiens|Mangeurs d'eucalyptus
+lagons|Lacs d'atoll|Eaux turquoise
+nacres|Intérieurs de coquillage|Reflets irisés
+quotas|Parts fixées|Contingents
+ravins|Gorges|Précipices
+verves|Éloquences|Brios

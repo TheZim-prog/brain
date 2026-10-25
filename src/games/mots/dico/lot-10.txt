@@ -1,0 +1,311 @@
+# Lot 10 : maison, objets, vêtements, corps, cuisine, outils, transports
+abat-jour|Cache-lumière|Chapeau de lampe
+aiguière|Cruche|Broc ancien
+alcôve|Renfoncement|Niche pour un lit
+armoire|Penderie|Placard
+balcon|Loggia|Galerie de théâtre
+bassine|Récipient|Cuvette
+bibelot|Petit objet décoratif|Babiole
+bougeoir|Chandelier|Support de bougie
+buffet|Meuble de salle à manger|Repas debout
+bureau|Meuble de travail|Office
+cadenas|Serrure mobile|Verrou
+cafetière|Machine à café|Tête, en argot
+carafe|Pichet|Récipient à eau
+carreau|Vitre|Couleur aux cartes
+casier|Rangement|Antécédents judiciaires
+cellier|Cave à provisions|Réserve
+chaise|Siège|Siège électrique
+chambre|Pièce pour dormir|Assemblée
+chaudron|Marmite|Pot de sorcière
+cheminée|Foyer|Conduit de fumée
+cintre|Portemanteau|Arc de voûte
+commode|Meuble à tiroirs|Pratique
+couette|Édredon|Queue de cheveux
+coussin|Oreiller|Amortisseur
+couvercle|Dessus de casserole|Bouchon
+cruche|Pichet|Sotte
+cuvette|Bassine|Dépression
+divan|Canapé|Lit de psy
+écuelle|Bol|Gamelle
+édredon|Couette|Couvre-lit
+entrée|Vestibule|Hors-d'œuvre
+escabeau|Petite échelle|Marchepied
+étagère|Rayonnage|Tablette
+évier|Bac de cuisine|Plonge
+fauteuil|Siège|Bergère
+fenêtre|Croisée|Ouverture
+gamelle|Écuelle|Chute
+grenier|Combles|Réserve à grain
+guéridon|Petite table ronde|Table d'appoint
+hamac|Lit suspendu|Filet
+lampe|Luminaire|Ampoule
+lampadaire|Lampe sur pied|Réverbère
+lavabo|Évier de salle de bains|Bassin
+louche|Grande cuillère|Suspect
+lucarne|Petite fenêtre|Œil-de-bœuf
+marmite|Gros récipient|Faitout
+matelas|Literie|Coussin de lit
+miroir|Glace|Reflet
+moquette|Revêtement de sol|Tapis
+oreiller|Coussin|Traversin
+palier|Repos d'escalier|Étape
+paravent|Écran pliant|Cloison mobile
+passoire|Égouttoir|Elle fuit
+penderie|Placard à vêtements|Armoire
+persienne|Volet|Jalousie
+pichet|Cruche|Carafe
+placard|Armoire|Affiche
+plafond|Haut de pièce|Limite maximale
+plancher|Sol|Parquet
+poêle|Ustensile de cuisine|Fourneau
+portail|Grande porte|Site d'accueil web
+poubelle|Corbeille|Ordures
+radiateur|Chauffage|Calorifère
+rideau|Voilage|Fin de spectacle
+robinet|Valve d'eau|Bec de lavabo
+saladier|Récipient à salade|Jatte
+serrure|Verrou|Gâche
+serviette|Linge de toilette|Cartable
+sonnette|Carillon|Avertisseur
+soucoupe|Sous-tasse|Engin volant
+spatule|Ustensile plat|Bout de ski
+tabouret|Siège sans dossier|Escabeau
+tapis|Moquette|Au ___ : au sol
+théière|Pot à thé|Récipient chinois
+tiroir|Casier de meuble|Compartiment
+torchon|Linge de cuisine|Mauvais journal
+véranda|Pièce vitrée|Galerie
+verrou|Loquet|Obstacle
+vestibule|Entrée|Hall
+volet|Persienne|Partie
+anorak|Veste imperméable|Parka
+bague|Anneau|Alliance
+baskets|Chaussures de sport|Tennis
+bermuda|Short long|Culotte
+béret|Coiffure basque|Galette sur la tête
+blazer|Veste|Veston
+blouson|Veste courte|Perfecto
+bonnet|Chapeau de laine|Gros ___
+bottes|Chaussures hautes|Gerbes
+bottine|Petite botte|Chaussure montante
+boucle|Anneau|Mèche frisée
+bracelet|Bijou du poignet|Jonc
+bretelle|Lanière|Route de raccordement
+caleçon|Sous-vêtement|Boxer
+casquette|Couvre-chef à visière|Gavroche
+ceinture|Taille|Sangle
+chapeau|Couvre-chef|Introduction
+chaussette|Bas court|Socquette
+chemise|Vêtement à boutons|Pochette
+chemisier|Corsage|Blouse
+collant|Bas|Qui colle
+collier|Bijou de cou|Collerette
+corsage|Chemisier|Haut féminin
+costume|Complet|Déguisement
+cravate|Accessoire de col|Nœud
+écharpe|Cache-nez|Bande de maire
+espadrille|Chaussure de toile|Sandale basque
+foulard|Fichu|Carré de soie
+gants|Mitaines|Ils couvrent les mains
+gilet|Veste sans manches|___ de sauvetage
+imperméable|Ciré|Étanche
+jupon|Sous-jupe|Cotillon
+kimono|Robe japonaise|Tenue de judo
+lunettes|Verres correcteurs|Binocles
+maillot|Tenue de sport|Tenue de bain
+manteau|Pardessus|Couche
+mitaine|Gant sans doigts|Moufle
+mocassin|Chaussure souple|Serpent
+moufle|Gant à pouce|Maladroit
+nœud|Lien serré|Vitesse marine
+pantalon|Jean|Culotte longue
+pantoufle|Chausson|Charentaise
+parapluie|Pépin|Abri portatif
+parka|Anorak|Manteau à capuche
+peignoir|Robe de chambre|Sortie de bain
+poncho|Cape|Manteau sud-américain
+pyjama|Tenue de nuit|Vêtement de nuit
+sabot|Chaussure de bois|Pied de cheval
+sandale|Chaussure d'été|Nu-pieds
+smoking|Tenue de soirée|Veste habillée
+soulier|Chaussure|Godillot
+survêtement|Jogging|Tenue de sport
+tablier|Blouse|Protège-vêtement
+tailleur|Ensemble féminin|Couturier
+tricot|Pull|Chandail
+tunique|Robe droite|Haut long
+uniforme|Tenue réglementaire|Régulier
+veston|Veste|Blazer
+abdomen|Ventre|Bas du tronc
+aisselle|Creux sous le bras|Dessous de bras
+artère|Vaisseau sanguin|Grande rue
+cerveau|Organe de la pensée|Génie
+cheville|Articulation du pied|Pièce d'assemblage
+clavicule|Os de l'épaule|Os du thorax
+colonne|Pilier|Rubrique
+cuisse|Haut de la jambe|Morceau de poulet
+épaule|Haut du bras|Soutient
+estomac|Panse|Culot
+gencive|Chair des dents|Mâchoire
+genou|Articulation de la jambe|Rotule
+gorge|Gosier|Défilé
+hanche|Articulation du bassin|Côté du corps
+intestin|Boyau|Tube digestif
+larynx|Organe de la voix|Gosier
+mâchoire|Os des dents|Maxillaire
+mollet|Bas de la jambe|Muscle de la jambe
+narine|Trou du nez|Naseau
+nombril|Centre du ventre|Centre du monde
+nuque|Arrière du cou|Haut du dos
+omoplate|Os de l'épaule|Scapula
+orteil|Doigt de pied|Petit doigt du pied
+paupière|Voile de l'œil|Cil
+pouce|Gros doigt|Unité de longueur
+poignet|Articulation de la main|Manchette
+poumon|Organe respiratoire|Bronche
+prunelle|Pupille|Fruit sauvage
+rotule|Os du genou|Pièce mécanique
+squelette|Ossature|Charpente
+tempe|Côté du front|Côté de la tête
+tendon|Attache du muscle|Achille en a un
+thorax|Poitrine|Cage thoracique
+tibia|Os de la jambe|Os du mollet
+vertèbre|Os du dos|Os de la colonne
+abricot|Fruit orange|Fruit à noyau
+amande|Fruit sec|Pâte d'___
+ananas|Fruit tropical|Fruit à couronne
+artichaut|Légume à feuilles|Cœur d'___
+asperge|Légume en tige|Grande personne maigre
+aubergine|Légume violet|Pervenche
+banane|Fruit jaune|Sac de ceinture
+baguette|Pain long|Bâton de chef
+betterave|Racine rouge|Sucre de ___
+beurre|Graisse du lait|Il se mange sur le pain
+biscotte|Pain grillé|Tartine sèche
+bonbon|Friandise|Sucrerie
+brioche|Pain viennois|Ventre rebondi
+brocoli|Chou vert|Légume en bouquet
+carotte|Légume orange|Récompense
+céleri|Légume|Rémoulade
+cerise|Fruit rouge|La ___ sur le gâteau
+champignon|Bolet|Accélérateur
+chou-fleur|Légume blanc|Oreille de boxeur
+ciboulette|Herbe aromatique|Civette
+citron|Agrume jaune|Tête, en argot
+citrouille|Courge orange|Carrosse de Cendrillon
+clémentine|Petit agrume|Mandarine
+compote|Purée de fruits|Marmelade
+concombre|Légume vert|Cornichon géant
+confiture|Fruits cuits au sucre|Gelée
+cornichon|Petit concombre|Nigaud
+courgette|Légume vert|Courge
+crêpe|Galette|Tissu froissé
+croissant|Viennoiserie|Lune incomplète
+dessert|Fin de repas|Douceur
+échalote|Bulbe|Petit oignon
+endive|Chicorée|Légume blanc
+épinard|Légume vert|Force de Popeye
+fenouil|Légume anisé|Aneth
+fraise|Fruit rouge|Outil de dentiste
+framboise|Fruit rouge|Petit fruit des bois
+fromage|Produit laitier|Camembert
+galette|Crêpe|Gâteau des rois
+gaufre|Pâtisserie|Gâteau quadrillé
+gigot|Morceau d'agneau|Manche bouffante
+groseille|Petit fruit rouge|Baie acide
+haricot|Légume|C'est la fin des ___
+jambon|Charcuterie|Cuisse de porc
+ketchup|Sauce tomate|Condiment des frites
+laitue|Salade|Feuilles vertes
+lentille|Légume sec|Verre de contact
+mandarine|Agrume|Langue chinoise
+mangue|Fruit tropical|Fruit jaune
+mayonnaise|Sauce|Ça prend ou pas
+merguez|Saucisse épicée|Saucisse du Maghreb
+moutarde|Condiment|Elle monte au nez
+myrtille|Baie bleue|Petit fruit des bois
+navet|Légume racine|Mauvais film
+noisette|Fruit sec|Café ___
+nougat|Confiserie|Spécialité de Montélimar
+omelette|Œufs battus|Plat d'œufs
+orange|Agrume|Couleur vive
+pamplemousse|Gros agrume|Pomelo
+pastèque|Gros fruit d'été|Melon d'eau
+patate|Pomme de terre|Coup de poing
+pistache|Fruit sec|Vert ___
+poireau|Légume|Faire le ___ : attendre
+poivron|Légume|Piment doux
+potiron|Courge|Citrouille
+quiche|Tarte salée|Lorraine
+radis|Petite racine|Pas un ___
+raisin|Fruit de la vigne|Grappe
+rillettes|Charcuterie|Pâté du Mans
+saucisse|Charcuterie|Chipolata
+saucisson|Charcuterie|Rosette
+semoule|Grain de blé dur|Couscous
+tartine|Pain beurré|Long discours
+tomate|Légume rouge|Fruit du potager
+vinaigre|Condiment acide|Faire ___
+yaourt|Laitage|Yogourt
+aiguille|Tige de couture|Pic montagneux
+burin|Ciseau à métal|Outil de graveur
+cisaille|Gros ciseaux|Coupe-haie
+clé|Elle ouvre|Signe musical
+compas|Instrument de géométrie|Avoir le ___ dans l'œil
+crochet|Hameçon|Détour
+enclume|Bloc de forge|Entre le marteau et l'___
+équerre|Outil d'angle|Té
+étau|Outil qui serre|Presse d'établi
+fourche|Outil à dents|Bifurcation
+hache|Outil de bûcheron|Cognée
+levier|Barre|Moyen d'action
+marteau|Outil à frapper|Fou
+perceuse|Outil à percer|Foreuse
+pinceau|Brosse de peintre|Faisceau
+pioche|Outil à creuser|Pile de cartes
+rabot|Outil de menuisier|Varlope
+râteau|Outil de jardin|Échec amoureux
+scie|Outil à dents|Refrain répété
+sécateur|Ciseaux de jardinier|Taille-haie
+tenaille|Outil qui serre|Pince
+tournevis|Outil à vis|Visseuse
+truelle|Outil de maçon|Spatule
+autocar|Car|Bus de voyage
+avion|Appareil volant|Coucou
+barque|Canot|Embarcation
+bateau|Navire|Embarcation
+bicyclette|Vélo|Deux-roues
+camion|Poids lourd|Véhicule de transport
+canoë|Embarcation légère|Pirogue
+caravane|Roulotte|Convoi
+carriole|Charrette|Voiture à cheval
+chaloupe|Canot|Barque de sauvetage
+charrette|Carriole|Char
+diligence|Voiture à chevaux|Zèle
+fiacre|Voiture à cheval|Taxi d'antan
+frégate|Navire de guerre|Oiseau de mer
+galère|Navire antique|Situation pénible
+goélette|Voilier|Bateau à deux mâts
+hélicoptère|Appareil à rotor|Hélico
+jonque|Bateau chinois|Voilier asiatique
+locomotive|Machine de train|Leader
+métro|Train souterrain|Transport urbain
+mobylette|Cyclomoteur|Mob
+moto|Deux-roues|Bécane
+navette|Liaison régulière|Engin spatial
+paquebot|Grand navire|Bateau de croisière
+péniche|Bateau de rivière|Chaussure énorme
+pirogue|Embarcation|Canoë
+radeau|Embarcation de fortune|Plateforme flottante
+remorque|Véhicule tiré|Traction
+scooter|Deux-roues|Vespa
+sous-marin|Navire submersible|Espion infiltré
+tandem|Vélo à deux|Duo
+tracteur|Engin agricole|Remorqueur
+traîneau|Luge|Véhicule du père Noël
+tramway|Tram|Transport sur rails
+trottinette|Patinette|Planche à guidon
+voilier|Bateau à voiles|Navire
+wagon|Voiture de train|Fourgon
+yacht|Bateau de luxe|Voilier de plaisance

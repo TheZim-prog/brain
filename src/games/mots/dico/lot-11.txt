@@ -1,0 +1,376 @@
+# Lot 11 : géographie et peuples
+ain|Département de Bourg-en-Bresse|Affluent du Rhône
+aisne|Département de Laon|Rivière de Soissons
+allier|Département de Moulins|Associer
+ardèche|Département de Privas|Gorges célèbres
+ardennes|Massif forestier|Département de Charleville
+ariège|Département de Foix|Rivière pyrénéenne
+aude|Département de Carcassonne|Fleuve du Languedoc
+aveyron|Département de Rodez|Rivière du Rouergue
+cantal|Fromage d'Auvergne|Département d'Aurillac
+charente|Département d'Angoulême|Fleuve de Cognac
+corrèze|Département de Tulle|Rivière limousine
+doubs|Département de Besançon|Rivière du Jura
+drôme|Département de Valence|Affluent du Rhône
+eure|Département d'Évreux|Affluent de la Seine
+gard|Département de Nîmes|Pont célèbre
+gers|Département d'Auch|Pays de l'armagnac
+gironde|Estuaire de Bordeaux|Département bordelais
+hérault|Département de Montpellier|Fleuve languedocien
+ille|___-et-Vilaine|Rivière de Rennes
+indre|Département de Châteauroux|Affluent de la Loire
+isère|Département de Grenoble|Affluent du Rhône
+jura|Massif frontalier|Département de Lons-le-Saunier
+landes|Département de Mont-de-Marsan|Forêt de pins
+loire|Plus long fleuve de France|Châteaux de la ___
+loiret|Département d'Orléans|Affluent de la Loire
+lozère|Département de Mende|Pays des Cévennes
+marne|Rivière de Champagne|Taxis de la ___
+mayenne|Département de Laval|Rivière de l'Ouest
+meuse|Fleuve de Verdun|Département de Bar-le-Duc
+morbihan|Golfe breton|Département de Vannes
+moselle|Rivière de Metz|Vin blanc
+nièvre|Département de Nevers|Affluent de la Loire
+oise|Département de Beauvais|Affluent de la Seine
+rhône|Fleuve de Lyon|Vallée du ___
+saône|Rivière de Chalon|Elle rejoint le Rhône à Lyon
+sarthe|Département du Mans|Rivière de l'Ouest
+savoie|Région des Alpes|Département de Chambéry
+seine|Fleuve de Paris|Les quais de la ___
+tarn|Département d'Albi|Gorges célèbres
+var|Département de Toulon|Fleuve niçois
+vendée|Département de La Roche-sur-Yon|Guerres de ___
+vosges|Massif de l'Est|Département d'Épinal
+yonne|Département d'Auxerre|Affluent de la Seine
+essonne|Département d'Évry|Rivière d'Île-de-France
+rhin|Fleuve de Strasbourg|Fleuve allemand
+nil|Fleuve d'Égypte|Il traverse Le Caire
+arno|Fleuve de Florence|Rivière toscane
+ebre|Fleuve d'Espagne|Rivière de Saragosse
+elbe|Fleuve de Hambourg|Île de Napoléon
+oder|Fleuve germano-polonais|Rivière de l'Est
+ob|Fleuve de Sibérie|Fleuve russe
+tage|Fleuve de Lisbonne|Fleuve ibérique
+danube|Fleuve de Vienne|Le beau ___ bleu
+volga|Fleuve russe|Le plus long d'Europe
+gange|Fleuve sacré de l'Inde|Bénarès est sur ses rives
+indus|Fleuve du Pakistan|Civilisation antique
+congo|Fleuve d'Afrique|Brazzaville
+niger|Fleuve d'Afrique de l'Ouest|Pays de Niamey
+amazone|Fleuve d'Amérique du Sud|Guerrière mythique
+escaut|Fleuve d'Anvers|Fleuve franco-belge
+adour|Fleuve de Bayonne|Fleuve landais
+durance|Rivière de Provence|Affluent du Rhône
+dordogne|Rivière du Périgord|Département de Périgueux
+meurthe|Rivière de Nancy|___-et-Moselle
+sambre|Rivière belge|___-et-Meuse
+aar|Rivière de Berne|Rivière suisse
+inn|Rivière d'Innsbruck|Affluent du Danube
+isar|Rivière de Munich|Rivière bavaroise
+ill|Rivière de Strasbourg|Rivière d'Alsace
+lys|Rivière flamande|Fleur royale
+nice|Ville de la promenade des Anglais|Baie des Anges
+metz|Ville de Lorraine|Préfecture de la Moselle
+lyon|Capitale des Gaules|Ville des bouchons
+agen|Ville des pruneaux|Préfecture du Lot-et-Garonne
+albi|Ville de Toulouse-Lautrec|Préfecture du Tarn
+pau|Ville du Béarn|Préfecture des Pyrénées-Atlantiques
+dax|Ville thermale des Landes|Station de cure
+sète|Port de l'Hérault|Ville de Brassens
+aix|___-en-Provence|___-les-Bains
+arles|Ville de Van Gogh|Arènes provençales
+nîmes|Ville des arènes|Préfecture du Gard
+lille|Capitale des Flandres|Préfecture du Nord
+brest|Port du Finistère|Rade bretonne
+caen|Préfecture du Calvados|Ville de Guillaume le Conquérant
+nantes|Ville des ducs de Bretagne|Préfecture de Loire-Atlantique
+reims|Ville des sacres|Cathédrale champenoise
+blois|Ville de château royal|Préfecture du Loir-et-Cher
+dole|Ville natale de Pasteur|Ville du Jura
+auch|Préfecture du Gers|Ville de d'Artagnan
+rodez|Préfecture de l'Aveyron|Ville de Soulages
+laon|Préfecture de l'Aisne|Ville perchée
+gap|Préfecture des Hautes-Alpes|Écart, en anglais
+die|Ville de la clairette|Ville de la Drôme
+apt|Ville du Luberon|Capitale des fruits confits
+vence|Ville de Matisse|Cité des Alpes-Maritimes
+lens|Ville du Pas-de-Calais|Club sang et or
+niort|Préfecture des Deux-Sèvres|Ville du Marais poitevin
+tulle|Préfecture de la Corrèze|Tissu léger
+millau|Ville du viaduc|Ville de l'Aveyron
+cahors|Préfecture du Lot|Vin noir
+foix|Préfecture de l'Ariège|Ville de Gaston Phébus
+tarbes|Préfecture des Hautes-Pyrénées|Ville du haras
+bayonne|Ville du jambon|Port basque
+biarritz|Station basque|Rocher de la Vierge
+ajaccio|Ville natale de Napoléon|Préfecture corse
+bastia|Ville de Haute-Corse|Port corse
+antibes|Ville du cap|Juan-les-Pins
+grasse|Capitale du parfum|Ville des Alpes-Maritimes
+toulon|Port militaire|Préfecture du Var
+avignon|Cité des papes|Sur le pont d'___
+valence|Préfecture de la Drôme|Ville d'Espagne
+grenoble|Capitale des Alpes|Préfecture de l'Isère
+annecy|Ville du lac|Venise des Alpes
+chambéry|Préfecture de la Savoie|Ville des ducs
+évian|Eau minérale|Ville du Léman
+thonon|Ville du Chablais|Rive du Léman
+dijon|Ville de la moutarde|Capitale bourguignonne
+beaune|Ville des hospices|Vin de Bourgogne
+mâcon|Préfecture de Saône-et-Loire|Ville de Lamartine
+nevers|Préfecture de la Nièvre|Ville de faïence
+bourges|Préfecture du Cher|Printemps de ___
+vierzon|Ville du Cher|Ville de porcelaine
+orléans|Ville de Jeanne d'Arc|Préfecture du Loiret
+chartres|Ville de la cathédrale|Préfecture d'Eure-et-Loir
+évreux|Préfecture de l'Eure|Ville normande
+rouen|Préfecture de Seine-Maritime|Ville de Flaubert
+dieppe|Port normand|Station balnéaire
+havre|Le ___ : port normand|Refuge
+fécamp|Port de la Bénédictine|Ville normande
+calais|Port du détroit|Bourgeois de ___
+boulogne|___-sur-Mer|Bois de ___
+arras|Préfecture du Pas-de-Calais|Ville des beffrois
+amiens|Préfecture de la Somme|Ville de Jules Verne
+beauvais|Préfecture de l'Oise|Ville de cathédrale
+compiègne|Ville de l'Oise|Forêt de l'armistice
+soissons|Ville du vase|Ville de l'Aisne
+troyes|Préfecture de l'Aube|Ville de l'andouillette
+épernay|Capitale du champagne|Ville de la Marne
+verdun|Ville de la grande bataille|Ville de la Meuse
+nancy|Ville de la place Stanislas|Préfecture de Meurthe-et-Moselle
+toul|Ville lorraine|Vin gris
+colmar|Ville alsacienne|Petite Venise
+mulhouse|Ville du Haut-Rhin|Ville de l'automobile
+belfort|Ville du Lion|Territoire de l'Est
+besançon|Préfecture du Doubs|Ville de Victor Hugo
+vesoul|Préfecture de Haute-Saône|Chanson de Brel
+lons|___-le-Saunier|Préfecture du Jura
+limoges|Ville de porcelaine|Préfecture de Haute-Vienne
+guéret|Préfecture de la Creuse|Ville du Limousin
+brive|___-la-Gaillarde|Ville de Corrèze
+périgueux|Préfecture de la Dordogne|Ville du Périgord
+bergerac|Ville de Cyrano|Vin du Périgord
+sarlat|Ville médiévale|Capitale du Périgord noir
+angers|Préfecture de Maine-et-Loire|Ville du roi René
+saumur|Ville du Cadre noir|Vin de Loire
+cholet|Ville du mouchoir|Ville de Maine-et-Loire
+laval|Préfecture de la Mayenne|Ville du Douanier Rousseau
+mans|Le ___ : ville des 24 Heures|Préfecture de la Sarthe
+vannes|Préfecture du Morbihan|Ville bretonne
+lorient|Port du Morbihan|Festival interceltique
+quimper|Préfecture du Finistère|Ville de faïence
+rennes|Capitale de la Bretagne|Ville de Bretagne
+dinan|Ville médiévale bretonne|Ville des Côtes-d'Armor
+dinard|Station balnéaire bretonne|Face à Saint-Malo
+saint-malo|Cité corsaire|Ville de Surcouf
+morlaix|Ville du viaduc|Ville du Finistère
+lannion|Ville des Côtes-d'Armor|Ville des télécoms
+cherbourg|Port du Cotentin|Les Parapluies de ___
+granville|Port de la Manche|Ville de Dior
+lisieux|Ville de sainte Thérèse|Ville normande
+alençon|Préfecture de l'Orne|Ville de dentelle
+bayeux|Ville de la tapisserie|Ville du Calvados
+deauville|Station normande|Planches célèbres
+honfleur|Port normand|Ville de peintres
+poitiers|Préfecture de la Vienne|Bataille de 732
+angoulême|Ville de la BD|Préfecture de la Charente
+saintes|Ville de Charente-Maritime|Ville gallo-romaine
+royan|Station balnéaire charentaise|Ville de la Côte de Beauté
+rochefort|Ville de la Corderie royale|Les Demoiselles de ___
+sedan|Ville des Ardennes|Bataille de 1870
+hyères|Ville du Var|Îles d'Or
+fréjus|Ville du Var|Tunnel alpin
+monaco|Principauté|Rocher monégasque
+rome|Ville éternelle|Capitale de l'Italie
+oslo|Capitale de la Norvège|Ville du prix Nobel de la paix
+bonn|Ancienne capitale allemande|Ville de Beethoven
+riga|Capitale de la Lettonie|Ville balte
+bern|Berne, en allemand|Capitale suisse
+kiev|Capitale de l'Ukraine|Ville du Dniepr
+lima|Capitale du Pérou|Ville des Andes
+quito|Capitale de l'Équateur|Ville sur la ligne
+cuzco|Ancienne capitale inca|Ville du Pérou
+rio|___ de Janeiro|Ville du carnaval
+bahia|État du Brésil|Salvador de ___
+lagos|Grande ville du Nigeria|Port africain
+dakar|Capitale du Sénégal|Fin du rallye
+accra|Capitale du Ghana|Ville africaine
+tunis|Capitale de la Tunisie|Ville de Carthage
+rabat|Capitale du Maroc|Remise
+alger|Capitale de l'Algérie|Ville blanche du Maghreb
+tripoli|Capitale de la Libye|Ville libanaise
+caire|Le ___ : capitale de l'Égypte|Ville du Nil
+luxor|Louxor, en anglais|Temple égyptien
+gaza|Bande de ___|Territoire palestinien
+amman|Capitale de la Jordanie|Ville du Proche-Orient
+beyrouth|Capitale du Liban|Ville du Levant
+damas|Capitale de la Syrie|Chemin de ___
+bagdad|Capitale de l'Irak|Ville des Mille et Une Nuits
+téhéran|Capitale de l'Iran|Ville perse
+kaboul|Capitale de l'Afghanistan|Ville afghane
+delhi|Capitale de l'Inde|New ___
+agra|Ville du Taj Mahal|Ville indienne
+goa|Ancien comptoir portugais|Plages indiennes
+dacca|Capitale du Bangladesh|Ville du Bengale
+hanoï|Capitale du Vietnam|Ville d'Asie
+saïgon|Ancien nom d'Hô Chi Minh-Ville|Ville du Vietnam
+pékin|Capitale de la Chine|Ville interdite
+tokyo|Capitale du Japon|Ville d'Asie
+osaka|Ville japonaise|Port du Kansai
+kobe|Ville japonaise|Bœuf réputé
+séoul|Capitale de la Corée du Sud|Ville asiatique
+taipei|Capitale de Taïwan|Ville chinoise
+manille|Capitale des Philippines|Chanvre
+sydney|Ville de l'opéra|Ville australienne
+perth|Ville d'Australie-Occidentale|Ville écossaise
+hobart|Capitale de la Tasmanie|Ville australienne
+auckland|Ville néo-zélandaise|Port du Pacifique
+ottawa|Capitale du Canada|Ville de l'Ontario
+boston|Ville du Massachusetts|Valse lente
+miami|Ville de Floride|Plage américaine
+dallas|Ville du Texas|Feuilleton culte
+denver|Capitale du Colorado|Ville des Rocheuses
+reno|Ville du Nevada|Ville des divorces
+vegas|Las ___|Ville des casinos
+houston|Ville de la NASA|On a un problème
+atlanta|Capitale de la Géorgie|Ville de Coca-Cola
+seattle|Ville du Nord-Ouest américain|Ville de Microsoft
+chicago|Ville des vents|Ville d'Al Capone
+detroit|Ville de l'automobile|Motown
+havane|Capitale de Cuba|Cigare
+panama|Canal célèbre|Chapeau de paille
+bogota|Capitale de la Colombie|Ville andine
+caracas|Capitale du Venezuela|Ville d'Amérique du Sud
+santiago|Capitale du Chili|Saint-Jacques
+asuncion|Capitale du Paraguay|Ville d'Amérique du Sud
+lapaz|La Paz, capitale bolivienne|Ville la plus haute
+séville|Ville andalouse|Barbier célèbre
+cadix|Port andalou|Ville d'Espagne
+malaga|Ville andalouse|Vin doux
+tolède|Ville des épées|Ville de Castille
+lisbonne|Capitale du Portugal|Ville du Tage
+faro|Ville de l'Algarve|Ville portugaise
+milan|Ville de la mode|Capitale lombarde
+turin|Capitale du Piémont|Saint suaire
+naples|Ville du Vésuve|Ville de la pizza
+florence|Capitale de la Toscane|Ville des Médicis
+pise|Ville de la tour penchée|Ville toscane
+vérone|Ville de Roméo et Juliette|Ville vénitienne
+bologne|Ville de la sauce|Ville d'Émilie
+parme|Ville du jambon|Violette de ___
+palerme|Capitale de la Sicile|Ville sicilienne
+catane|Ville au pied de l'Etna|Port sicilien
+trieste|Port de l'Adriatique|Ville italienne
+athènes|Capitale de la Grèce|Ville de l'Acropole
+sparte|Cité guerrière|Rivale d'Athènes
+corinthe|Cité grecque|Canal de ___
+délos|Île sacrée grecque|Île d'Apollon
+rhodes|Île du colosse|Île grecque
+chypre|Île de Vénus|Île méditerranéenne
+malte|Île méditerranéenne|Ordre de ___
+sofia|Capitale de la Bulgarie|Ville des Balkans
+varna|Port bulgare|Ville de la mer Noire
+bucarest|Capitale de la Roumanie|Ville des Balkans
+prague|Capitale tchèque|Ville aux cent clochers
+graz|Ville autrichienne|Ville de Styrie
+salzbourg|Ville de Mozart|Ville autrichienne
+zurich|Ville suisse|Place financière
+berne|Capitale suisse|Ville de l'ours
+lausanne|Ville olympique|Ville du Léman
+bâle|Ville du Rhin|Ville suisse
+lugano|Ville du Tessin|Lac suisse
+munich|Capitale de la Bavière|Ville de la bière
+berlin|Capitale allemande|Mur célèbre
+hambourg|Port allemand|Ville de l'Elbe
+brême|Port allemand|Musiciens de ___
+cologne|Ville de la cathédrale|Eau de ___
+dresde|Ville de Saxe|Florence de l'Elbe
+leipzig|Ville de Saxe|Ville de Bach
+francfort|Place financière allemande|Saucisse de ___
+stuttgart|Ville de l'automobile|Capitale du Bade-Wurtemberg
+anvers|Port belge|Ville du diamant
+gand|Ville flamande|Ville belge
+bruges|Venise du Nord|Ville flamande
+liège|Ville wallonne|Bouchon de ___
+namur|Capitale wallonne|Ville de la Meuse
+mons|Ville du Doudou|Ville belge
+dinant|Ville du saxophone|Ville de la Meuse
+amsterdam|Capitale néerlandaise|Ville des canaux
+rotterdam|Port néerlandais|Grand port d'Europe
+utrecht|Ville néerlandaise|Traité de 1713
+delft|Ville de faïence bleue|Ville de Vermeer
+dublin|Capitale de l'Irlande|Ville de Joyce
+cork|Ville irlandaise|Liège, en anglais
+belfast|Capitale de l'Irlande du Nord|Ville du Titanic
+oxford|Ville universitaire|Chaussure
+bath|Ville thermale anglaise|Bain, en anglais
+york|Ville anglaise|New ___
+leeds|Ville anglaise|Ville du Yorkshire
+glasgow|Ville écossaise|Port de la Clyde
+édimbourg|Capitale de l'Écosse|Ville du festival
+cardiff|Capitale du pays de Galles|Ville galloise
+moscou|Capitale russe|Ville du Kremlin
+minsk|Capitale de la Biélorussie|Ville slave
+kazan|Ville russe|Capitale du Tatarstan
+omsk|Ville de Sibérie|Ville russe
+tomsk|Ville de Sibérie|Ville universitaire russe
+stockholm|Capitale de la Suède|Syndrome de ___
+uppsala|Ville universitaire suédoise|Ville de Suède
+göteborg|Port suédois|Ville de Suède
+helsinki|Capitale de la Finlande|Ville nordique
+tallinn|Capitale de l'Estonie|Ville balte
+vilnius|Capitale de la Lituanie|Ville balte
+varsovie|Capitale de la Pologne|Pacte de ___
+cracovie|Ville polonaise|Ancienne capitale
+gdansk|Port polonais|Dantzig
+budapest|Capitale de la Hongrie|Ville du Danube
+belgrade|Capitale de la Serbie|Ville des Balkans
+zagreb|Capitale de la Croatie|Ville des Balkans
+split|Port croate|Diviser, en anglais
+sarajevo|Capitale de la Bosnie|Attentat de 1914
+skopje|Capitale de la Macédoine du Nord|Ville des Balkans
+tirana|Capitale de l'Albanie|Ville des Balkans
+ankara|Capitale de la Turquie|Ville d'Anatolie
+izmir|Port turc|Ancienne Smyrne
+smyrne|Ancien nom d'Izmir|Port antique
+troie|Ville du cheval|Cité d'Hélène
+bakou|Capitale de l'Azerbaïdjan|Ville de la Caspienne
+erevan|Capitale de l'Arménie|Ville du Caucase
+tbilissi|Capitale de la Géorgie|Ville du Caucase
+inca|Peuple du Pérou|Empire andin
+maya|Peuple du Yucatán|Civilisation précolombienne
+aztèque|Peuple de Mexico|Empire précolombien
+gaulois|Ancêtre des Français|Astérix en est un
+celte|Peuple antique|Druide
+viking|Navigateur scandinave|Drakkar
+sioux|Peuple des Plaines|Rusé
+apache|Peuple amérindien|Voyou
+cheyenne|Peuple des Plaines|Ville du Wyoming
+mohican|Peuple amérindien|Le Dernier des ___
+huron|Peuple amérindien|Lac américain
+iroquois|Peuple amérindien|Coiffure punk
+inuit|Peuple du Grand Nord|Esquimau
+lapon|Peuple du Nord|Sami
+bantou|Peuple africain|Langue d'Afrique
+zoulou|Peuple sud-africain|Guerrier africain
+masaï|Peuple du Kenya|Pasteur africain
+peul|Peuple d'Afrique de l'Ouest|Éleveur nomade
+touareg|Homme bleu|Nomade du Sahara
+berbère|Peuple d'Afrique du Nord|Amazigh
+kurde|Peuple du Kurdistan|Peuple sans État
+basque|Peuple pyrénéen|Pelote ___
+breton|De Bretagne|Langue celtique
+normand|De Normandie|Viking installé
+picard|De Picardie|Langue d'oïl
+lorrain|De Lorraine|Quiche ___
+alsacien|D'Alsace|Dialecte germanique
+savoyard|De Savoie|Fondue ___
+auvergnat|D'Auvergne|Bougnat
+gascon|De Gascogne|Fanfaron
+niçois|De Nice|Salade ___
+provençal|De Provence|Herbes ___
+occitan|Langue d'oc|Du Sud
+catalan|De Barcelone|Langue romane
+flamand|De Flandre|Néerlandais de Belgique
+wallon|De Wallonie|Belge francophone

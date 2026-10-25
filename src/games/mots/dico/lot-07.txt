@@ -1,0 +1,402 @@
+# Lot 7 : formes conjuguées de verbes courants, et pluriels corrigés
+légaux|Permis par la loi|Licites
+rivaux|Adversaires|Concurrents
+royaux|Du roi|Majestueux
+totaux|Sommes|Complets
+aima|Chérit|Adora
+aimai|Je chéris (passé simple)|J'adorai
+aimes|Chéris|Tu m'___ ?
+aimant|Affectueux|Attire le fer
+aimera|Chérira|Adorera
+aimés|Chéris|Adorés
+chanta|Fredonna|Entonna
+chante|Fredonne|Entonne
+chanté|Fredonné|Entonné
+chants|Mélodies|Airs
+danse|Valse|Bal
+dansa|Valsa|Guincha
+dansé|Valsé|Guinché
+danser|Valser|Guincher
+dansait|Valsait|Guinchait
+parla|Discuta|Bavarda
+parle|Discute|Bavarde
+parlé|Discuté|Oral
+parlez|Discutez|Dites
+jouai|M'amusai|J'interprétai
+joua|S'amusa|Interpréta
+jouât|Qu'il ___|Subjonctif imparfait
+jouées|Interprétées|Trompées
+joués|Interprétés|Trompés
+mangea|Se nourrit|Dévora
+mangé|Avalé|Dévoré
+mangée|Avalée|Dévorée
+mange|Se nourrit|Dévore
+manger|Se nourrir|Dévorer
+porta|Transporta|Soutint
+porte|Entrée|Transporte
+porté|Transporté|Enclin
+portée|Ce qu'on atteint|Petits d'une même mère
+porter|Transporter|Soutenir
+donna|Offrit|Céda
+donne|Offre|Distribution aux cartes
+donné|Offert|Gratuit
+donnée|Information|Offerte
+lava|Nettoya|Rinça
+lavé|Nettoyé|Rincé
+lavée|Nettoyée|Rincée
+lavait|Nettoyait|Rinçait
+garda|Conserva|Surveilla
+garde|Surveillance|Veilleur
+gardé|Conservé|Surveillé
+tomba|Chuta|Choit
+tombe|Sépulture|Chute
+tombé|Chuté|Abattu
+tombée|Chute|Crépuscule
+monta|Grimpa|Escalada
+monte|Grimpe|Escalade
+monté|Grimpé|Assemblé
+montée|Côte|Ascension
+resta|Demeura|Séjourna
+reste|Demeure|Surplus
+resté|Demeuré|Séjourné
+passa|Traversa|Réussit
+passe|Traverse|Transmission du ballon
+passé|Révolu|Autrefois
+passée|Révolue|Ancienne
+leva|Souleva|Hissa
+levé|Debout|Dressé
+levée|Ramassage du courrier|Pli aux cartes
+posa|Déposa|Installa
+pose|Attitude|Installe
+posé|Calme|Placé
+tira|Tracta|Fit feu
+tire|Tracte|Fait feu
+tiré|Fatigué|Prélevé
+mena|Conduisit|Dirigea
+mène|Conduit|Dirige
+mené|Conduit|Dirigé
+usa|Abîma|Employa
+usé|Abîmé|Fatigué
+osa|Se risqua|Eut l'audace
+osé|Audacieux|Risqué
+ôta|Retira|Enleva
+ôté|Enlevé|Retiré
+nia|Contesta|Démentit
+nié|Contesté|Démenti
+niée|Contestée|Démentie
+lia|Attacha|Unit
+lié|Attaché|Uni
+liés|Attachés|Unis
+unit|Rassemble|Marie
+uni|Rassemblé|Sans motif
+finit|Termine|Achève
+fini|Terminé|Achevé
+finie|Terminée|Achevée
+choisit|Sélectionne|Élit
+choisi|Sélectionné|Élu
+choisie|Sélectionnée|Élue
+partit|S'en alla|Démarra
+parti|Absent|Formation politique
+partie|Morceau|Jeu
+sortit|Partit dehors|Publia
+sorti|Parti dehors|Publié
+sortie|Issue|Promenade
+dormit|Sommeilla|Fit dodo
+dormi|Sommeillé|Fait dodo
+vint|Arriva|Survint
+venu|Arrivé|Survenu
+venue|Arrivée|Avènement
+tint|Garda|Résista
+tenu|Gardé|Obligé
+tenue|Habit|Maintien
+vit|Existe|Aperçoit
+vue|Panorama|Sens de l'œil
+crut|Pensa|Grandit
+cru|Pas cuit|Vin de terroir
+lut|Parcourut des yeux|Déchiffra
+lu|Parcouru des yeux|Déchiffré
+rit|S'amuse|Se moque
+ri|S'est amusé|Participe de rire
+dit|Prononcé|Raconte
+fit|Réalisa|Fabriqua
+mit|Plaça|Posa
+mis|Posé|Habillé
+mise|Enjeu|Tenue
+prit|Saisit|Attrapa
+pris|Saisi|Occupé
+prise|Capture|Branchement
+but|Objectif|Avala
+bus|Autobus|Avalai
+vécut|Exista|Habita
+vécu|Existé|Expérience
+suivit|Accompagna|Vint après
+suivi|Accompagné|Continu
+écrivit|Rédigea|Nota
+écrit|Rédigé|Texte
+ouvrit|Déverrouilla|Inaugura
+ouvert|Pas fermé|Franc
+courut|Galopa|Fonça
+couru|Galopé|Fréquenté
+offrit|Donna|Proposa
+offert|Donné|Proposé
+sut|Connut|Apprit
+voulut|Désira|Exigea
+put|Fut capable|Réussit
+dut|Fut obligé|Contracta une dette
+valut|Coûta|Mérita
+aida|Secourut|Épaula
+aide|Secours|Coup de main
+aidé|Secouru|Épaulé
+aidait|Secourait|Épaulait
+cria|Hurla|Brailla
+crie|Hurle|Braille
+crié|Hurlé|Braillé
+pleura|Sanglota|Larmoya
+pleure|Sanglote|Larmoie
+pleuré|Sangloté|Regretté
+rêva|Songea|Imagina
+rêve|Songe|Idéal
+rêvé|Imaginé|Idéal
+gagna|Remporta|Encaissa
+gagne|Remporte|Encaisse
+gagné|Remporté|Encaissé
+perdit|Égara|Fut battu
+perdu|Égaré|Fichu
+perdue|Égarée|Fichue
+vendit|Céda|Trahit
+vendu|Cédé|Traître
+rendit|Restitua|Vomit
+rendu|Restitué|Résultat
+entendit|Ouït|Comprit
+entendu|Perçu|D'accord
+répondit|Répliqua|Rétorqua
+attendit|Patienta|Espéra
+attendu|Prévu|Patienté
+descendit|Dévala|Abattit
+fermé|Clos|Verrouillé
+fermée|Close|Verrouillée
+ferma|Clôtura|Verrouilla
+ferme|Exploitation agricole|Solide
+ouvre|Déverrouille|Inaugure
+coupa|Trancha|Interrompit
+coupe|Trophée|Taille
+coupé|Tranché|Interrompu
+cacha|Dissimula|Planqua
+cache|Planque|Dissimule
+caché|Dissimulé|Secret
+trouva|Découvrit|Dénicha
+trouve|Découvre|Pense
+lança|Jeta|Démarra
+lance|Arme|Jette
+lancé|Jeté|Parti
+jeta|Lança|Balança
+jette|Lance|Balance
+jeté|Lancé|Pas de danse
+pensa|Réfléchit|Songea
+pense|Réfléchit|Songe
+pensé|Réfléchi|Songé
+marcha|Avança|Fonctionna
+marche|Degré|Défilé
+marché|Foire|Accord
+entra|Pénétra|Arriva
+entre|Parmi|Pénètre
+entré|Pénétré|Admis
+arriva|Parvint|Survint
+arrive|Parvient|Survient
+arrivé|Parvenu|Venu
+tourna|Pivota|Filma
+tourne|Pivote|Tourbillonne
+tourné|Pivoté|Filmé
+frappa|Cogna|Toqua
+frappe|Coup|Cogne
+frappé|Cogné|Glacé
+sauta|Bondit|Explosa
+saute|Bondit|Explose
+sauté|Bondi|Poêlé
+chercha|Fouilla|Rechercha
+cherche|Recherche|Fouille
+cherché|Recherché|Fouillé
+écouta|Entendit|Obéit
+écoute|Entend|Attention
+écouté|Entendu|Obéi
+regarda|Observa|Contempla
+regarde|Observe|Contemple
+regardé|Observé|Contemplé
+appela|Téléphona|Nomma
+appelé|Nommé|Conscrit
+appelée|Nommée|Convoquée
+laissa|Abandonna|Permit
+laisse|Lien du chien|Abandonne
+laissé|Abandonné|Permis
+toucha|Palpa|Encaissa
+touche|Bouton|Effleure
+touché|Ému|Atteint
+quitta|Partit|Abandonna
+quitte|Libéré d'une dette|Part
+quitté|Abandonné|Laissé
+montra|Exhiba|Indiqua
+montre|Bracelet à aiguilles|Exhibe
+montré|Exhibé|Indiqué
+rentra|Revint|Pénétra
+rentre|Revient|Pénètre
+rentré|Revenu|Contenu
+oublia|Omit|Négligea
+oublie|Omet|Néglige
+oublié|Omis|Négligé
+aimait|Chérissait|Adorait
+étudia|Analysa|Apprit
+étude|Analyse|Cabinet de notaire
+gela|Glaça|Figea
+gelé|Glacé|Figé
+acheta|Acquit|Paya
+achète|Acquiert|Paie
+achat|Emplette|Acquisition
+payé|Réglé|Rémunéré
+paya|Régla|Rémunéra
+paye|Salaire|Règle
+essaya|Tenta|Goûta
+nagea|Se baigna|Fit des longueurs
+nagé|Baigné|Fait des longueurs
+nage|Natation|Il est en ___
+voyagea|Partit au loin|Bourlingua
+volé|Dérobé|Escroqué
+vola|Déroba|Plana
+vole|Dérobe|Plane
+volée|Raclée|Dérobée
+cassa|Brisa|Rompit
+casse|Brise|Cambriolage
+cassé|Brisé|Rompu
+brûla|Flamba|Incendia
+brûlé|Calciné|Grillé
+pesa|Mesura le poids|Réfléchit
+pesé|Mesuré|Réfléchi
+pèse|Mesure le poids|Réfléchit
+sema|Planta|Distança
+semé|Planté|Distancé
+sème|Plante|Distance
+cuisit|Prépara au feu|Mijota
+cuit|Préparé au feu|Fichu
+servit|Distribua|Aida
+servi|Distribué|Utile
+sentit|Ressentit|Huma
+senti|Perçu|Éprouvé
+mentit|Trompa|Ne dit pas vrai
+menti|Trompé|Pas dit vrai
+souffrit|Endura|Eut mal
+souffert|Enduré|Supporté
+naquit|Vint au monde|Vit le jour
+mourut|Décéda|Périt
+mort|Décès|Défunt
+morte|Décédée|Inactive
+plut|Séduisit|Tomba de l'eau
+plu|Séduit|Tombé du ciel
+tut|Garda le silence|Cacha
+tue|Assassine|Abat
+tua|Assassina|Abattit
+tué|Assassiné|Abattu
+noua|Attacha|Lia
+noué|Attaché|Serré
+nouée|Attachée|Gorge ___
+loua|Prit en location|Vanta
+loue|Prend en location|Vante
+louer|Prendre en location|Vanter
+cloua|Fixa|Immobilisa
+clou|Pointe|Attraction principale
+troua|Perça|Creusa
+troué|Percé|Usé
+roula|Avança|Trompa
+roulé|Trompé|Enroulé
+roule|Avance|Trompe
+signa|Parapha|Griffa
+signe|Marque|Indice
+signé|Paraphé|Griffé
+saigna|Perdit du sang|Égorgea
+soigna|Traita|Guérit
+soigne|Traite|Guérit
+paria|Misa|Gagea
+parié|Misé|Gagé
+pria|Implora|Supplia
+prié|Imploré|Invité
+priait|Implorait|Suppliait
+nota|Inscrivit|Évalua
+noté|Inscrit|Évalué
+notée|Inscrite|Évaluée
+vota|Élut|Choisit
+voté|Adopté|Élu
+votée|Adoptée|Élue
+visa|Ajusta son tir|Autorisation d'entrée
+visé|Ciblé|Signé
+visait|Ciblait|Ajustait
+pêcha|Attrapa des poissons|Commit une faute
+pêche|Fruit|Loisir au bord de l'eau
+pêché|Attrapé à la ligne|Trouvé
+fuma|Grilla une cigarette|Fulmina
+fume|Grille une cigarette|Fulmine
+fumé|Exposé à la fumée|Saumon préparé
+dîna|Mangea le soir|Soupa
+dîné|Mangé le soir|Soupé
+dînait|Mangeait le soir|Soupait
+osait|Se risquait|Avait l'audace
+ôtait|Retirait|Enlevait
+niait|Contestait|Démentait
+liait|Attachait|Unissait
+riait|S'amusait|Se moquait
+lisait|Parcourait|Déchiffrait
+disait|Racontait|Prétendait
+faisait|Réalisait|Fabriquait
+mettait|Plaçait|Posait
+prenait|Saisissait|Attrapait
+buvait|Avalait|Trinquait
+vivait|Existait|Habitait
+suivait|Accompagnait|Venait après
+écrivait|Rédigeait|Notait
+ouvrait|Déverrouillait|Inaugurait
+courait|Galopait|Fonçait
+savait|Connaissait|Apprenait
+voulait|Désirait|Exigeait
+devait|Était obligé|Avait une dette
+valait|Coûtait|Méritait
+tenait|Gardait|Résistait
+venait|Arrivait|Provenait
+voyait|Apercevait|Constatait
+croyait|Pensait|Avait la foi
+partait|S'en allait|Démarrait
+sortait|Partait dehors|Publiait
+dormait|Sommeillait|Faisait dodo
+servait|Distribuait|Aidait
+sentait|Ressentait|Humait
+mentait|Trompait|Ne disait pas vrai
+mourait|Décédait|Périssait
+naissait|Venait au monde|Éclosait
+plaisait|Séduisait|Charmait
+taisait|Gardait pour soi|Cachait
+rira|S'amusera|Se moquera
+lira|Parcourra des yeux|Déchiffrera
+dira|Racontera|Prétendra
+fera|Réalisera|Fabriquera
+mettra|Placera|Posera
+prendra|Saisira|Attrapera
+boira|Avalera|Trinquera
+vivra|Existera|Habitera
+suivra|Accompagnera|Viendra après
+écrira|Rédigera|Notera
+ouvrira|Déverrouillera|Inaugurera
+courra|Galopera|Foncera
+saura|Connaîtra|Apprendra
+voudra|Désirera|Exigera
+pourra|Sera capable|Réussira
+devra|Sera obligé|Aura une dette
+vaudra|Coûtera|Méritera
+tiendra|Gardera|Résistera
+viendra|Arrivera|Proviendra
+verra|Apercevra|Constatera
+croira|Pensera|Aura la foi
+partira|S'en ira|Démarrera
+sortira|Partira dehors|Publiera
+dormira|Sommeillera|Fera dodo
+servira|Distribuera|Aidera
+sentira|Ressentira|Humera
+mentira|Trompera|Ne dira pas vrai
+mourra|Décédera|Périra
+plaira|Séduira|Charmera
+taira|Gardera pour soi|Cachera

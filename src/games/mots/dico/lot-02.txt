@@ -1,0 +1,481 @@
+# Lot 2 : mots de 5 lettres courants
+était|Existait|Il ___ une fois
+étais|J'existais|Tu ___ là
+avais|Possédais|Tu ___ raison
+ferai|Réaliserai|Je le ___ demain
+soyez|___ les bienvenus|Impératif d'être
+aviez|Possédiez|Vous ___ raison
+aurai|Posséderai|J'___ le temps
+seras|Existeras|Tu ___ là
+auras|Posséderas|Tu ___ le temps
+serez|Existerez|Vous ___ là
+aille|Qu'il ___|Subjonctif d'aller
+aurez|Posséderez|Vous ___ le temps
+dirai|Raconterai|Je te le ___
+menti|Trompé|Pas dit vrai
+tenez|Voici !|Gardez
+verra|Apercevra|Qui vivra ___
+aimez|Chérissez|Vous ___ les fleurs
+étant|Participe présent d'être|En existant
+mêmes|Identiques|Pareils
+saura|Connaîtra|Il ___ bien
+perds|Égare|Tu ___ la tête
+beaux|Jolis|Pères par alliance
+meurs|Décède|Je ___ de faim
+tirez|Faites feu|Tractez
+feras|Réaliseras|Tu ___ mieux
+joues|Parties du visage|Tu t'amuses
+allés|Partis|Rendus
+démon|Diable|Génie malfaisant
+bébés|Nourrissons|Poupons
+ayant|Possédant|Participe présent d'avoir
+devra|Sera obligé|Il ___ partir
+aient|Qu'ils ___|Subjonctif d'avoir
+irait|Se rendrait|Ça ___ mieux
+finis|Terminés|Achève
+jouez|Amusez-vous|Interprétez
+ferez|Réaliserez|Vous ___ mieux
+fallu|Il a ___ : c'était nécessaire|Participe de falloir
+parte|Qu'il s'en aille|Subjonctif de partir
+irais|Me rendrais|J'___ bien
+posez|Déposez|Installez
+douée|Talentueuse|Brillante
+bible|Livre saint|Ouvrage de référence
+oeufs|Ils sont pondus|Omelette en devenir
+comte|Noble|Titre de noblesse
+miens|À moi|Les ___ : ma famille
+relax|Détendu|Cool
+vends|Cède contre argent|Je ___ ma voiture
+buvez|Avalez|Trinquez
+gâché|Gaspillé|Raté
+micro|Amplificateur de voix|Ordinateur personnel
+diras|Raconteras|Tu me ___
+enfui|Évadé|Échappé
+aidez|Secourez|Épaulez
+mette|Qu'il ___|Subjonctif de mettre
+pires|Plus mauvais|Les ___ ennemis
+vomir|Rendre|Exécrer
+virée|Balade|Licenciée
+vivez|Existez|Habitez
+direz|Raconterez|Vous ___ ce que vous voudrez
+lisez|Parcourez des yeux|Déchiffrez
+crève|Meurt|Éclate
+ayons|Que nous ___|Subjonctif d'avoir
+remet|Replace|Ajourne
+vides|Creux|Vacants
+tuent|Assassinent|Abattent
+levez|Soulevez|Debout !
+jetez|Lancez|Balancez
+mêler|Mélanger|Impliquer
+meure|Qu'il ___|Subjonctif de mourir
+ranch|Ferme américaine|Élevage du Far West
+batte|Bâton de base-ball|Bâton de cricket
+irons|Nous rendrons|Nous ___ loin
+buter|Trébucher|Tuer, en argot
+aidée|Secourue|Assistée
+payée|Rémunérée|Réglée
+sensé|Raisonnable|Logique
+nanas|Filles, familièrement|Femmes
+volés|Dérobés|Escroqués
+filmé|Tourné|Enregistré
+payez|Réglez|Passez à la caisse
+payés|Rémunérés|Réglés
+verts|Couleur de l'herbe|Pas mûrs
+vœux|Souhaits|Promesses
+alien|Extraterrestre|Étranger
+rende|Qu'il restitue|Subjonctif de rendre
+iront|Se rendront|Ils ___ loin
+réagi|Répondu|Riposté
+zones|Régions|Secteurs
+clubs|Associations|Cannes de golf
+urine|Pipi|Liquide filtré par les reins
+outre|Sac en peau|En plus de
+latin|Langue de Rome|Quartier ___
+minus|Nabot|Minuscule
+piges|Années, en argot|Articles payés à la ligne
+profs|Enseignants|Maîtres
+rangs|Rangées|Grades
+réglo|Correct|Régulier
+goûte|Déguste|Savoure
+coloc|Colocataire|Partage l'appart
+beurk|Dégoûtant !|Pouah !
+obéis|Écoute !|Je me soumets
+mythe|Légende|Fable
+yacht|Bateau de luxe|Voilier de plaisance
+flûte|Instrument à vent|Zut !
+liées|Attachées|Unies
+sente|Sentier|Chemin étroit
+paies|Salaires|Règles
+blues|Mélancolie|Musique noire américaine
+doive|Qu'il ___|Subjonctif de devoir
+indic|Informateur|Mouchard
+perde|Qu'il ___|Subjonctif de perdre
+mails|Courriels|Messages
+relié|Connecté|Broché autrement
+vents|Souffles|Instruments à ___
+créée|Inventée|Conçue
+matos|Matériel, familièrement|Équipement
+jadis|Autrefois|Naguère
+fumes|Vapeurs|Vapeurs
+priez|Implorez|Supplier, au présent
+jouir|Profiter|Savourer
+fuyez|Partez !|Sauvez-vous !
+basée|Fondée|Établie
+lires|Anciennes monnaies italiennes|Monnaie de Rome
+garée|Stationnée|Rangée
+tarés|Fous|Défectueux
+gênée|Embarrassée|Mal à l'aise
+thèse|Doctorat|Opinion défendue
+punie|Sanctionnée|Châtiée
+punis|Sanctionnés|Châtiés
+sieur|Monsieur, autrefois|Le ___ untel
+tuées|Assassinées|Abattues
+opère|Agit|Intervient au bloc
+visez|Ajustez|Ciblez
+croie|Qu'il ___|Subjonctif de croire
+gêner|Embarrasser|Déranger
+lèche|Passe la langue|Flatte
+criez|Hurlez|Braillez
+serve|Qu'il ___|Subjonctif de servir
+sains|En bonne santé|Bons pour le corps
+chopé|Attrapé|Pris
+blocs|Masses|Carnets
+mêlée|Bagarre|Phase de rugby
+notez|Écrivez|Évaluez
+jeans|Pantalons de toile|Denims
+défie|Provoque|Brave
+grecs|D'Athènes|Hellènes
+rient|S'amusent|Se moquent
+primo|Premièrement|D'abord
+jetés|Lancés|Balancés
+lasse|Fatiguée|Ennuie
+suffi|Été assez|Contenté
+bénis|Consacrés|Chanceux
+ratée|Manquée|Loupée
+évadé|Fugitif|Échappé
+étend|Allonge|Déploie
+menée|Conduite|Intrigue
+âgées|Vieilles|D'un certain âge
+tacos|Galettes mexicaines|Tortillas garnies
+nains|Lutins|Tout petits
+furax|Furieux|En colère
+votez|Élisez|Glissez votre bulletin
+pains|Baguettes|Coups de poing
+poêle|Ustensile de cuisine|Fourneau
+hosto|Hôpital, en argot|Clinique
+posée|Calme|Déposée
+gains|Profits|Bénéfices
+méfie|Se ___ : se garder|Doute
+souri|Esquissé un sourire|Été favorable
+virés|Licenciés|Renvoyés
+remue|Agite|Bouge
+rogne|Colère|Rabote
+grill|Gril|Restaurant de grillades
+suive|Qu'il ___|Subjonctif de suivre
+reçue|Accueillie|Admise
+taxis|Voitures avec chauffeur|Transports payants
+mords|Croque|Je ___ à l'hameçon
+hanté|Habité par des fantômes|Obsédé
+rates|Organes|Tu manques
+tapes|Frappes|Petits coups
+tuait|Assassinait|Abattait
+baver|Saliver|En ___ : souffrir
+subit|Soudain|Endure
+situe|Place|Localise
+quais|Bords de gare|Rives
+avise|Prévient|Aperçoit
+doués|Talentueux|Brillants
+soûle|Ivre|Ennuie par excès
+lèves|Soulèves|Tu te ___ tôt
+nette|Propre|Claire
+volez|Dérobez|Planez
+tarde|Traîne|Retarde
+bénie|Consacrée|Chanceuse
+égaré|Perdu|Fourvoyé
+créés|Inventés|Conçus
+noyée|Submergée|Débordée
+têtue|Obstinée|Entêtée
+défis|Provocations|Challenges
+lames|Tranchants|Vagues
+tapez|Frappez|Dactylographiez
+brève|Courte|Nouvelle rapide
+virez|Tournez|Renvoyez
+neufs|Nouveaux|Inédits
+menés|Conduits|Dirigés
+bruns|Châtains|Marron
+parcs|Jardins publics|Enclos
+islam|Religion musulmane|Foi du Coran
+dorme|Qu'il ___|Subjonctif de dormir
+dédié|Consacré|Offert
+dorée|Couleur d'or|Bronzée
+gifle|Claque|Soufflet
+fumez|Grillez une cigarette|Fulminez
+puant|Malodorant|Prétentieux
+duper|Tromper|Berner
+rodéo|Jeu de cow-boy|Course folle
+valve|Clapet|Coquille
+sushi|Spécialité japonaise|Riz au poisson cru
+hobby|Passe-temps|Loisir
+sorts|Destins|Sortilèges
+déçus|Désappointés|Pas satisfaits
+admet|Reconnaît|Accepte
+polie|Courtoise|Lisse
+sauna|Bain de vapeur|Étuve finlandaise
+vives|Rapides|Éveillées
+turcs|D'Istanbul|Ottomans
+jugée|Estimée|Condamnée
+mêlez|Mélangez|Impliquez
+futée|Maligne|Rusée
+vogue|Mode|Navigue
+macho|Phallocrate|Misogyne
+gémit|Se plaint|Geint
+cygne|Oiseau blanc au long cou|Chant du ___
+caser|Placer|Marier
+clans|Tribus|Bandes
+races|Lignées|Espèces
+sûres|Certaines|Fiables
+aboie|Jappe|Crie comme le chien
+gères|Administres|Diriges
+trame|Fil de tissage|Intrigue
+fixée|Attachée|Décidée
+pépin|Graine de fruit|Ennui
+parés|Prêts|Ornés
+jugez|Estimez|Arbitrez
+purge|Épuration|Laxatif
+impôt|Taxe|Contribution
+flirt|Amourette|Badinage
+tends|Étire|Je te ___ la main
+obéit|Se soumet|Écoute
+thune|Argent, en argot|Pièce de monnaie
+miser|Parier|Compter sur
+troll|Lutin scandinave|Provocateur en ligne
+baril|Tonneau|Mesure de pétrole
+rêvez|Songez|Imaginez
+tanks|Chars|Blindés
+baies|Petits fruits|Golfes
+lotus|Fleur sacrée|Position de yoga
+lutin|Farfadet|Enfant espiègle
+rênes|Courroies de bride|Commandes
+fixes|Immobiles|Stables
+spray|Atomiseur|Aérosol
+pénal|Criminel|Code ___
+swing|Rythme de jazz|Coup de golf
+errer|Vagabonder|Divaguer
+salée|Contenant du sel|Exagérée (facture)
+flots|Vagues|Torrents
+bondé|Plein à craquer|Bourré
+surgi|Apparu soudain|Jailli
+damné|Maudit|Réprouvé
+peins|Badigeonne|Je ___ un tableau
+frire|Cuire dans l'huile|Faire des frites
+barge|Péniche|Fou, en argot
+plouc|Paysan, péjorativement|Rustre
+pipes|Instruments de fumeur|Tuyaux
+tatie|Tante, familièrement|Tata
+coûts|Prix|Dépenses
+lisse|Uni|Sans aspérité
+éloge|Louange|Panégyrique
+raton|Petit rat|___ laveur
+râler|Protester|Rouspéter
+sosie|Double|Copie conforme
+fugue|Escapade|Pièce de Bach
+cuits|Préparés au feu|Fichus
+paroi|Mur|Face rocheuse
+pieux|Dévots|Poteaux
+poilu|Velu|Soldat de 14-18
+redis|Répète|Je le ___
+dingo|Chien d'Australie|Fou
+mente|Qu'il ___|Subjonctif de mentir
+riant|Joyeux|Gai
+riait|S'amusait|Se moquait
+vibre|Tremble|Résonne
+barbu|Poilu du menton|Moustachu
+lirai|Parcourrai des yeux|Je ___ demain
+labos|Laboratoires|Lieux d'expériences
+aiguë|Pointue|Perçante
+joins|Unis|Je te ___ par téléphone
+lunes|Satellites|Humeurs changeantes
+valez|Coûtez|Méritez
+youpi|Hourra !|Chouette !
+coran|Livre saint de l'islam|Texte révélé
+javel|Eau de ___|Désinfectant
+videz|Évacuez|Épuisez
+vomis|Rendus|Tu détestes
+punit|Sanctionne|Châtie
+jupes|Vêtements féminins|Kilts
+azote|Gaz de l'air|Élément chimique
+ronds|Cercles|Ivres
+sotte|Bête|Niaise
+vécue|Éprouvée|Expérimentée
+rayer|Biffer|Barrer
+vocal|De la voix|Message ___
+salsa|Danse latine|Sauce mexicaine
+latte|Planche mince|Café au lait
+bison|Bœuf sauvage d'Amérique|Buffle des plaines
+papas|Pères|Paternels
+élire|Choisir par vote|Désigner
+épine|Piquant|Colonne vertébrale
+jouée|Interprétée|Trompée
+cloué|Fixé|Immobilisé
+trier|Classer|Sélectionner
+soute|Cale|Compartiment à bagages
+clodo|Clochard|Sans-abri
+torts|Erreurs|Préjudices
+ivres|Saouls|Grisés
+sonar|Détecteur sous-marin|Écho-sondeur
+norme|Règle|Standard
+tenus|Gardés|Obligés
+biais|Détour|Oblique
+vante|Loue|Fait l'éloge
+romps|Casse|Je ___ avec lui
+furie|Rage|Mégère
+kenya|Pays d'Afrique de l'Est|Nairobi en est la capitale
+menus|Cartes|Minces
+ratez|Manquez|Loupez
+fines|Minces|Eaux-de-vie
+bizut|Nouveau|Bleu
+passa|Traversa|Réussit
+galop|Allure rapide|Course du cheval
+derby|Course hippique|Match entre voisins
+perçu|Senti|Encaissé
+belge|De Bruxelles|Wallon ou flamand
+venge|Lave l'affront|Punit
+bénir|Consacrer|Remercier
+tuons|Assassinons|Abattons
+gnôle|Eau-de-vie|Tord-boyaux
+cerné|Encerclé|Fatigué (yeux)
+pègre|Milieu|Monde du crime
+volts|Unités de tension|Énergie électrique
+gémir|Se plaindre|Geindre
+louée|Prise en location|Vantée
+titra|Intitula|Fit la une
+rétro|D'autrefois|Vintage
+rugby|Sport à l'ovale|Mêlée et essai
+bâche|Toile protectrice|Couverture imperméable
+drain|Tuyau d'évacuation|Canal
+kiffe|Aime, en argot|Adore
+fiole|Petite bouteille|Tête, en argot
+agace|Irrite|Énerve
+skier|Glisser sur la neige|Descendre la piste
+mûres|Fruits de la ronce|Prêtes à cueillir
+bagel|Pain en anneau|Petit pain juif
+tonic|Soda amer|Boisson pétillante
+dense|Compact|Épais
+loges|Petites pièces|Places de théâtre
+risée|Moquerie|Souffle de vent
+vende|Qu'il ___|Subjonctif de vendre
+légué|Transmis|Donné par testament
+menez|Conduisez|Dirigez
+chics|Élégants|Sympathiques
+horde|Troupe|Bande
+truie|Femelle du porc|Coche
+foute|Qu'il ___ (familier)|Subjonctif de foutre
+tiède|Ni chaud ni froid|Mou
+débit|Flux|Compte débiteur
+iriez|Vous rendriez|Vous ___ loin
+jurez|Promettez|Pestez
+cités|Villes|Mentionnés
+sodas|Boissons gazeuses|Limonades
+pinte|Chope de bière|Ancienne mesure
+cramé|Brûlé|Grillé
+aorte|Grosse artère|Vaisseau du cœur
+jeton|Pièce de jeu|Faux ___ : hypocrite
+lents|Pas rapides|Mous
+twist|Danse des années 60|Rebondissement
+repli|Retraite|Pli
+polis|Courtois|Lisses
+floue|Imprécise|Pas nette
+mâche|Mastique|Salade
+fente|Ouverture étroite|Interstice
+télés|Téléviseurs|Postes
+taise|Qu'il se ___|Subjonctif de taire
+boive|Qu'il ___|Subjonctif de boire
+périr|Mourir|Disparaître
+rites|Cérémonies|Coutumes
+pions|Pièces de jeu|Surveillants
+zéros|Nuls|Riens
+slips|Sous-vêtements|Culottes
+dicte|Impose|Lit à voix haute
+bouée|Flotteur|___ de sauvetage
+boira|Avalera|Trinquera
+joyau|Bijou|Trésor
+visée|Cible|Ambition
+gitan|Bohémien|Tzigane
+récré|Récréation|Pause de l'école
+pâtée|Nourriture du chien|Raclée
+ports|Havres|Allures
+gelés|Glacés|Figés
+ravir|Enchanter|Enlever
+latex|Caoutchouc|Gant de chirurgien
+dandy|Élégant raffiné|Snob
+envol|Décollage|Essor
+clore|Fermer|Terminer
+ovale|Forme d'œuf|Ballon de rugby
+smash|Coup de tennis|Frappe smashée
+sauts|Bonds|Chutes d'eau
+fémur|Os de la cuisse|Grand os
+turbo|Compresseur|Mettre le ___ : accélérer
+muscu|Musculation|Salle de sport
+niche|Abri du chien|Créneau
+morue|Poisson salé|Cabillaud séché
+puent|Sentent mauvais|Empestent
+rôder|Errer|Traîner
+buste|Torse|Sculpture
+abats|Foie, rognons…|Tripes
+natal|De naissance|Pays ___
+rosée|Gouttes du matin|Perles d'aube
+baume|Pommade|Réconfort
+cousu|Assemblé au fil|___ main
+cyber|Informatique, en préfixe|Café ___
+vanne|Valve|Plaisanterie
+fixez|Attachez|Regardez
+athée|Incroyant|Mécréant
+piger|Comprendre|Saisir
+miaou|Cri du chat|Miaulement
+vexée|Froissée|Offensée
+nurse|Bonne d'enfants|Gouvernante
+snack|En-cas|Restauration rapide
+gâter|Abîmer|Choyer
+crade|Sale|Crasseux
+osais|Me risquais|J'___ à peine
+matez|Domptez|Regardez, en argot
+revus|Revenus|Retrouvés
+rimes|Sons pareils|Fins de vers
+dévié|Détourné|Écarté
+ramer|Pagayer|Peiner
+bancs|Sièges|Groupes de poissons
+rompt|Casse|Se sépare
+bûche|Morceau de bois|Gâteau de Noël
+mules|Pantoufles|Passeurs de drogue
+armer|Équiper|Charger une arme
+stase|Arrêt|Immobilité
+resta|Demeura|Séjourna
+cubes|Dés|Blocs
+éther|Anesthésique|Espace céleste
+hutte|Cabane|Case
+subis|Endurés|Supportés
+verbe|Mot d'action|Parole
+péage|Droit de passage|Barrière d'autoroute
+appli|Application|Logiciel mobile
+osent|Se risquent|Ont l'audace
+vêtue|Habillée|Couverte
+beige|Couleur sable|Brun clair
+clebs|Chien, en argot|Cabot
+filon|Veine|Bonne affaire
+bride|Rênes|Entrave
+alpes|Massif français|Mont Blanc
+icône|Image pieuse|Idole
+abcès|Infection|Furoncle
+serbe|De Belgrade|Balkanique
+nabot|Nain|Petit homme
+corse|Île de Beauté|Ajaccien
+magot|Trésor caché|Économies
+gares|Stations|Arrêts de train
+châle|Étole|Fichu
+manif|Manifestation|Défilé de protestation
+funky|Musique groovy|Excentrique
+tempo|Rythme|Vitesse d'exécution
+vidée|Évacuée|Épuisée
+scans|Numérisations|Examens
+faune|Animaux|Divinité des bois
+monts|Montagnes|Sommets

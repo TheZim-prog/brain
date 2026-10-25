@@ -1,0 +1,318 @@
+# Lot 12 : vocabulaire général, objets anciens, abstractions
+abbaye|Monastère|Couvent d'abbé
+abolir|Supprimer|Abroger
+aboyer|Japper|Crier comme le chien
+abriter|Protéger|Héberger
+abstrait|Théorique|Non figuratif
+acquérir|Obtenir|Acheter
+acrobate|Équilibriste|Voltigeur
+adage|Proverbe|Maxime
+adepte|Partisan|Fidèle
+adhérer|Coller|S'inscrire
+adroit|Habile|Doué de ses mains
+affable|Aimable|Courtois
+affiner|Perfectionner|Faire mûrir un fromage
+agacer|Irriter|Énerver
+agrafe|Attache|Trombone métallique
+agréer|Accepter|Approuver
+aigreur|Acidité|Amertume
+aiguiser|Affûter|Stimuler
+aliment|Nourriture|Denrée
+alléger|Soulager|Rendre plus léger
+alliage|Mélange de métaux|Bronze ou laiton
+alpage|Pâturage de montagne|Estive
+altier|Fier|Hautain
+amorce|Début|Détonateur
+ampleur|Étendue|Importance
+ancêtre|Aïeul|Précurseur
+anecdote|Petite histoire|Historiette
+apaiser|Calmer|Adoucir
+apogée|Sommet|Point culminant
+apôtre|Disciple|Défenseur d'une cause
+arcade|Arc|Galerie couverte
+ardeur|Fougue|Enthousiasme
+argot|Langue populaire|Jargon
+aride|Sec|Ingrat
+arroser|Mouiller|Fêter
+artisan|Ouvrier qualifié|Auteur
+augure|Présage|Devin romain
+aurore|Lever du jour|Aube
+babiole|Bricole|Bagatelle
+badaud|Curieux|Flâneur
+bafouer|Mépriser|Ridiculiser
+ballade|Poème|Chanson lente
+bannir|Exiler|Proscrire
+barde|Poète celte|Tranche de lard
+bécane|Moto, familièrement|Vélo
+bedeau|Employé d'église|Suisse d'église
+bêler|Crier comme le mouton|Chevroter
+bémol|Signe musical|Réserve
+besogne|Tâche|Travail
+bestiole|Petite bête|Insecte
+bidule|Truc|Machin
+bistrot|Café|Troquet
+bitume|Asphalte|Trottoir
+blason|Armoiries|Écu
+blinder|Cuirasser|Endurcir
+bobine|Rouleau|Tête, en argot
+boiter|Clopiner|Être bancal
+bolide|Voiture rapide|Météorite
+bondir|Sauter|Jaillir
+bordure|Bord|Lisière
+bosquet|Petit bois|Massif d'arbres
+bouder|Faire la tête|Snober
+bouillon|Potage|Boire le ___
+bourde|Gaffe|Bévue
+brader|Solder|Liquider
+brancard|Civière|Bras de charrette
+braise|Charbon ardent|Tison
+brandir|Agiter|Lever en menaçant
+brasier|Grand feu|Incendie
+brasser|Mélanger|Faire de la bière
+brigand|Bandit|Malfaiteur
+brocante|Vide-grenier|Commerce d'occasion
+broder|Orner de fils|Inventer des détails
+brouille|Fâcherie|Dispute
+bruiner|Pleuvoir finement|Crachiner
+buriner|Graver|Marquer les traits
+butiner|Récolter le pollen|Glaner
+cadran|Face de montre|Écran gradué
+calèche|Voiture à chevaux|Carrosse découvert
+canif|Petit couteau|Couteau de poche
+caprice|Fantaisie|Lubie
+caresse|Câlin|Effleurement
+cargaison|Chargement|Fret
+castel|Petit château|Manoir
+caveau|Petite cave|Sépulture
+censure|Interdiction|Blâme
+cerner|Encercler|Comprendre
+chaland|Péniche|Client
+chamade|Battre la ___|Cœur affolé
+chandail|Pull|Tricot
+charade|Devinette|Énigme
+charpente|Ossature|Poutres
+chaume|Paille|Toit de paille
+cheminot|Employé des chemins de fer|Agent de la SNCF
+chevalet|Support de peintre|Support
+chiffon|Torchon|Bout de tissu
+chiper|Chaparder|Voler
+chômer|Être sans emploi|Ne pas travailler
+chronique|Rubrique|Durable
+citadelle|Forteresse|Bastion
+clairon|Trompette militaire|Sonneur
+clameur|Cri collectif|Tollé
+clarté|Lumière|Netteté
+clocher|Tour d'église|Boiter
+cloître|Galerie de couvent|Monastère
+cohue|Foule|Bousculade
+combler|Remplir|Satisfaire
+conquête|Victoire|Séduction
+corbeille|Panier|Poubelle d'ordinateur
+cordage|Corde|Filin
+corniche|Saillie|Route en surplomb
+corsaire|Pirate|Flibustier
+cortège|Défilé|Procession
+côtelette|Côte de viande|Morceau d'agneau
+coupole|Dôme|Académie française
+courroux|Colère|Fureur
+crécelle|Moulinet bruyant|Voix aiguë
+crevasse|Fissure|Gerçure
+crinière|Poils du cou|Chevelure
+croisière|Voyage en mer|Vitesse de ___
+croquis|Esquisse|Dessin rapide
+cueillir|Ramasser|Arrêter
+cupide|Avide|Rapace
+dauber|Médire|Railler
+débâcle|Déroute|Dégel
+débarras|Réduit|Bon ___ !
+dégât|Dommage|Ravage
+délice|Plaisir|Régal
+démarche|Allure|Requête
+dentelle|Tissu ajouré|Broderie
+dévot|Pieux|Bigot
+diadème|Couronne|Bandeau royal
+dictée|Exercice d'orthographe|Écrit sous la voix
+digue|Barrage|Jetée
+disette|Pénurie|Famine
+dogme|Doctrine|Croyance
+dompter|Dresser|Maîtriser
+dragée|Bonbon d'amande|Baptême
+dresser|Dompter|Ériger
+durcir|Raffermir|Endurcir
+ébauche|Esquisse|Brouillon
+éblouir|Aveugler|Émerveiller
+écaille|Plaque de poisson|Matière de peigne
+échafaud|Estrade du bourreau|Guillotine
+écluse|Barrage à sas|Bassin de canal
+écorce|Peau de l'arbre|Zeste
+écrin|Coffret à bijoux|Cadre précieux
+écume|Mousse|Bave
+édifice|Bâtiment|Ensemble
+effroi|Terreur|Épouvante
+égarer|Perdre|Fourvoyer
+élixir|Potion|Breuvage magique
+embarras|Gêne|Encombrement
+émeraude|Pierre verte|Vert vif
+emprise|Influence|Domination
+encens|Résine parfumée|Flatterie
+enclos|Parc|Clôture
+entrave|Obstacle|Lien aux pieds
+éperon|Pointe de botte|Avancée rocheuse
+épopée|Récit héroïque|Aventure
+ermite|Solitaire|Anachorète
+escale|Halte|Arrêt
+essaim|Groupe d'abeilles|Nuée
+estampe|Gravure|Image imprimée
+étendard|Drapeau|Bannière
+étoffe|Tissu|Envergure
+étrier|Appui du cavalier|Coup de l'___
+exploit|Prouesse|Haut fait
+exquis|Délicieux|Raffiné
+facette|Face|Aspect
+fagot|Botte de bois|Sentir le ___
+faïence|Céramique|Vaisselle émaillée
+fanal|Lanterne|Feu de bateau
+farceur|Blagueur|Plaisantin
+faucille|Outil de moisson|Lame courbe
+féerie|Spectacle merveilleux|Enchantement
+fenaison|Récolte des foins|Fauchaison
+ferveur|Zèle|Enthousiasme
+feuillage|Feuilles|Frondaison
+ficelle|Corde fine|Astuce
+filature|Usine textile|Surveillance discrète
+flambeau|Torche|Relais
+flâner|Se promener|Musarder
+forçat|Bagnard|Galérien
+forfait|Crime|Prix global
+fougue|Ardeur|Impétuosité
+fournaise|Four ardent|Étuve
+fourreau|Étui|Robe moulante
+fracas|Vacarme|Grand bruit
+fragment|Morceau|Extrait
+fresque|Peinture murale|Vaste tableau
+friche|Terre inculte|En ___
+fronde|Lance-pierre|Révolte
+gadget|Bidule|Accessoire amusant
+gaieté|Joie|Bonne humeur
+galion|Navire espagnol|Bateau à trésor
+garnison|Troupe|Caserne
+gazette|Journal|Bavard
+gerbe|Botte de blé|Bouquet
+girouette|Indicateur de vent|Personne changeante
+glaive|Épée|Justice
+gondole|Barque vénitienne|Rayon de supermarché
+goudron|Bitume|Résidu de tabac
+gourmand|Glouton|Friand
+griffe|Ongle crochu|Signature
+grimace|Moue|Rictus
+guérite|Abri de sentinelle|Cabine
+guirlande|Décoration|Feston
+hachoir|Couperet|Hache-viande
+haillon|Guenille|Loque
+hameau|Petit village|Lieu-dit
+harpon|Lance de pêche|Crochet
+hautbois|Instrument à vent|Bois de l'orchestre
+héraut|Messager|Annonciateur
+hochet|Jouet de bébé|Babiole
+hublot|Fenêtre ronde|Œil de bateau
+ivoire|Défense d'éléphant|Blanc cassé
+jarre|Grand vase|Récipient de terre
+javelot|Lance|Épreuve d'athlétisme
+jubilé|Anniversaire|Fête de cinquantenaire
+kermesse|Fête|Foire de charité
+kiosque|Abri à journaux|Pavillon
+lacet|Cordon|Virage serré
+lambeau|Morceau|Loque
+lanterne|Lampe|Rouge, en queue
+larcin|Vol|Chapardage
+larron|Voleur|Brigand
+lassitude|Fatigue|Ennui
+lenteur|Retard|Nonchalance
+lézarde|Fissure|Crevasse
+liasse|Paquet|Botte de billets
+lingot|Barre d'or|Bloc de métal
+liqueur|Boisson sucrée|Digestif
+lisière|Bord|Orée
+litière|Paille|Bac du chat
+livrée|Uniforme|Pelage
+logis|Maison|Demeure
+loisir|Temps libre|Divertissement
+lopin|Parcelle|Bout de terrain
+louange|Éloge|Compliment
+lyre|Instrument antique|Harpe d'Orphée
+madrier|Poutre|Planche épaisse
+malice|Espièglerie|Ruse
+manuscrit|Écrit à la main|Texte d'auteur
+marelle|Jeu de cases|Jeu d'enfant
+masure|Taudis|Cabane
+mendiant|Clochard|Fruits secs
+meunier|Exploitant de moulin|Poisson
+moisson|Récolte|Collecte
+monarque|Roi|Souverain
+mosaïque|Assemblage|Patchwork
+mousquet|Fusil ancien|Arme du mousquetaire
+muraille|Rempart|Grand mur
+murmure|Chuchotement|Bruissement
+musette|Sac|Bal populaire
+naufrage|Perte d'un navire|Échec total
+nectar|Boisson des dieux|Suc de fleurs
+nomade|Errant|Itinérant
+nostalgie|Regret|Mal du pays
+nuance|Teinte|Subtilité
+obélisque|Monolithe|Aiguille de pierre
+offrande|Don|Sacrifice
+ombrage|Ombre|Prendre ___
+opulence|Richesse|Abondance
+oracle|Prophétie|Devin
+ornière|Trace de roue|Routine
+osier|Saule|Vannerie
+outrage|Offense|Affront
+pagode|Temple asiatique|Tour à étages
+palissade|Clôture|Barrière
+pamphlet|Libelle|Écrit satirique
+panache|Plumet|Éclat
+pantin|Marionnette|Fantoche
+papyrus|Roseau|Manuscrit égyptien
+parchemin|Peau écrite|Diplôme
+pèlerin|Voyageur pieux|Faucon
+pendule|Horloge|Balancier
+pépite|Morceau d'or|Trouvaille
+potager|Jardin de légumes|Pour la soupe
+poterie|Céramique|Vase
+présage|Augure|Signe
+prouesse|Exploit|Performance
+quiétude|Tranquillité|Paix
+rapière|Épée|Lame de duel
+récif|Écueil|Rocher
+refrain|Chorus|Rengaine
+regain|Renouveau|Herbe repoussée
+rempart|Muraille|Protection
+repaire|Antre|Cachette
+rouet|Machine à filer|Roue de fileuse
+ruisseau|Petit cours d'eau|Caniveau
+sacoche|Sac|Besace
+saphir|Pierre bleue|Pointe de lecture
+sceptre|Bâton royal|Pouvoir
+sentier|Chemin|Piste
+sérénade|Concert du soir|Reproche bruyant
+sillon|Tranchée|Rainure
+sortilège|Maléfice|Envoûtement
+stèle|Pierre gravée|Monument
+supplice|Torture|Tourment
+talisman|Porte-bonheur|Amulette
+terroir|Sol|Région agricole
+tison|Bûche à demi brûlée|Braise
+topaze|Pierre jaune|Gemme
+torrent|Cours d'eau rapide|Flot
+tourment|Supplice|Angoisse
+trompette|Cuivre|Instrument à vent
+tumulte|Vacarme|Agitation
+turban|Coiffure orientale|Bande enroulée
+vallon|Petite vallée|Val
+vendange|Récolte du raisin|Cueillette
+verger|Jardin fruitier|Plantation d'arbres
+vestige|Reste|Ruine
+vigie|Guetteur|Poste d'observation
+vitrail|Verrière colorée|Vitre d'église
+zénith|Point le plus haut|Apogée
+zéphyr|Vent doux|Brise légère

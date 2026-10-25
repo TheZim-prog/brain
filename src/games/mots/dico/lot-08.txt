@@ -1,0 +1,351 @@
+# Lot 8 : féminins et pluriels de participes et d'adjectifs
+piquée|Mordue par un insecte|Vexée
+aérée|Ventilée|Pas étouffante
+carrée|En forme de carré|Franche
+citée|Mentionnée|Nommée
+gâtée|Abîmée|Trop choyée
+innée|Naturelle|Pas acquise
+pelée|Épluchée|Chauve
+rasée|Sans poils|Démolie
+rayée|Striée|Biffée
+vouée|Consacrée|Destinée
+changée|Modifiée|Transformée
+décidée|Résolue|Déterminée
+annulée|Supprimée|Décommandée
+croisée|Fenêtre|Rencontrée
+effacée|Gommée|Discrète
+glissée|Dérapée|Insérée
+acceptée|Admise|Reçue
+inventée|Créée|Imaginée
+butée|Obstinée|Entêtée
+cédée|Vendue|Abandonnée
+avalée|Engloutie|Gobée
+cognée|Frappée|Hache de bûcheron
+testée|Essayée|Éprouvée
+versée|Coulée|Experte
+alliée|Partenaire|Amie
+abusée|Trompée|Dupée
+avérée|Prouvée|Confirmée
+fondée|Créée|Justifiée
+percée|Trouée|Avancée
+honorée|Fière|Respectée
+blindée|Cuirassée|Protégée
+fanée|Flétrie|Défraîchie
+gâchée|Gaspillée|Ratée
+filmée|Tournée|Enregistrée
+reliée|Connectée|Brochée
+chopée|Attrapée|Prise
+évadée|Fugitive|Échappée
+égarée|Perdue|Fourvoyée
+dédiée|Consacrée|Offerte
+bondée|Pleine à craquer|Bourrée
+damnée|Maudite|Réprouvée
+clouée|Fixée|Immobilisée
+cernée|Encerclée|Fatiguée
+léguée|Transmise|Donnée par testament
+cramée|Brûlée|Grillée
+déviée|Détournée|Écartée
+essayée|Tentée|Goûtée
+échouée|Ratée|Ensablée
+étudiée|Analysée|Apprise
+déposée|Posée|Brevetée
+repérée|Localisée|Remarquée
+écrasée|Aplatie|Broyée
+obsédée|Hantée|Maniaque
+exposée|Montrée|Présentée
+révélée|Dévoilée|Divulguée
+réparée|Arrangée|Rafistolée
+confiée|Remise|Racontée en secret
+opposée|Contraire|Adverse
+publiée|Éditée|Parue
+fauchée|Sans le sou|Coupée
+affamée|Qui a faim|Famélique
+adoptée|Choisie|Accueillie
+soignée|Guérie|Méticuleuse
+larguée|Perdue|Abandonnée
+craquée|Fendue|Cédée
+choquée|Bouleversée|Scandalisée
+heurtée|Cognée|Vexée
+héritée|Reçue en héritage|Léguée
+trempée|Mouillée|Aguerrie
+dévouée|Fidèle|Serviable
+appuyée|Pressée|Soutenue
+satanée|Maudite|Fichue
+écoulée|Passée|Vendue
+flattée|Honorée|Complimentée
+gonflée|Enflée|Culottée
+secouée|Agitée|Choquée
+évoluée|Développée|Avancée
+débutée|Commencée|Démarrée
+fourrée|Garnie|Cachée
+adaptée|Ajustée|Appropriée
+endurée|Supportée|Subie
+scellée|Cachetée|Fermée
+braquée|Pointée|Attaquée
+décorée|Ornée|Médaillée
+motivée|Décidée|Enthousiaste
+enragée|Furieuse|Malade de la rage
+truquée|Faussée|Arrangée
+divisée|Partagée|Désunie
+apportée|Amenée|Fournie
+réalisée|Accomplie|Concrétisée
+vérifiée|Contrôlée|Inspectée
+échappée|Évadée|Fugue
+arrangée|Réparée|Truquée
+dépassée|Doublée|Démodée
+déclarée|Annoncée|Avouée
+rappelée|Remémorée|Convoquée de nouveau
+explosée|Éclatée|Pulvérisée
+renvoyée|Licenciée|Retournée
+ordonnée|Commandée|Rangée
+discutée|Débattue|Contestée
+informée|Avertie|Renseignée
+fouillée|Explorée|Perquisitionnée
+dépensée|Payée|Gaspillée
+déplacée|Bougée|Inconvenante
+nettoyée|Lavée|Ruinée
+insensée|Folle|Absurde
+arrachée|Extirpée|Déracinée
+comparée|Confrontée|Rapprochée
+signalée|Indiquée|Repérée
+déchirée|Lacérée|Partagée
+capturée|Prise|Attrapée
+éliminée|Écartée|Supprimée
+entourée|Encerclée|Soutenue
+agressée|Attaquée|Assaillie
+examinée|Étudiée|Inspectée
+éveillée|Réveillée|Vive
+assistée|Aidée|Secourue
+exécutée|Réalisée|Mise à mort
+dessinée|Croquée|Tracée
+composée|Constituée|Calme
+allongée|Étendue|Couchée
+déprimée|Triste|Abattue
+modifiée|Changée|Transformée
+infectée|Contaminée|Polluée
+soulagée|Apaisée|Rassurée
+déguisée|Costumée|Travestie
+diffusée|Émise|Répandue
+exagérée|Excessive|Outrée
+stressée|Tendue|Angoissée
+humiliée|Rabaissée|Mortifiée
+semée|Plantée|Distancée
+trouée|Percée|Usée
+piqués|Mordus par un insecte|Vexés
+gâtés|Abîmés|Trop choyés
+rasés|Sans barbe|Démolis
+changés|Modifiés|Transformés
+décidés|Résolus|Déterminés
+annulés|Supprimés|Décommandés
+effacés|Gommés|Discrets
+acceptés|Admis|Reçus
+inventés|Créés|Imaginés
+cédés|Vendus|Abandonnés
+avalés|Engloutis|Gobés
+testés|Essayés|Éprouvés
+versés|Coulés|Experts
+abusés|Trompés|Dupés
+percés|Troués|Découverts
+blindés|Cuirassés|Protégés
+fanés|Flétris|Défraîchis
+gâchés|Gaspillés|Ratés
+filmés|Tournés|Enregistrés
+reliés|Connectés|Brochés
+évadés|Fugitifs|Échappés
+égarés|Perdus|Fourvoyés
+dédiés|Consacrés|Offerts
+damnés|Maudits|Réprouvés
+cloués|Fixés|Immobilisés
+cernés|Encerclés|Fatigués
+cramés|Brûlés|Grillés
+essayés|Tentés|Goûtés
+étudiés|Analysés|Appris
+déposés|Posés|Brevetés
+repérés|Localisés|Remarqués
+écrasés|Aplatis|Broyés
+obsédés|Hantés|Maniaques
+exposés|Montrés|Présentations
+réparés|Arrangés|Rafistolés
+confiés|Remis|Racontés en secret
+opposés|Contraires|Adversaires
+publiés|Édités|Parus
+fauchés|Sans le sou|Coupés
+affamés|Qui ont faim|Faméliques
+adoptés|Choisis|Accueillis
+soignés|Guéris|Méticuleux
+choqués|Bouleversés|Scandalisés
+trempés|Mouillés|Aguerris
+dévoués|Fidèles|Serviables
+gonflés|Enflés|Culottés
+secoués|Agités|Choqués
+adaptés|Ajustés|Appropriés
+décorés|Ornés|Médaillés
+motivés|Décidés|Enthousiastes
+truqués|Faussés|Arrangés
+divisés|Partagés|Désunis
+réalisés|Accomplis|Concrétisés
+dépassés|Doublés|Démodés
+déclarés|Annoncés|Avoués
+informés|Avertis|Renseignés
+déplacés|Bougés|Inconvenants
+insensés|Fous|Absurdes
+déchirés|Lacérés|Partagés
+capturés|Pris|Attrapés
+éliminés|Écartés|Supprimés
+entourés|Encerclés|Soutenus
+éveillés|Réveillés|Vifs
+composés|Constitués|Calmes
+allongés|Étendus|Couchés
+déprimés|Tristes|Abattus
+modifiés|Changés|Transformés
+infectés|Contaminés|Pollués
+soulagés|Apaisés|Rassurés
+déguisés|Costumés|Travestis
+stressés|Tendus|Angoissés
+humiliés|Rabaissés|Mortifiés
+semés|Plantés|Distancés
+troués|Percés|Usés
+amies|Copines|Camarades
+ardue|Difficile|Malaisée
+brune|Châtaine|Bière foncée
+brute|Personne violente|Sans élaboration
+crue|Pas cuite|Montée des eaux
+drue|Épaisse|Dense
+écrue|Pas blanchie|Brute
+élue|Choisie|Députée
+émue|Touchée|Bouleversée
+fine|Mince|Eau-de-vie
+fière|Orgueilleuse|Altière
+grise|Couleur cendre|Enivre
+laide|Moche|Pas belle
+lente|Pas rapide|Œuf de pou
+menue|Mince|Petite
+mûre|Prête à cueillir|Fruit de la ronce
+nue|Sans vêtement|Nuage
+pure|Sans mélange|Chaste
+rase|Courte|Coupe à ras
+sotte|Bête|Niaise
+sûre|Certaine|Fiable
+unie|Rassemblée|Sans motif
+vaine|Inutile|Vaniteuse
+vive|Rapide|Éveillée
+amère|Pas sucrée|Aigre
+chère|Coûteuse|Aimée
+entière|Complète|Totale
+légère|Peu lourde|Frivole
+fière|Orgueilleuse|Hautaine
+première|Initiale|Gala d'ouverture
+dernière|Ultime|Finale
+noire|Sombre|Note de musique
+claire|Lumineuse|Évidente
+froide|Glaciale|Distante
+chaude|Brûlante|Ardente
+haute|Élevée|Grande
+basse|Peu élevée|Voix grave
+grosse|Épaisse|Grande
+petite|Pas grande|Fillette
+longue|Pas courte|Étendue
+courte|Brève|Pas longue
+lourde|Pesante|Porte, en argot
+forte|Puissante|Solide
+faible|Fragile|Molle
+douce|Tendre|Agréable
+fausse|Inexacte|Contrefaite
+vraie|Exacte|Réelle
+neuve|Nouvelle|Jamais servie
+vieille|Âgée|Ancienne
+jeune|Pas vieille|Adolescente
+belle|Jolie|Manche décisive
+bonne|Pas mauvaise|Domestique
+folle|Démente|Insensée
+molle|Pas dure|Sans énergie
+nulle|Aucune|Sans valeur
+sèche|Pas mouillée|Cigarette, en argot
+fraîche|Froide|Récente
+blanche|Couleur de neige|Note de musique
+franche|Sincère|Ouverte
+sauve|Saine et ___|Rescapée
+grave|Sérieuse|Accent
+rare|Peu commune|Clairsemée
+riche|Fortunée|Abondante
+pauvre|Démunie|Malheureuse
+sage|Raisonnable|Calme
+large|Ample|Haute mer
+juste|Équitable|Exacte
+libre|Indépendante|Disponible
+calme|Tranquille|Sérénité
+triste|Malheureuse|Morose
+digne|Respectable|Méritante
+rapide|Vive|Train
+facile|Simple|Aisée
+utile|Pratique|Nécessaire
+habile|Adroite|Douée
+fragile|Délicate|Cassante
+agile|Souple|Leste
+nette|Propre|Claire
+sotte|Bête|Niaise
+muette|Silencieuse|Sans voix
+coquette|Élégante|Soignée
+discrète|Réservée|Effacée
+secrète|Cachée|Confidentielle
+complète|Entière|Ajoute
+inquiète|Soucieuse|Tracasse
+prête|Préparée|Avance de l'argent
+honnête|Loyale|Intègre
+verte|Couleur de l'herbe|Pas mûre
+ouverte|Pas fermée|Franche
+morte|Décédée|Inactive
+sourde|Qui n'entend pas|Étouffée
+ronde|Circulaire|Note de musique
+blonde|Dorée|Bière
+profonde|Creuse|Intense
+grande|Haute|Vaste
+lente|Pas rapide|Mollassonne
+présente|Actuelle|Montre
+absente|Manquante|Distraite
+contente|Heureuse|Satisfaite
+méchante|Vilaine|Cruelle
+savante|Érudite|Calée
+puissante|Forte|Influente
+élégante|Chic|Raffinée
+charmante|Séduisante|Adorable
+amusante|Drôle|Divertissante
+gentille|Aimable|Douce
+pareille|Identique|Semblable
+cruelle|Méchante|Impitoyable
+réelle|Vraie|Concrète
+nouvelle|Information|Récit court
+naturelle|Spontanée|Innée
+éternelle|Infinie|Immortelle
+normale|Habituelle|Ordinaire
+royale|Du roi|Majestueuse
+locale|Régionale|Salle
+légale|Permise|Licite
+finale|Dernière|Ultime épreuve
+loyale|Fidèle|Franche
+banale|Ordinaire|Commune
+brutale|Violente|Soudaine
+fatale|Mortelle|Femme ___
+vitale|Essentielle|Indispensable
+totale|Complète|Absolue
+idéale|Parfaite|Rêvée
+morale|Éthique|Leçon
+mentale|Psychique|Calcul ___
+égale|Pareille|Équitable
+heureuse|Contente|Chanceuse
+joyeuse|Gaie|Enjouée
+sérieuse|Grave|Appliquée
+curieuse|Indiscrète|Étrange
+peureuse|Craintive|Froussarde
+nerveuse|Agitée|Tendue
+furieuse|En colère|Enragée
+généreuse|Prodigue|Large
+dangereuse|Risquée|Périlleuse
+amoureuse|Éprise|Passionnée
+paresseuse|Fainéante|Indolente
+vive|Rapide|Éveillée
+naïve|Candide|Ingénue
+neuve|Nouvelle|Inédite
+active|Dynamique|Met en marche
+sportive|Athlétique|Dynamique
+veuve|Femme dont le mari est mort|Endeuillée
