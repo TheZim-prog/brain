@@ -796,15 +796,13 @@ a.game:hover {
   font-family: var(--serif);
 }
 
-.clue-lists button {
-  background: none;
-  border: 0;
+.clue-link {
   padding: 0 2px;
   border-radius: 4px;
-  text-align: left;
+  cursor: pointer;
 }
 
-.clue-lists button.on {
+.clue-link.on {
   background: var(--same);
 }
 

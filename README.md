@@ -19,7 +19,8 @@ npm run build    # build de production + service worker
 - `src/games/mots-meles/` — listes de mots par thème, générateur (les lettres restantes forment un mot mystère), logique de partie et page.
 - `src/games/mots/` — commun aux mots fléchés et aux mots croisés : dictionnaire (`dico/*.txt`), remplissage de grille (case par case avec retour en arrière intelligent, dans un Web Worker partagé), logique de saisie et morceaux d'interface.
 - `src/games/mots-fleches/` — placement des définitions dans la grille et page.
-- `src/games/mots-croises/` — grilles à cases noires numérotées (I, II… / 1, 2…) et page.
+- `src/games/mots-croises/` — grilles à cases noires numérotées (I, II… / 1, 2…), plateau `CrossBoard` partagé avec les nombres croisés, et page.
+- `src/games/nombres-croises/` — propriétés arithmétiques servant de définitions, générateur qui en ajoute jusqu'à ce que le solveur trouve une solution unique, worker et page.
 - `src/lib/` — utilitaires partagés (sauvegarde locale, routage par hash, chrono, normalisation du texte).
 
 ## Dictionnaire

@@ -2,23 +2,17 @@
 import { useEffect, useState, type Dispatch } from 'react'
 import { formatTime } from '../../lib/format'
 import { load, save } from '../../lib/storage'
+import { runWorker } from '../../lib/worker'
 import type { GridAction } from './state'
 import { LEVELS, type Level, type WordClue } from './types'
 import type { GenerateRequest } from './worker'
 
 const KEYBOARD = ['AZERTYUIOP', 'QSDFGHJKLM', 'WXCVBN']
+const DIGITS = ['12345', '67890']
 
-/** Lance la génération d'une grille dans le worker partagé. */
+/** Lance la génération d'une grille dans le worker partagé des jeux de mots. */
 export function requestPuzzle<P>(request: GenerateRequest): Promise<P> {
-  return new Promise((resolve, reject) => {
-    const worker = new Worker(new URL('./worker.ts', import.meta.url), { type: 'module' })
-    worker.onmessage = (e: MessageEvent<{ puzzle?: P; error?: string }>) => {
-      worker.terminate()
-      if (e.data.puzzle) resolve(e.data.puzzle)
-      else reject(new Error(e.data.error))
-    }
-    worker.postMessage(request)
-  })
+  return runWorker<P>(new Worker(new URL('./worker.ts', import.meta.url), { type: 'module' }), request)
 }
 
 export interface GridPrefs<S extends string> {
@@ -34,7 +28,9 @@ export function GridPicker<S extends string>(props: {
   onStart: (p: GridPrefs<S>) => void
   loading: boolean
   error: string | null
+  levels?: { id: Level; label: string; detail: string }[]
 }) {
+  const levels = props.levels ?? LEVELS
   const [prefs, setPrefs] = useState<GridPrefs<S>>(() => load<GridPrefs<S>>(props.prefsKey) ?? { size: props.sizes[0].id, level: 'facile' })
   const update = (p: Partial<GridPrefs<S>>) => {
     const next = { ...prefs, ...p }
@@ -64,7 +60,7 @@ export function GridPicker<S extends string>(props: {
 
       <h2 className="label">Définitions</h2>
       <div className="segmented two" role="radiogroup" aria-label="Définitions">
-        {LEVELS.map((l) => (
+        {levels.map((l) => (
           <button key={l.id} role="radio" aria-checked={prefs.level === l.id} className={prefs.level === l.id ? 'on' : undefined} onClick={() => update({ level: l.id })}>
             {l.label}
             <small>{l.detail}</small>
@@ -80,12 +76,13 @@ export function GridPicker<S extends string>(props: {
   )
 }
 
-/** Saisie au clavier physique : lettres, effacement, flèches. */
-export function useGridKeyboard(dispatch: Dispatch<GridAction>) {
+/** Saisie au clavier physique : lettres (ou chiffres), effacement, flèches. */
+export function useGridKeyboard(dispatch: Dispatch<GridAction>, digits = false) {
   useEffect(() => {
+    const allowed = digits ? /^[0-9]$/ : /^[a-zA-Z]$/
     const onKey = (e: KeyboardEvent) => {
       if (e.ctrlKey || e.metaKey || e.altKey) return
-      if (/^[a-zA-Z]$/.test(e.key)) dispatch({ type: 'input', letter: e.key })
+      if (allowed.test(e.key)) dispatch({ type: 'input', letter: e.key })
       else if (e.key === 'Backspace' || e.key === 'Delete') dispatch({ type: 'erase' })
       else if (e.key === 'ArrowUp') dispatch({ type: 'move', dRow: -1, dCol: 0 })
       else if (e.key === 'ArrowDown') dispatch({ type: 'move', dRow: 1, dCol: 0 })
@@ -96,10 +93,10 @@ export function useGridKeyboard(dispatch: Dispatch<GridAction>) {
     }
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
-  }, [dispatch])
+  }, [dispatch, digits])
 }
 
-export function ClueBar({ clue, prefix }: { clue: WordClue | undefined; prefix?: string }) {
+export function ClueBar({ clue, prefix, unit = 'lettres' }: { clue: WordClue | undefined; prefix?: string; unit?: string }) {
   return (
     <div className="clue-bar" aria-live="polite">
       {clue ? (
@@ -108,7 +105,9 @@ export function ClueBar({ clue, prefix }: { clue: WordClue | undefined; prefix?:
             {prefix ?? (clue.dir === 'h' ? '→' : '↓')}
           </span>
           <span>{clue.text}</span>
-          <span className="clue-len">{clue.cells.length} lettres</span>
+          <span className="clue-len">
+            {clue.cells.length} {unit}
+          </span>
         </>
       ) : (
         <span className="muted">Touche une case pour commencer</span>
@@ -117,17 +116,19 @@ export function ClueBar({ clue, prefix }: { clue: WordClue | undefined; prefix?:
   )
 }
 
-export function GridTools({ dispatch }: { dispatch: Dispatch<GridAction> }) {
+export function GridTools({ dispatch, numbers = false }: { dispatch: Dispatch<GridAction>; numbers?: boolean }) {
   return (
     <div className="tools">
       <button onClick={() => dispatch({ type: 'check' })}>
         <span aria-hidden>✓</span>Vérifier
       </button>
       <button onClick={() => dispatch({ type: 'revealLetter' })}>
-        <span aria-hidden>?</span>Une lettre
+        <span aria-hidden>?</span>
+        {numbers ? 'Un chiffre' : 'Une lettre'}
       </button>
       <button onClick={() => dispatch({ type: 'revealWord' })}>
-        <span aria-hidden>¶</span>Le mot
+        <span aria-hidden>¶</span>
+        {numbers ? 'Le nombre' : 'Le mot'}
       </button>
       <button onClick={() => dispatch({ type: 'erase' })}>
         <span aria-hidden>⌫</span>Effacer
@@ -136,10 +137,10 @@ export function GridTools({ dispatch }: { dispatch: Dispatch<GridAction> }) {
   )
 }
 
-export function Keyboard({ dispatch }: { dispatch: Dispatch<GridAction> }) {
+export function Keyboard({ dispatch, digits = false }: { dispatch: Dispatch<GridAction>; digits?: boolean }) {
   return (
     <div className="keyboard">
-      {KEYBOARD.map((row) => (
+      {(digits ? DIGITS : KEYBOARD).map((row) => (
         <div key={row} className="key-row">
           {[...row].map((k) => (
             <button key={k} onClick={() => dispatch({ type: 'input', letter: k })}>

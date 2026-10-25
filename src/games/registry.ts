@@ -28,6 +28,12 @@ export const GAMES: GameEntry[] = [
     component: lazy(() => import('./mots-croises/MotsCroisesPage')),
   },
   {
+    id: 'nombres-croises',
+    name: 'Nombres croisés',
+    description: 'Des mots croisés de chiffres : multiples, carrés, sommes…',
+    component: lazy(() => import('./nombres-croises/NombresCroisesPage')),
+  },
+  {
     id: 'hidato',
     name: 'Hidato',
     description: 'Des hexagones à relier, de 1 à 37, chaque nombre touchant le suivant.',

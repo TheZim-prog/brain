@@ -28,9 +28,21 @@ function shuffle<T>(items: T[], rng: () => number): T[] {
  * Génère une grille à solution unique. On retire les chiffres par paires
  * symétriques (comme dans les magazines) tant que la solution reste unique,
  * jusqu'à atteindre le nombre d'indices visé par la difficulté.
+ * Un tirage peut se bloquer au-dessus de la cible : on en fait quelques-uns et on garde le plus proche.
  */
 export function generate(difficulty: Difficulty, rng: () => number = Math.random): Puzzle {
   const target = DIFFICULTIES.find((d) => d.id === difficulty)!.clues
+  let best: Puzzle | null = null
+  for (let attempt = 0; attempt < 8; attempt++) {
+    const p = attemptGenerate(difficulty, target, rng)
+    const clues = p.puzzle.filter(Boolean).length
+    if (!best || clues < best.puzzle.filter(Boolean).length) best = p
+    if (clues <= target + 2) break
+  }
+  return best!
+}
+
+function attemptGenerate(difficulty: Difficulty, target: number, rng: () => number): Puzzle {
   const solution = solve(Array(CELLS).fill(0), (digits) => shuffle(digits, rng))!
   const puzzle = [...solution]
   let clues = CELLS
