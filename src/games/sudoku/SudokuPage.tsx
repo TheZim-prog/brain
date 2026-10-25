@@ -1,6 +1,7 @@
-import { useEffect, useReducer, useState } from 'react'
+import { useCallback, useEffect, useReducer, useState } from 'react'
 import { formatTime } from '../../lib/format'
 import { load, remove, save } from '../../lib/storage'
+import { useTicker } from '../../lib/useTicker'
 import { DIFFICULTIES, generate, type Difficulty } from './generator'
 import { boxOf, colOf, rowOf } from './solver'
 import { newGame, sudokuReducer, type SudokuState } from './state'
@@ -49,13 +50,7 @@ function SudokuBoard({ initial, onNewGame }: { initial: SudokuState; onNewGame: 
 
   useEffect(() => save(SAVE_KEY, s), [s])
 
-  useEffect(() => {
-    if (s.completed) return
-    const id = setInterval(() => {
-      if (document.visibilityState === 'visible') dispatch({ type: 'tick' })
-    }, 1000)
-    return () => clearInterval(id)
-  }, [s.completed])
+  useTicker(!s.completed, useCallback(() => dispatch({ type: 'tick' }), []))
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {

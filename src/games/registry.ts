@@ -17,5 +17,10 @@ export const GAMES: GameEntry[] = [
   },
   { id: 'mots-fleches', name: 'Mots fléchés', description: 'Les définitions dans la grille, comme en kiosque.' },
   { id: 'mots-croises', name: 'Mots croisés', description: 'Horizontalement, verticalement…' },
-  { id: 'mots-meles', name: 'Mots mêlés', description: 'Retrouve les mots cachés dans la grille.' },
+  {
+    id: 'mots-meles',
+    name: 'Mots mêlés',
+    description: 'Retrouve les mots cachés, puis devine le mot mystère.',
+    component: lazy(() => import('./mots-meles/MotsMelesPage')),
+  },
 ]
