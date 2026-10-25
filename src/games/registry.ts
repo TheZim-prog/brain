@@ -28,6 +28,12 @@ export const GAMES: GameEntry[] = [
     component: lazy(() => import('./mots-croises/MotsCroisesPage')),
   },
   {
+    id: 'hidato',
+    name: 'Hidato',
+    description: 'Des hexagones à relier, de 1 à 37, chaque nombre touchant le suivant.',
+    component: lazy(() => import('./hidato/HidatoPage')),
+  },
+  {
     id: 'mots-meles',
     name: 'Mots mêlés',
     description: 'Retrouve les mots cachés, puis devine le mot mystère.',

@@ -808,6 +808,80 @@ a.game:hover {
   background: var(--same);
 }
 
+/* Hidato */
+
+.hidato-board {
+  display: block;
+  width: 100%;
+  max-height: 62vh;
+  margin: 4px 0 8px;
+  user-select: none;
+}
+
+.hcell {
+  fill: var(--surface);
+  stroke: var(--grid);
+  stroke-width: 0.03;
+  cursor: pointer;
+}
+
+.hcell.given {
+  fill: var(--def);
+}
+
+.hcell.selected {
+  fill: var(--selected);
+}
+
+.hlink {
+  stroke: var(--accent);
+  stroke-width: 0.12;
+  stroke-linecap: round;
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.hnum {
+  text-anchor: middle;
+  dominant-baseline: central;
+  pointer-events: none;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+.hnum.given {
+  font-family: var(--serif);
+  font-weight: 700;
+  fill: var(--ink);
+}
+
+.hnum.user {
+  fill: var(--user-ink);
+  font-weight: 600;
+}
+
+.hnum.revealed {
+  fill: var(--muted);
+}
+
+.hnum.wrong {
+  fill: var(--accent);
+}
+
+.tools:has(> :nth-child(3):last-child) {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.hidato-pad {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+.missing {
+  margin: 14px 0 0;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  font-variant-numeric: tabular-nums;
+}
+
 /* Fin de partie */
 
 .overlay {
