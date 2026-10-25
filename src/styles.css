@@ -1,0 +1,379 @@
+:root {
+  --paper: #f6f1e7;
+  --surface: #fffdf8;
+  --ink: #1d1a16;
+  --muted: #6f675c;
+  --line: #cfc6b6;
+  --accent: #c2412d;
+  --peer: #ece4d4;
+  --same: #f3d9b8;
+  --selected: #e9b97a;
+  --user-ink: #1f4e8c;
+  --serif: Georgia, 'Times New Roman', serif;
+  --sans: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #18160f;
+    --surface: #221f17;
+    --ink: #ece6da;
+    --muted: #a49b8c;
+    --line: #4a443a;
+    --accent: #e8735c;
+    --peer: #2d2920;
+    --same: #4a3a22;
+    --selected: #7a5a2a;
+    --user-ink: #8db7f0;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-variant-numeric: lining-nums tabular-nums;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+.page {
+  max-width: 520px;
+  margin: 0 auto;
+  padding: max(16px, env(safe-area-inset-top)) 16px max(24px, env(safe-area-inset-bottom));
+}
+
+.title {
+  font-family: var(--serif);
+  font-size: 2.4rem;
+  margin: 16px 0 4px;
+}
+
+.masthead {
+  font-size: 3.2rem;
+  letter-spacing: -0.02em;
+  border-bottom: 3px double var(--ink);
+  padding-bottom: 8px;
+}
+
+.subtitle {
+  color: var(--muted);
+  margin: 0 0 24px;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+/* Accueil */
+
+.games {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 12px;
+}
+
+.game {
+  display: grid;
+  gap: 4px;
+  padding: 16px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: inherit;
+  text-decoration: none;
+  position: relative;
+}
+
+a.game:hover {
+  border-color: var(--ink);
+}
+
+.game strong {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+}
+
+.game span {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.game.soon {
+  opacity: 0.55;
+}
+
+.game em {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  font-style: normal;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+}
+
+/* Barre du haut */
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 32px;
+}
+
+.back,
+.link {
+  color: var(--muted);
+  text-decoration: none;
+  background: none;
+  border: 0;
+  padding: 4px 0;
+}
+
+.back:hover,
+.link:hover {
+  color: var(--ink);
+}
+
+/* Choix de difficulté */
+
+.difficulties {
+  display: grid;
+  gap: 10px;
+}
+
+.difficulty {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 16px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  font-family: var(--serif);
+  font-size: 1.25rem;
+}
+
+.difficulty:hover {
+  border-color: var(--ink);
+}
+
+.difficulty small {
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+/* Sudoku */
+
+.stats {
+  display: flex;
+  justify-content: space-between;
+  margin: 12px 0 8px;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.timer {
+  font-variant-numeric: tabular-nums;
+  color: var(--ink);
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  aspect-ratio: 1;
+  width: 100%;
+  border: 2.5px solid var(--ink);
+  background: var(--surface);
+  user-select: none;
+}
+
+.cell {
+  border: 0;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  background: transparent;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  font-size: clamp(1.1rem, 5.5vw, 1.75rem);
+  color: var(--user-ink);
+  aspect-ratio: 1;
+  min-width: 0;
+}
+
+.cell:nth-child(9n) {
+  border-right: 0;
+}
+
+.cell:nth-last-child(-n + 9) {
+  border-bottom: 0;
+}
+
+.cell.edge-right {
+  border-right: 2px solid var(--ink);
+}
+
+.cell.edge-bottom {
+  border-bottom: 2px solid var(--ink);
+}
+
+.cell.given {
+  color: var(--ink);
+  font-family: var(--serif);
+  font-weight: 700;
+}
+
+.cell.peer {
+  background: var(--peer);
+}
+
+.cell.same {
+  background: var(--same);
+}
+
+.cell.selected {
+  background: var(--selected);
+}
+
+.cell.wrong {
+  color: var(--accent);
+}
+
+.notes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 100%;
+  height: 100%;
+  padding: 2px;
+  font-size: clamp(0.5rem, 2.2vw, 0.7rem);
+  color: var(--muted);
+  line-height: 1;
+}
+
+.notes span {
+  display: grid;
+  place-items: center;
+}
+
+.notes .hl {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.tools {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin: 14px 0 10px;
+}
+
+.tools button {
+  display: grid;
+  justify-items: center;
+  gap: 2px;
+  background: none;
+  border: 0;
+  padding: 6px 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+
+.tools button span {
+  font-size: 1.4rem;
+  font-variant-emoji: text;
+  color: var(--ink);
+}
+
+.tools button.on {
+  color: var(--accent);
+}
+
+.tools button.on span {
+  color: var(--accent);
+}
+
+.tools button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.numpad {
+  display: grid;
+  grid-template-columns: repeat(9, 1fr);
+  gap: 6px;
+}
+
+.numpad button {
+  display: grid;
+  justify-items: center;
+  padding: 10px 0 4px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  font-family: var(--serif);
+  font-size: clamp(1.2rem, 5vw, 1.6rem);
+  color: var(--user-ink);
+}
+
+.numpad button small {
+  font-family: var(--sans);
+  font-size: 0.65rem;
+  color: var(--muted);
+  min-height: 1em;
+}
+
+.numpad button.done {
+  visibility: hidden;
+}
+
+/* Fin de partie */
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  background: rgb(0 0 0 / 0.35);
+}
+
+.card {
+  background: var(--surface);
+  border-radius: 14px;
+  padding: 24px;
+  text-align: center;
+  width: min(100%, 340px);
+}
+
+.card h2 {
+  font-family: var(--serif);
+  font-size: 2rem;
+  margin: 0 0 8px;
+}
+
+.primary {
+  margin-top: 8px;
+  padding: 12px 20px;
+  border: 0;
+  border-radius: 8px;
+  background: var(--ink);
+  color: var(--paper);
+  font-weight: 600;
+}
