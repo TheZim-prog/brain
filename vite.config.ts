@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
+  // Servi par GitHub Pages sous https://thezim-prog.github.io/brain/
+  base: '/brain/',
   plugins: [
     react(),
     VitePWA({
